@@ -1,0 +1,749 @@
+CODIGO_MESA,DESCRIPCION,CODIGO_PAIS,NOMBRE_PAIS,CODIGO_DEPARTAMENTO,NOMBRE_DEPARTAMENTO,CODIGO_PROVINCIA,NOMBRE_PROVINCIA,CODIGO_SECCION,NOMBRE_MUNICIPIO,CODIGO_LOCALIDAD,NOMBRE_LOCALIDAD,CODIGO_RECINTO,NOMBRE_RECINTO,NUMERO_MESA,INSCRITOS_HABILITADOS,S.A.M.,APU,BST,C-A,FPV,FIC,INCA-FS,TCA,L.E.A.L,MAS-IPSP,MRP,MTS,PP,PAN-BOL,PDC,SUMA,UCS,UNICO,UN SOL PARA ORURO,VOTO_VALIDO,VOTO_BLANCO,VOTO_NULO,VOTO_EMITIDO,VOTO_VALIDO_SISTEMA,VOTO_EMITIDO_SISTEMA
+4000012,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,1,220,0,0,44,5,4,0,0,0,0,50,0,2,22,1,4,0,6,6,38,182,8,7,197,182,197
+4000022,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,2,220,0,0,35,8,3,0,0,0,0,44,0,5,19,5,2,0,4,8,39,172,15,9,196,172,196
+4000032,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,3,220,0,0,51,1,3,0,0,0,0,48,0,1,9,4,2,0,3,2,31,155,17,20,192,155,192
+4000042,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4,220,0,0,39,6,0,0,0,0,0,30,0,6,21,1,4,0,5,5,31,148,11,16,175,148,175
+4000062,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,6,66,0,0,16,2,0,0,0,0,0,12,0,1,4,1,3,0,2,3,9,53,4,3,60,53,60
+4000072,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,1,220,0,0,56,5,3,0,0,0,0,28,0,0,32,3,1,0,2,6,36,172,8,6,186,172,186
+4000122,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,6,172,0,0,49,4,2,0,0,0,0,14,0,1,18,6,1,0,5,12,28,140,3,10,153,140,153
+4000132,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,1,220,0,0,25,5,5,0,0,0,0,40,0,6,12,3,5,0,5,7,57,170,6,9,185,170,185
+4000152,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,3,220,0,0,41,3,6,0,0,0,0,52,0,1,13,2,2,0,3,3,41,167,12,9,188,167,188
+4000172,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,5,220,0,0,27,9,0,0,0,0,0,54,0,2,29,1,1,0,1,6,37,167,7,9,183,167,183
+4000182,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,6,26,0,0,3,2,0,0,0,0,0,5,0,1,0,0,0,0,0,0,6,17,1,2,20,17,20
+4000382,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),1,220,0,0,40,3,4,0,0,0,0,56,0,6,6,3,5,0,5,4,32,164,10,10,184,164,184
+4000392,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),2,220,0,0,27,3,6,0,0,0,0,66,0,1,18,2,6,0,6,5,26,166,11,14,191,166,191
+4000442,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),7,220,0,0,22,9,4,0,0,0,0,42,0,8,15,8,2,0,2,4,35,151,18,17,186,151,186
+4000462,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),9,220,0,0,28,4,5,0,0,0,0,50,0,5,18,1,1,0,1,6,43,162,14,11,187,162,187
+4000812,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,1,220,0,0,51,8,3,0,0,0,0,29,0,1,24,5,3,0,5,5,43,177,8,5,190,177,190
+4000832,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,3,220,0,0,37,7,2,0,0,0,0,39,0,3,22,2,4,0,5,6,42,169,7,14,190,169,190
+4000842,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,4,220,0,0,52,8,1,0,0,0,0,34,0,2,13,0,1,0,4,11,41,167,16,10,193,167,193
+4000852,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,5,220,0,0,50,11,4,0,0,0,0,37,0,2,17,2,5,0,6,7,34,175,12,6,193,175,193
+4000872,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,7,220,0,0,45,9,4,0,0,0,0,39,0,2,14,1,4,0,3,9,26,156,8,17,181,156,181
+4000892,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,1,220,0,0,20,4,2,0,0,0,0,74,0,12,15,6,3,0,4,1,28,169,10,15,194,169,194
+4000902,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,2,220,0,0,25,8,1,0,0,0,0,70,0,10,16,3,1,0,2,2,29,167,13,10,190,167,190
+4000912,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,3,220,0,0,15,6,3,0,0,0,0,82,0,7,10,5,5,0,4,2,27,166,13,14,193,166,193
+4000932,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,1,220,0,0,37,8,2,0,0,0,0,36,0,5,28,2,3,0,6,8,38,173,12,10,195,173,195
+4000942,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,2,220,0,0,47,7,2,0,0,0,0,44,0,6,18,3,1,0,3,6,33,170,9,11,190,170,190
+4000952,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,3,220,0,0,45,4,4,0,0,0,0,40,0,2,16,3,2,0,10,7,31,164,11,12,187,164,187
+4000962,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,4,220,0,0,39,2,2,0,0,0,0,42,0,6,17,3,6,0,2,3,37,159,12,11,182,159,182
+4000972,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,5,85,0,0,25,5,0,0,0,0,0,7,0,1,3,3,1,0,2,2,13,62,2,8,72,62,72
+4001052,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,8,220,0,0,40,8,6,0,0,0,0,41,0,2,15,9,2,0,2,6,33,164,11,11,186,164,186
+4001682,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),1,220,0,0,28,7,4,0,0,0,0,45,0,1,25,1,4,0,7,7,38,167,13,8,188,167,188
+4001692,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),2,220,0,0,46,5,6,0,0,0,0,46,0,2,21,2,3,0,4,6,31,172,11,5,188,172,188
+4001702,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),3,220,0,0,35,10,2,0,0,0,0,40,0,1,23,1,2,0,3,7,38,162,11,10,183,162,183
+4001712,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),4,109,0,0,20,1,2,0,0,0,0,26,0,0,12,1,1,0,1,6,13,83,2,5,90,83,90
+4001862,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,1,220,0,0,31,6,7,0,0,0,0,39,0,1,15,3,2,0,3,5,57,169,9,14,192,169,192
+4001872,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,2,220,0,0,43,7,3,0,0,0,0,38,0,3,12,2,2,0,7,4,43,164,8,12,184,164,184
+4001882,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,3,99,0,0,19,2,4,0,0,0,0,22,0,4,7,2,0,0,3,2,12,77,2,4,83,77,83
+4002052,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),1,220,0,0,28,2,7,0,0,0,0,62,0,6,12,2,4,0,2,2,52,179,8,11,198,179,198
+4002062,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),2,220,0,0,39,6,3,0,0,0,0,52,0,5,10,5,2,0,1,5,40,168,17,7,192,168,192
+4002352,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,8,220,0,0,13,5,1,0,0,0,0,78,0,4,4,10,5,0,1,13,35,169,20,5,194,169,194
+4002502,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,1,220,0,0,8,3,1,0,0,0,0,70,0,3,8,2,1,0,2,6,16,120,28,10,158,120,158
+4002512,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,2,220,0,0,7,3,1,0,0,0,0,56,0,4,4,1,0,0,6,2,28,112,29,5,146,112,146
+4002522,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,3,25,0,0,2,0,0,0,0,0,0,9,0,0,0,1,0,0,1,1,0,14,1,2,17,14,17
+4002732,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,11,220,0,0,22,6,5,0,0,0,0,75,0,2,11,4,0,0,2,9,37,173,12,11,196,173,196
+4002752,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,13,220,0,0,21,3,4,0,0,0,0,49,0,1,12,7,6,0,1,4,48,156,18,17,191,156,191
+4002762,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,14,220,0,0,27,10,5,0,0,0,0,56,0,4,14,0,5,0,4,5,35,165,16,12,193,165,193
+4002772,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,15,220,0,0,36,7,3,0,0,0,0,58,0,2,16,3,1,0,4,5,30,165,14,15,194,165,194
+4002912,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,2,220,0,0,28,6,6,0,0,0,0,55,0,4,10,3,0,0,1,4,33,150,16,17,183,150,183
+4002922,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,3,220,0,0,32,7,6,0,0,0,0,59,0,0,11,3,1,0,3,8,33,163,3,12,178,163,178
+4002932,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4,220,0,0,28,8,1,0,0,0,0,56,0,2,10,2,0,0,3,5,34,149,16,12,177,149,177
+4002952,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,6,220,0,0,32,6,4,0,0,0,0,45,0,3,20,1,3,0,4,3,33,154,16,10,180,154,180
+4002962,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,7,220,0,0,34,7,4,0,0,0,0,36,0,3,11,3,6,0,3,8,39,154,19,12,185,154,185
+4002972,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,8,220,0,0,46,5,7,0,0,0,0,38,0,5,9,4,3,0,2,4,35,158,11,8,177,158,177
+4003612,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),5,220,0,0,25,5,2,0,0,0,0,74,0,5,19,6,1,0,3,3,31,174,15,6,195,174,195
+4003632,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),7,220,0,0,21,9,1,0,0,0,0,71,0,2,7,5,4,0,2,4,30,156,16,12,184,156,184
+4003642,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),8,220,0,0,21,4,4,0,0,0,0,65,0,5,11,4,2,0,0,3,44,163,17,12,192,163,192
+4003652,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),9,220,0,0,17,1,0,0,0,0,0,73,0,3,11,7,1,0,1,7,48,169,15,12,196,169,196
+4003732,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),17,220,0,0,14,5,1,0,0,0,0,70,0,7,17,7,6,0,1,3,37,168,16,8,192,168,192
+4003772,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),21,220,0,0,22,5,3,0,0,0,0,60,0,4,16,4,1,0,4,4,43,166,17,8,191,166,191
+4003832,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,5,220,0,0,39,8,3,0,0,0,0,38,0,4,26,8,3,0,4,6,42,181,5,9,195,181,195
+4003842,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,6,220,0,0,36,7,9,0,0,0,0,41,0,1,19,2,4,0,2,11,41,173,12,11,196,173,196
+4003852,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,7,220,0,0,41,8,7,0,0,0,0,39,0,3,17,3,3,0,2,5,38,166,17,15,198,166,198
+4003862,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,8,188,0,0,29,5,3,0,0,0,0,41,0,0,16,3,0,0,8,5,38,148,10,7,165,148,165
+4004552,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,6,220,0,0,39,6,3,0,0,0,0,30,0,5,18,4,4,0,1,5,55,170,13,8,191,170,191
+4004562,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,7,220,0,0,24,12,3,0,0,0,0,54,0,2,10,4,5,0,0,7,40,161,13,16,190,161,190
+4004572,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,8,220,0,0,30,5,2,0,0,0,0,56,0,1,16,6,4,0,4,5,34,163,14,14,191,163,191
+4004582,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,9,220,0,0,38,6,4,0,0,0,0,53,0,5,15,3,4,0,4,3,34,169,20,6,195,169,195
+4004592,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,10,220,0,0,41,4,4,0,0,0,0,44,0,1,8,7,4,0,4,8,51,176,6,8,190,176,190
+4004662,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,1,220,0,0,46,5,2,0,0,0,0,36,0,1,21,5,1,0,4,7,45,173,11,17,201,173,201
+4004682,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,3,170,0,0,27,8,4,0,0,0,0,37,0,0,13,2,3,0,0,8,36,138,7,7,152,138,152
+4004692,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,1,220,0,0,35,5,7,0,0,0,0,38,0,3,26,5,3,0,2,5,40,169,15,12,196,169,196
+4004712,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,3,220,0,0,28,9,1,0,0,0,0,53,0,6,20,4,4,0,4,5,41,175,11,12,198,175,198
+4004732,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,5,220,0,0,23,6,4,0,0,0,0,58,0,2,12,2,3,0,3,6,45,164,8,18,190,164,190
+4004852,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,6,220,0,0,32,6,3,0,0,0,0,60,0,4,3,2,0,0,1,11,42,164,11,14,189,164,189
+4004862,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,7,220,0,0,29,4,7,0,0,0,0,45,0,6,14,1,7,0,3,6,39,161,15,14,190,161,190
+4004892,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,10,220,0,0,24,5,4,0,0,0,0,60,0,1,17,2,4,0,4,2,41,164,11,5,180,164,180
+4005152,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,1,97,0,0,15,6,2,0,0,0,0,26,0,0,2,1,0,0,1,1,22,76,4,5,85,76,85
+4005572,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,1,220,0,0,19,4,3,0,0,0,0,71,0,0,5,5,8,0,1,5,34,155,21,14,190,155,190
+4005582,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,2,220,0,0,29,10,6,0,0,0,0,51,0,6,14,0,10,0,1,5,26,158,9,11,178,158,178
+4005592,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,3,220,0,0,26,5,4,0,0,0,0,70,0,1,15,3,3,0,2,4,22,155,16,19,190,155,190
+4005612,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,5,220,0,0,26,5,4,0,0,0,0,68,0,1,13,3,4,0,1,3,35,163,8,13,184,163,184
+4005642,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,8,220,0,0,39,6,2,0,0,0,0,59,0,1,16,3,2,0,0,8,25,161,14,12,187,161,187
+4005822,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),1,220,0,0,30,1,2,0,0,0,0,62,0,8,11,9,3,0,4,7,24,161,27,11,199,161,199
+4005832,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),2,220,0,0,32,7,6,0,0,0,0,63,0,4,14,3,3,0,8,5,35,180,14,7,201,180,201
+4005842,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),3,220,0,0,29,3,2,0,0,0,0,76,0,2,20,1,4,0,2,1,26,166,26,6,198,166,198
+4005852,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),4,175,0,0,20,5,3,0,0,0,0,48,0,4,19,4,4,0,6,4,25,142,8,5,155,142,155
+4006322,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,1,220,0,0,21,9,2,0,0,0,0,73,0,3,9,2,4,0,3,7,31,164,22,15,201,164,201
+4006332,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,2,220,0,0,16,6,4,0,0,0,0,89,0,0,17,2,5,0,0,6,22,167,19,7,193,167,193
+4006352,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4,220,0,0,24,3,2,0,0,0,0,84,0,0,11,7,4,0,0,4,26,165,19,16,200,165,200
+4006482,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,1,128,0,0,17,1,1,0,0,0,0,35,0,1,1,1,1,0,0,0,12,70,10,6,86,70,86
+4007262,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,26490,U.E. Juan Lechin Oquendo 2,1,230,0,0,34,2,3,0,0,0,0,70,0,6,22,9,2,0,4,6,29,187,13,17,217,187,217
+4008142,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,16,220,0,0,39,10,4,0,0,0,0,62,0,2,17,3,4,0,3,3,25,172,12,8,192,172,192
+4008152,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,17,220,0,0,27,1,8,0,0,0,0,47,0,5,14,6,5,0,1,6,49,169,10,12,191,169,191
+4008172,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,19,220,0,0,27,0,0,0,0,0,0,46,0,7,0,6,3,0,12,7,43,151,9,35,195,151,195
+4008182,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,20,220,0,0,42,6,4,0,0,0,0,62,0,2,10,2,4,0,6,5,41,184,9,6,199,184,199
+4008412,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),2,220,0,0,22,5,3,0,0,0,0,73,0,3,16,2,6,0,0,2,27,159,21,14,194,159,194
+4008452,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),6,130,0,0,7,1,2,0,0,0,0,46,0,1,4,4,2,0,2,0,14,83,12,9,104,83,104
+4008502,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),5,220,0,0,38,6,5,0,0,0,0,47,0,7,16,5,4,0,2,4,49,183,7,8,198,183,198
+4008532,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),8,220,0,0,36,9,1,0,0,0,0,52,0,5,18,5,9,0,3,3,36,177,10,10,197,177,197
+4008542,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),9,220,0,0,51,5,2,0,0,0,0,45,0,4,11,2,5,0,8,4,36,173,17,8,198,173,198
+4008852,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,1,220,0,0,14,3,1,0,0,0,0,118,0,0,8,4,2,0,1,1,10,162,30,7,199,162,199
+4008872,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,3,220,0,0,15,6,2,0,0,0,0,114,0,7,0,3,0,0,1,1,8,157,21,11,189,157,189
+4008882,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4,220,0,0,11,1,2,0,0,0,0,114,0,3,6,4,4,0,1,3,9,158,14,10,182,158,182
+4008922,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,8,220,0,0,10,0,3,0,0,0,0,123,0,1,3,3,2,0,1,1,11,158,23,9,190,158,190
+4008942,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,10,220,0,0,9,3,1,0,0,0,0,130,0,3,7,4,2,0,1,2,11,173,17,11,201,173,201
+4008952,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,11,220,0,0,17,3,1,0,0,0,0,120,0,2,2,3,4,0,3,3,12,170,21,10,201,170,201
+4008962,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,12,220,0,0,10,3,0,0,0,0,0,113,0,5,3,0,1,0,1,3,11,150,24,14,188,150,188
+4008972,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,13,220,0,0,9,2,1,0,0,0,0,125,0,4,6,5,1,0,2,2,12,169,14,7,190,169,190
+4008982,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,14,220,0,0,14,0,2,0,0,0,0,113,0,4,3,2,6,0,2,1,12,159,20,25,204,159,204
+4009212,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,8,220,0,0,13,4,5,0,0,0,0,109,0,0,12,1,3,0,6,3,14,170,15,9,194,170,194
+4009222,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,9,220,0,0,13,4,3,0,0,0,0,92,0,0,12,4,3,0,2,7,24,164,15,12,191,164,191
+4009232,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,10,220,0,0,19,0,4,0,0,0,0,104,0,3,6,2,2,0,2,4,15,161,17,10,188,161,188
+4009242,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,11,220,0,0,21,1,2,0,0,0,0,109,0,3,6,3,2,0,1,3,17,168,15,11,194,168,194
+4009252,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,12,220,0,0,15,3,1,0,0,0,0,94,0,6,11,2,6,0,1,0,25,164,18,10,192,164,192
+4009262,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,13,136,0,0,10,1,2,0,0,0,0,68,0,0,6,0,3,0,2,1,13,106,12,2,120,106,120
+4009382,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,1,141,0,0,9,2,1,0,0,0,0,76,0,1,7,1,2,0,1,1,11,112,13,7,132,112,132
+4009722,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,7,220,0,0,11,6,4,0,0,0,0,57,0,7,31,4,1,0,4,7,30,162,20,9,191,162,191
+4009732,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,8,220,0,0,24,8,2,0,0,0,0,50,0,3,41,4,4,0,2,3,26,167,11,11,189,167,189
+4009752,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,10,220,0,0,13,5,0,0,0,0,0,54,0,5,26,4,2,0,1,4,38,152,15,16,183,152,183
+4009762,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,11,220,0,0,27,1,4,0,0,0,0,54,0,10,31,3,2,0,1,0,24,157,15,12,184,157,184
+4009772,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,12,62,0,0,5,0,2,0,0,0,0,21,0,1,6,0,0,0,0,0,11,46,5,5,56,46,56
+4009782,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,1,220,0,0,21,5,1,0,0,0,0,65,0,4,27,5,2,0,4,6,18,158,18,14,190,158,190
+4009792,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,2,220,0,0,19,7,3,0,0,0,0,73,0,14,28,1,5,0,2,3,23,178,7,9,194,178,194
+4009812,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4,220,0,0,15,2,1,0,0,0,0,77,0,2,18,2,4,0,5,10,30,166,13,4,183,166,183
+4009832,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,6,220,0,0,32,6,1,0,0,0,0,62,0,5,30,6,3,0,1,8,27,181,9,6,196,181,196
+4009842,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,7,51,0,0,4,1,1,0,0,0,0,15,0,0,4,3,1,0,0,2,7,38,4,1,43,38,43
+4009852,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,1,220,0,0,29,7,3,0,0,0,0,57,0,6,39,4,1,0,4,6,21,177,15,7,199,177,199
+4009862,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,2,220,0,0,25,5,1,0,0,0,0,62,0,11,36,5,5,0,0,6,20,176,11,7,194,176,194
+4009872,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,3,220,0,0,21,5,0,0,0,0,0,69,0,5,30,3,2,0,5,4,29,173,11,9,193,173,193
+4009882,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4,220,0,0,19,3,5,0,0,0,0,57,0,3,36,4,2,0,4,3,31,167,18,11,196,167,196
+4009892,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,5,220,0,0,20,5,3,0,0,0,0,67,0,4,35,5,3,0,4,3,20,169,6,10,185,169,185
+4009942,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),1,220,0,0,17,1,5,0,0,0,0,71,0,8,23,3,5,0,0,2,25,160,19,9,188,160,188
+4009952,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),2,220,0,0,13,1,0,0,0,0,0,57,0,0,25,3,1,0,6,6,44,156,16,12,184,156,184
+4009962,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),3,220,0,0,19,7,3,0,0,0,0,71,0,0,37,8,5,0,0,1,28,179,16,5,200,179,200
+4009982,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),5,220,0,0,12,7,1,0,0,0,0,75,0,0,33,3,1,0,1,0,31,164,14,13,191,164,191
+4010382,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),8,67,0,0,3,0,0,0,0,0,0,26,0,9,10,0,1,0,0,0,1,50,4,1,55,50,55
+4010452,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,7,220,0,0,28,4,6,0,0,0,0,52,0,4,41,3,2,0,0,9,26,175,11,5,191,175,191
+4010472,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,9,220,0,0,23,3,1,0,0,0,0,54,0,3,49,8,2,0,0,5,24,172,8,5,185,172,185
+4010482,GOBERNADOR(A),32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,10,220,0,0,38,4,3,0,0,0,0,40,0,1,37,2,5,0,5,3,34,172,8,7,187,172,187
+4000012,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,1,220,0,0,29,0,0,0,0,0,0,39,0,0,0,4,6,0,5,12,44,139,48,10,197,139,197
+4000022,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,2,220,0,0,25,0,0,0,0,0,0,31,0,0,0,14,5,0,7,14,41,137,40,19,196,137,196
+4000032,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,3,220,0,0,40,0,0,0,0,0,0,32,0,0,0,15,4,0,6,11,27,135,30,27,192,135,192
+4000042,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4,220,0,0,24,0,0,0,0,0,0,18,0,0,0,3,4,0,9,15,42,115,38,22,175,115,175
+4000062,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,6,66,0,0,12,0,0,0,0,0,0,8,0,0,0,2,3,0,2,5,9,41,13,6,60,41,60
+4000072,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,1,220,0,0,46,0,0,0,0,0,0,18,0,1,0,14,4,0,8,6,40,137,39,10,186,137,186
+4000122,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,6,172,0,0,36,0,0,0,0,0,0,10,0,0,0,8,3,0,5,12,35,109,31,13,153,109,153
+4000132,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,1,220,0,0,20,0,0,0,0,0,0,30,0,0,0,5,4,0,5,12,56,132,40,13,185,132,185
+4000152,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,3,220,0,0,25,0,0,0,0,0,0,36,0,0,0,8,2,0,5,19,40,135,42,11,188,135,188
+4000172,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,5,220,0,0,23,0,0,0,0,0,0,35,0,0,0,9,3,0,3,12,37,122,49,12,183,122,183
+4000182,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,6,26,0,0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,9,14,3,3,20,14,20
+4000382,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),1,220,0,0,26,0,0,0,0,0,0,42,0,0,0,12,7,0,7,7,25,126,34,24,184,126,184
+4000392,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),2,220,0,0,13,0,0,0,0,0,0,56,0,0,0,4,3,0,13,13,32,134,39,18,191,134,191
+4000442,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),7,220,0,0,17,0,0,0,0,0,0,34,0,0,0,12,3,0,6,11,37,120,42,24,186,120,186
+4000462,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),9,220,0,0,25,0,0,0,0,0,0,36,0,0,0,8,2,0,5,12,48,136,38,13,187,136,187
+4000812,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,1,220,0,0,32,0,0,0,0,0,0,18,0,0,0,7,4,0,7,13,46,127,52,11,190,127,190
+4000832,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,3,220,0,0,31,0,0,0,0,0,0,23,0,0,0,5,4,0,8,11,49,131,39,20,190,131,190
+4000842,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,4,220,0,0,40,0,0,0,0,0,0,25,0,0,0,3,1,0,6,12,45,132,43,18,193,132,193
+4000852,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,5,220,0,0,35,0,0,0,0,0,0,22,0,0,0,10,8,0,13,13,41,142,41,10,193,142,193
+4000872,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,7,220,0,0,36,0,0,0,0,0,0,32,0,0,0,8,7,0,4,12,28,127,38,16,181,127,181
+4000892,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,1,220,0,0,14,0,0,0,0,0,0,68,0,0,0,11,8,0,11,10,23,145,31,18,194,145,194
+4000902,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,2,220,0,0,17,0,0,0,0,0,0,63,0,0,0,3,3,0,2,9,23,120,49,21,190,120,190
+4000912,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,3,220,0,0,13,0,0,0,0,0,0,70,0,0,0,4,5,0,6,10,24,132,46,15,193,132,193
+4000932,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,1,220,0,0,33,0,0,0,0,0,0,22,0,0,0,11,6,0,10,11,29,122,58,15,195,122,195
+4000942,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,2,220,0,0,35,0,0,0,0,0,0,40,0,0,0,8,3,0,7,8,33,134,40,16,190,134,190
+4000952,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,3,220,0,0,30,0,0,0,0,0,0,32,0,0,0,10,7,0,8,14,30,131,36,20,187,131,187
+4000962,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,4,220,0,0,24,0,0,0,0,0,0,30,0,0,0,7,9,0,1,11,36,118,46,18,182,118,182
+4000972,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,5,85,0,0,13,0,0,0,0,0,0,6,0,0,0,7,1,0,6,6,10,49,15,8,72,49,72
+4001052,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,8,220,0,0,23,0,0,0,0,0,0,30,0,0,0,14,3,0,9,8,39,126,43,17,186,126,186
+4001682,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),1,220,0,0,26,0,0,0,0,0,0,33,0,0,0,13,5,0,10,10,33,130,43,15,188,130,188
+4001692,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),2,220,0,0,35,0,0,0,0,0,0,30,0,0,0,14,4,0,6,11,30,130,45,13,188,130,188
+4001702,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),3,220,0,0,23,0,0,0,0,0,0,20,0,0,0,10,3,0,7,12,43,118,50,15,183,118,183
+4001712,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),4,109,0,0,11,0,0,0,0,0,0,15,0,0,0,2,0,0,4,14,14,60,24,6,90,60,90
+4001862,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,1,220,0,0,25,0,0,0,0,0,0,28,0,0,0,11,3,0,5,12,53,137,40,15,192,137,192
+4001872,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,2,220,0,0,32,0,0,0,0,0,0,21,0,0,0,7,3,0,5,16,45,129,38,17,184,129,184
+4001882,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,3,99,0,0,13,0,0,0,0,0,0,16,0,0,0,6,0,0,6,3,13,57,14,12,83,57,83
+4002052,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),1,220,0,0,19,0,0,0,0,0,0,46,0,0,0,10,6,0,8,7,46,142,36,20,198,142,198
+4002062,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),2,220,0,0,20,0,0,0,0,0,0,35,0,0,0,10,5,0,6,12,45,133,44,15,192,133,192
+4002352,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,8,220,0,0,15,0,0,0,0,0,0,65,0,4,0,10,6,0,1,13,38,152,34,8,194,152,194
+4002502,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,1,220,0,0,5,0,0,0,0,0,0,72,0,0,0,1,1,0,4,9,9,101,47,10,158,101,158
+4002512,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,2,220,0,0,2,0,0,0,0,0,0,52,0,0,0,3,1,0,7,12,12,89,44,13,146,89,146
+4002522,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,3,25,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,2,0,3,12,5,0,17,12,17
+4002732,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,11,220,0,0,11,0,0,0,0,0,0,59,0,0,0,12,3,0,8,24,26,143,39,14,196,143,196
+4002752,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,13,220,0,0,16,0,0,0,0,0,0,43,0,0,0,3,3,0,5,15,46,131,38,22,191,131,191
+4002762,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,14,220,0,0,14,0,0,0,0,0,0,46,0,0,0,5,8,0,9,12,36,130,44,19,193,130,193
+4002772,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,15,220,0,0,31,0,0,0,0,0,0,39,0,0,0,7,4,0,7,10,31,129,40,25,194,129,194
+4002912,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,2,220,0,0,22,0,0,0,0,0,0,42,0,0,0,6,5,0,4,13,35,127,39,17,183,127,183
+4002922,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,3,220,0,0,21,0,0,0,0,0,0,41,0,0,0,8,4,0,11,14,30,129,34,15,178,129,178
+4002932,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4,220,0,0,24,0,0,0,0,0,0,42,0,0,0,10,0,0,5,15,23,119,44,14,177,119,177
+4002952,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,6,220,0,0,20,0,0,0,0,0,0,36,0,0,0,6,7,0,4,9,38,120,51,9,180,120,180
+4002962,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,7,220,0,0,18,0,0,0,0,0,0,24,0,0,0,6,10,0,5,18,36,117,54,14,185,117,185
+4002972,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,8,220,0,0,28,0,0,0,0,0,0,34,0,0,0,7,1,0,6,15,27,118,40,19,177,118,177
+4003612,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),5,220,0,0,23,0,0,0,0,0,0,62,0,0,0,5,2,0,5,13,31,141,41,13,195,141,195
+4003632,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),7,220,0,0,13,0,0,0,0,0,0,64,0,0,0,10,4,0,4,12,28,135,35,14,184,135,184
+4003642,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),8,220,0,0,13,0,0,0,0,0,0,51,0,0,0,7,3,0,2,15,40,131,44,17,192,131,192
+4003652,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),9,220,0,0,12,0,0,0,0,0,0,61,0,0,0,4,3,0,1,19,40,140,39,17,196,140,196
+4003732,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),17,220,0,0,10,0,0,0,0,0,0,64,0,3,0,7,3,0,5,8,31,131,52,9,192,131,192
+4003772,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),21,220,0,0,11,0,0,0,0,0,0,48,0,0,0,7,3,0,6,9,40,124,53,14,191,124,191
+4003832,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,5,220,0,0,32,0,0,0,0,0,0,31,0,0,0,14,8,0,6,7,48,146,37,12,195,146,195
+4003842,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,6,220,0,0,31,0,0,0,0,0,0,31,0,1,0,11,4,0,10,13,36,137,43,16,196,137,196
+4003852,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,7,220,0,0,24,0,0,0,0,0,0,28,0,0,0,10,5,0,6,12,47,132,43,23,198,132,198
+4003862,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,8,188,0,0,20,0,0,0,0,0,0,33,0,2,0,11,3,0,9,10,36,124,34,7,165,124,165
+4004552,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,6,220,0,0,29,0,0,0,0,0,0,19,0,0,0,11,8,0,3,13,42,125,51,15,191,125,191
+4004562,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,7,220,0,0,15,0,0,0,0,0,0,38,0,0,0,9,4,0,6,16,35,123,50,17,190,123,190
+4004572,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,8,220,0,0,28,0,0,0,0,0,0,48,0,0,0,8,5,0,6,10,26,131,42,18,191,131,191
+4004582,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,9,220,0,0,28,0,0,0,0,0,0,38,0,0,0,6,7,0,7,12,37,135,50,10,195,135,195
+4004592,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,10,220,0,0,33,0,0,0,0,0,0,39,0,0,0,10,4,0,6,11,44,147,32,11,190,147,190
+4004662,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,1,220,0,0,40,0,0,0,0,0,0,22,0,0,0,8,5,0,6,12,43,136,43,22,201,136,201
+4004682,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,3,170,0,0,14,0,0,0,0,0,0,29,0,0,0,9,6,0,0,8,41,107,35,10,152,107,152
+4004692,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,1,220,0,0,27,0,0,0,0,0,0,29,0,0,0,9,5,0,5,15,40,130,45,21,196,130,196
+4004712,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,3,220,0,0,16,0,0,0,0,0,0,37,0,0,0,15,3,0,8,14,43,136,45,17,198,136,198
+4004732,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,5,220,0,0,16,0,0,0,0,0,0,44,0,0,0,5,4,0,4,12,51,136,37,17,190,136,190
+4004852,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,6,220,0,0,18,0,0,0,0,0,0,43,0,0,0,9,3,0,1,23,37,134,37,18,189,134,189
+4004862,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,7,220,0,0,24,0,0,0,0,0,0,27,0,0,0,6,9,0,6,16,27,115,55,20,190,115,190
+4004892,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,10,220,0,0,17,0,0,0,0,0,0,39,0,0,0,8,9,0,7,11,41,132,41,7,180,132,180
+4005152,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,1,97,0,0,10,0,0,0,0,0,0,21,0,0,0,3,0,0,2,2,23,61,16,8,85,61,85
+4005572,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,1,220,0,0,11,0,0,0,0,0,0,53,0,0,0,5,7,0,5,15,36,132,40,18,190,132,190
+4005582,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,2,220,0,0,16,0,0,0,0,0,0,38,0,0,0,6,9,0,8,13,26,116,43,19,178,116,178
+4005592,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,3,220,0,0,12,0,0,0,0,0,0,60,0,0,0,4,5,0,5,12,27,125,42,23,190,125,190
+4005612,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,5,220,0,0,24,0,0,0,0,0,0,60,0,0,0,3,7,0,3,8,27,132,36,16,184,132,184
+4005642,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,8,220,0,0,23,0,0,0,0,0,0,47,0,0,0,7,5,0,4,17,22,125,46,16,187,125,187
+4005822,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),1,220,0,0,14,0,0,0,0,0,0,59,0,0,0,6,3,0,4,18,23,127,52,20,199,127,199
+4005832,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),2,220,0,0,23,0,0,0,0,0,0,47,0,0,0,6,3,0,9,14,32,134,53,14,201,134,201
+4005842,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),3,220,0,0,23,0,0,0,0,0,0,51,0,0,0,4,5,0,9,16,29,137,46,15,198,137,198
+4005852,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),4,175,0,0,16,0,0,0,0,0,0,39,0,0,0,10,2,0,8,7,19,101,50,4,155,101,155
+4006322,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,1,220,0,0,21,0,0,0,0,0,0,56,0,0,0,4,8,0,2,19,25,135,48,18,201,135,201
+4006332,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,2,220,0,0,11,0,0,0,0,0,0,72,0,0,0,6,4,0,1,19,24,137,45,11,193,137,193
+4006352,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4,220,0,0,16,0,0,0,0,0,0,78,0,0,0,4,6,0,2,6,17,129,55,16,200,129,200
+4006482,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,1,128,0,0,7,0,0,0,0,0,0,35,0,0,0,3,1,0,1,4,7,58,22,6,86,58,86
+4007262,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,26490,U.E. Juan Lechin Oquendo 2,1,230,0,0,21,0,0,0,0,0,0,60,0,0,0,13,3,0,9,20,35,161,35,21,217,161,217
+4008142,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,16,220,0,0,30,0,0,0,0,0,0,46,0,0,0,8,4,0,5,11,40,144,32,16,192,144,192
+4008152,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,17,220,0,0,24,0,0,0,0,0,0,37,0,0,0,9,4,0,4,8,50,136,34,21,191,136,191
+4008172,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,19,220,0,0,18,0,0,0,0,0,0,41,0,0,0,11,4,0,14,22,52,162,14,19,195,162,195
+4008182,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,20,220,0,0,27,0,0,0,0,0,0,44,0,0,0,10,7,0,11,16,38,153,35,11,199,153,199
+4008412,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),2,220,0,0,20,0,0,0,0,0,0,66,0,0,0,5,5,0,5,15,25,141,36,17,194,141,194
+4008452,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),6,130,0,0,5,0,0,0,0,0,0,38,0,0,0,1,2,0,3,2,15,66,25,13,104,66,104
+4008502,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),5,220,0,0,25,0,0,0,0,0,0,39,0,0,0,8,6,0,4,16,49,147,36,15,198,147,198
+4008532,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),8,220,0,0,17,0,0,0,0,0,0,46,0,0,0,10,8,0,6,12,29,128,48,21,197,128,197
+4008542,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),9,220,0,0,32,0,0,0,0,0,0,39,0,0,0,11,3,0,11,13,32,141,44,13,198,141,198
+4008852,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,1,220,0,0,8,0,0,0,0,0,0,99,0,0,0,7,5,0,4,7,6,136,52,11,199,136,199
+4008872,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,3,220,0,0,6,0,0,0,0,0,0,97,0,0,0,3,4,0,2,4,8,124,50,15,189,124,189
+4008882,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4,220,0,0,8,0,0,0,0,0,0,84,0,0,0,4,4,0,5,6,11,122,52,8,182,122,182
+4008922,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,8,220,0,0,5,0,0,0,0,0,0,94,0,0,0,2,2,0,5,6,12,126,55,9,190,126,190
+4008942,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,10,220,0,0,6,0,0,0,0,0,0,114,0,0,0,1,1,0,2,12,10,146,47,8,201,146,201
+4008952,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,11,220,0,0,14,0,0,0,0,0,0,111,0,0,0,5,4,0,4,10,11,159,32,10,201,159,201
+4008962,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,12,220,0,0,5,0,0,0,0,0,0,100,0,0,0,1,1,0,2,9,15,133,40,15,188,133,188
+4008972,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,13,220,0,0,7,0,0,0,0,0,0,100,0,0,0,3,0,0,3,12,8,133,50,7,190,133,190
+4008982,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,14,220,0,0,10,0,0,0,0,0,0,104,0,0,0,3,8,0,2,9,10,146,36,22,204,146,204
+4009212,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,8,220,0,0,8,0,0,0,0,0,0,84,0,0,0,2,4,0,7,12,12,129,58,7,194,129,194
+4009222,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,9,220,0,0,12,0,0,0,0,0,0,70,0,0,0,4,6,0,3,14,25,134,45,12,191,134,191
+4009232,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,10,220,0,0,9,0,0,0,0,0,0,87,0,0,0,2,5,0,3,10,17,133,41,14,188,133,188
+4009242,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,11,220,0,0,7,0,0,0,0,0,0,89,0,0,0,3,4,0,5,10,15,133,51,10,194,133,194
+4009252,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,12,220,0,0,9,0,0,0,0,0,0,87,0,0,0,1,4,0,5,8,21,135,44,13,192,135,192
+4009262,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,13,136,0,0,4,0,0,0,0,0,0,55,0,0,0,2,5,0,2,8,8,84,35,1,120,84,120
+4009382,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,1,141,0,0,5,0,0,0,0,0,0,61,0,0,0,1,4,0,2,8,8,89,37,6,132,89,132
+4009722,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,7,220,0,0,6,0,0,0,0,0,0,46,0,0,0,5,4,0,7,20,31,119,59,13,191,119,191
+4009732,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,8,220,0,0,13,0,0,0,0,0,0,39,0,0,0,9,8,0,5,13,32,119,51,19,189,119,189
+4009752,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,10,220,0,0,12,0,0,0,0,0,0,40,0,0,0,6,3,0,4,12,30,107,54,22,183,107,183
+4009762,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,11,220,0,0,26,0,0,0,0,0,0,38,0,0,0,7,2,0,2,10,33,118,47,19,184,118,184
+4009772,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,12,62,0,0,9,0,0,0,0,0,0,17,0,0,0,0,0,0,0,3,11,40,14,2,56,40,56
+4009782,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,1,220,0,0,14,0,0,0,0,0,0,53,0,0,0,5,2,0,3,15,19,111,55,24,190,111,190
+4009792,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,2,220,0,0,19,0,0,0,0,0,0,58,0,0,0,2,7,0,7,13,26,132,44,18,194,132,194
+4009812,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4,220,0,0,15,0,0,0,0,0,0,53,0,0,0,8,4,0,7,12,32,131,44,8,183,131,183
+4009832,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,6,220,0,0,21,0,0,0,0,0,0,46,0,0,0,6,2,0,2,16,36,129,56,11,196,129,196
+4009842,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,7,51,0,0,3,0,0,0,0,0,0,16,0,0,0,1,1,0,0,8,5,34,7,2,43,34,43
+4009852,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,1,220,0,0,20,0,0,0,0,0,0,46,0,0,0,6,3,0,12,18,19,124,60,15,199,124,199
+4009862,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,2,220,0,0,13,0,0,0,0,0,0,50,0,0,0,9,7,0,2,10,33,124,55,15,194,124,194
+4009872,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,3,220,0,0,15,0,0,0,0,0,0,58,0,0,0,5,1,0,5,13,36,133,43,17,193,133,193
+4009882,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4,220,0,0,14,0,0,0,0,0,0,52,0,0,0,13,5,0,10,14,33,141,43,12,196,141,196
+4009892,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,5,220,0,0,19,0,0,0,0,0,0,54,0,0,0,10,4,0,6,12,26,131,36,18,185,131,185
+4009942,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),1,220,0,0,6,0,0,0,0,0,0,65,0,0,0,2,7,0,4,13,28,125,43,20,188,125,188
+4009952,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),2,220,0,0,10,0,0,0,0,0,0,43,0,0,0,7,5,0,6,12,42,125,39,20,184,125,184
+4009962,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),3,220,0,0,14,0,0,0,0,0,0,62,0,0,0,11,8,0,6,14,30,145,41,14,200,145,200
+4009982,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),5,220,0,0,7,0,0,0,0,0,0,65,0,0,0,6,1,0,4,13,27,123,51,17,191,123,191
+4010382,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),8,67,0,0,1,0,0,0,0,0,0,19,0,0,0,3,0,0,2,2,6,33,15,7,55,33,55
+4010452,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,7,220,0,0,22,0,0,0,0,0,0,43,0,0,0,7,3,0,5,22,28,130,48,13,191,130,191
+4010472,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,9,220,0,0,19,0,0,0,0,0,0,48,0,0,0,13,6,0,3,7,26,122,54,9,185,122,185
+4010482,ASAMBLEISTA TERRITORIO,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,10,220,0,0,32,0,0,0,0,0,0,28,0,0,0,10,9,0,7,12,32,130,40,17,187,130,187
+4000012,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,1,220,0,0,44,5,4,0,0,0,0,50,0,2,22,1,4,0,6,6,38,182,8,7,197,182,197
+4000022,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,2,220,0,0,18,4,4,0,0,0,0,29,0,5,14,9,4,0,5,8,37,137,50,9,196,137,196
+4000032,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,3,220,0,0,33,2,5,0,0,0,0,33,0,3,9,6,3,0,3,2,29,128,40,24,192,128,192
+4000042,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4,220,0,0,23,6,2,0,0,0,0,19,0,4,10,3,6,0,3,2,33,111,47,17,175,111,175
+4000062,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,6,66,0,0,9,3,1,0,0,0,0,9,0,3,3,1,4,0,3,2,8,46,11,3,60,46,60
+4000072,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,1,220,0,0,37,12,7,0,0,0,0,15,0,2,16,8,6,0,2,5,35,145,33,8,186,145,186
+4000122,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,6,172,0,0,30,3,4,0,0,0,0,10,0,1,9,5,4,0,3,5,34,108,36,9,153,108,153
+4000132,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,1,220,0,0,19,9,7,0,0,0,0,25,0,3,6,3,7,0,3,6,49,137,44,4,185,137,185
+4000152,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,3,220,0,0,16,8,5,0,0,0,0,39,0,3,4,6,7,0,2,2,36,128,50,10,188,128,188
+4000172,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,5,220,0,0,15,4,2,0,0,0,0,29,0,4,19,4,5,0,4,3,31,120,56,7,183,120,183
+4000182,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,6,26,0,0,3,2,0,0,0,0,0,5,0,1,0,0,0,0,0,0,6,17,1,2,20,17,20
+4000382,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),1,220,0,0,20,3,7,0,0,0,0,42,0,11,4,8,4,0,3,3,25,130,42,12,184,130,184
+4000392,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),2,220,0,0,14,6,5,0,0,0,0,49,0,3,9,5,6,0,3,5,28,133,49,9,191,133,191
+4000442,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),7,220,0,0,16,7,4,0,0,0,0,29,0,8,15,7,3,0,2,4,33,128,44,14,186,128,186
+4000462,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),9,220,0,0,17,5,6,0,0,0,0,33,0,3,12,5,5,0,5,4,41,136,46,5,187,136,187
+4000812,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,1,220,0,0,26,7,5,0,0,0,0,18,0,3,12,6,4,0,7,5,41,134,50,6,190,134,190
+4000832,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,3,220,0,0,25,13,5,0,0,0,0,24,0,6,14,3,1,0,4,5,35,135,42,13,190,135,190
+4000842,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,4,220,0,0,30,12,7,0,0,0,0,25,0,5,7,1,4,0,3,0,42,136,48,9,193,136,193
+4000852,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,5,220,0,0,26,5,11,0,0,0,0,18,0,1,13,5,6,0,8,5,37,135,51,7,193,135,193
+4000872,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,7,220,0,0,31,12,6,0,0,0,0,29,0,1,5,3,5,0,4,7,19,122,47,12,181,122,181
+4000892,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,1,220,0,0,13,6,3,0,0,0,0,55,0,8,12,4,9,0,7,2,20,139,44,11,194,139,194
+4000902,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,2,220,0,0,15,4,4,0,0,0,0,55,0,10,9,0,6,0,2,2,18,125,58,7,190,125,190
+4000912,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,3,220,0,0,8,4,4,0,0,0,0,57,0,8,7,1,5,0,3,6,23,126,61,6,193,126,193
+4000932,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,1,220,0,0,21,7,6,0,0,0,0,23,0,3,17,7,6,0,9,3,26,128,56,11,195,128,195
+4000942,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,2,220,0,0,29,9,7,0,0,0,0,32,0,3,7,3,5,0,8,5,30,138,44,8,190,138,190
+4000952,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,3,220,0,0,25,6,3,0,0,0,0,31,0,4,9,5,7,0,9,6,28,133,45,9,187,133,187
+4000962,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,4,220,0,0,21,4,7,0,0,0,0,32,0,4,10,2,8,0,2,3,30,123,49,10,182,123,182
+4000972,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,5,85,0,0,12,5,0,0,0,0,0,6,0,3,1,4,2,0,4,0,11,48,17,7,72,48,72
+4001052,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,8,220,0,0,21,14,2,0,0,0,0,25,0,1,9,9,5,0,3,2,31,122,51,13,186,122,186
+4001682,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),1,220,0,0,14,7,9,0,0,0,0,25,0,3,15,3,6,0,5,7,38,132,49,7,188,132,188
+4001692,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),2,220,0,0,29,3,9,0,0,0,0,29,0,1,14,8,5,0,3,2,25,128,51,9,188,128,188
+4001702,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),3,220,0,0,18,12,3,0,0,0,0,19,0,3,12,4,4,0,4,2,36,117,57,9,183,117,183
+4001712,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),4,109,0,0,13,4,2,0,0,0,0,10,0,2,5,1,1,0,2,3,18,61,27,2,90,61,90
+4001862,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,1,220,0,0,19,12,8,0,0,0,0,26,0,1,12,7,5,0,3,3,43,139,43,10,192,139,192
+4001872,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,2,220,0,0,30,9,1,0,0,0,0,19,0,3,6,5,3,0,7,6,37,126,45,13,184,126,184
+4001882,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,3,99,0,0,12,5,3,0,0,0,0,11,0,3,5,7,1,0,3,1,10,61,15,7,83,61,83
+4002052,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),1,220,0,0,18,6,0,0,0,0,0,45,0,0,9,5,7,0,6,3,42,141,43,14,198,141,198
+4002062,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),2,220,0,0,12,7,6,0,0,0,0,28,0,7,5,3,7,0,4,3,38,120,66,6,192,120,192
+4002352,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25046,U.E. Marcelo Quiroga Santa Cruz,8,220,0,0,8,6,2,0,0,0,0,58,0,2,2,9,6,0,2,10,28,133,57,4,194,133,194
+4002502,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,1,220,0,0,2,0,4,0,0,0,0,52,0,0,5,1,2,0,6,2,5,79,73,6,158,79,158
+4002512,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,2,220,0,0,3,1,0,0,0,0,0,43,0,4,4,2,2,0,9,6,13,87,55,4,146,87,146
+4002522,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,3,25,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1,8,9,0,17,8,17
+4002732,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,11,220,0,0,8,5,6,0,0,0,0,49,0,3,11,2,5,0,2,6,23,120,68,8,196,120,196
+4002752,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,13,220,0,0,10,4,10,0,0,0,0,36,0,3,7,4,7,0,3,3,36,123,59,9,191,123,191
+4002762,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,14,220,0,0,15,10,7,0,0,0,0,39,0,4,4,1,7,0,6,3,25,121,61,11,193,121,193
+4002772,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,15,220,0,0,17,8,4,0,0,0,0,39,0,4,11,3,7,0,6,3,21,123,63,8,194,123,194
+4002912,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,2,220,0,0,17,3,4,0,0,0,0,32,0,2,10,6,4,0,6,6,24,114,56,13,183,114,183
+4002922,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,3,220,0,0,16,10,7,0,0,0,0,40,0,2,2,4,1,0,6,5,33,126,40,12,178,126,178
+4002932,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4,220,0,0,15,10,1,0,0,0,0,35,0,4,8,4,0,0,2,8,25,112,53,12,177,112,177
+4002952,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,6,220,0,0,19,7,7,0,0,0,0,28,0,2,8,3,7,0,6,2,23,112,59,9,180,112,180
+4002962,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,7,220,0,0,15,12,3,0,0,0,0,25,0,5,9,2,10,0,2,6,34,123,54,8,185,123,185
+4002972,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,8,220,0,0,25,2,11,0,0,0,0,28,0,6,4,3,3,0,5,5,25,117,55,5,177,117,177
+4003612,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),5,220,0,0,17,5,1,0,0,0,0,52,0,5,12,3,1,0,5,1,18,120,71,4,195,120,195
+4003632,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),7,220,0,0,15,3,2,0,0,0,0,51,0,7,7,2,4,0,1,3,23,118,59,7,184,118,184
+4003642,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),8,220,0,0,7,6,5,0,0,0,0,42,0,6,6,9,3,0,2,3,31,120,65,7,192,120,192
+4003652,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),9,220,0,0,10,2,4,0,0,0,0,51,0,3,7,5,1,0,2,4,33,122,61,13,196,122,196
+4003732,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),17,220,0,0,12,4,1,0,0,0,0,50,0,6,11,6,6,0,3,4,21,124,63,5,192,124,192
+4003772,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),21,220,0,0,7,5,6,0,0,0,0,42,0,3,9,4,3,0,4,3,33,119,63,9,191,119,191
+4003832,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,5,220,0,0,21,13,7,0,0,0,0,26,0,3,18,13,8,0,4,3,31,147,41,7,195,147,195
+4003842,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,6,220,0,0,22,7,9,0,0,0,0,25,0,3,15,2,8,0,7,3,29,130,52,14,196,130,196
+4003852,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,7,220,0,0,17,9,10,0,0,0,0,25,0,5,7,2,7,0,3,7,41,133,51,14,198,133,198
+4003862,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,8,188,0,0,14,10,2,0,0,0,0,29,0,2,7,6,1,0,3,4,27,105,53,7,165,105,165
+4004552,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,6,220,0,0,19,8,7,0,0,0,0,25,0,8,10,5,11,0,3,2,34,132,50,9,191,132,191
+4004562,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,7,220,0,0,8,7,3,0,0,0,0,36,0,5,9,3,8,0,2,6,25,112,67,11,190,112,190
+4004572,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,8,220,0,0,23,4,2,0,0,0,0,40,0,4,10,3,4,0,6,4,27,127,46,18,191,127,191
+4004582,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,9,220,0,0,19,1,4,0,0,0,0,35,0,6,10,5,8,0,5,4,28,125,64,6,195,125,195
+4004592,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,10,220,0,0,21,4,5,0,0,0,0,34,0,3,3,7,4,0,1,7,42,131,49,10,190,131,190
+4004662,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,1,220,0,0,33,7,6,0,0,0,0,24,0,2,10,7,4,0,3,7,40,143,41,17,201,143,201
+4004682,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,3,170,0,0,13,6,7,0,0,0,0,26,0,0,6,4,5,0,1,4,30,102,43,7,152,102,152
+4004692,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,1,220,0,0,22,7,8,0,0,0,0,29,0,6,19,5,4,0,3,4,38,145,40,11,196,145,196
+4004712,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,3,220,0,0,14,10,3,0,0,0,0,30,0,6,11,3,5,0,2,2,39,125,64,9,198,125,198
+4004732,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,5,220,0,0,9,7,3,0,0,0,0,41,0,0,8,3,5,0,4,4,40,124,56,10,190,124,190
+4004852,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,6,220,0,0,15,2,5,0,0,0,0,35,0,7,6,2,5,0,1,7,27,112,65,12,189,112,189
+4004862,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,7,220,0,0,17,7,4,0,0,0,0,22,0,7,11,1,13,0,6,5,27,120,58,12,190,120,190
+4004892,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,10,220,0,0,10,6,6,0,0,0,0,29,0,5,5,3,12,0,5,2,31,114,60,6,180,114,180
+4005152,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,1,97,0,0,9,6,1,0,0,0,0,19,0,0,2,1,1,0,2,2,20,63,18,4,85,63,85
+4005572,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,1,220,0,0,10,3,3,0,0,0,0,44,0,4,5,3,7,0,3,3,34,119,61,10,190,119,190
+4005582,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,2,220,0,0,15,10,4,0,0,0,0,35,0,6,9,3,10,0,1,5,16,114,54,10,178,114,178
+4005592,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,3,220,0,0,14,3,4,0,0,0,0,49,0,2,5,1,5,0,1,7,20,111,62,17,190,111,190
+4005612,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,5,220,0,0,18,4,3,0,0,0,0,47,0,3,5,0,6,0,2,2,28,118,53,13,184,118,184
+4005642,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,8,220,0,0,22,7,5,0,0,0,0,43,0,4,9,4,6,0,3,5,18,126,53,8,187,126,187
+4005822,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),1,220,0,0,11,3,2,0,0,0,0,51,0,7,3,7,5,0,3,4,22,118,75,6,199,118,199
+4005832,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),2,220,0,0,15,8,6,0,0,0,0,44,0,4,9,3,2,0,7,6,30,134,60,7,201,134,201
+4005842,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),3,220,0,0,17,5,5,0,0,0,0,51,0,3,11,4,2,0,5,6,19,128,65,5,198,128,198
+4005852,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),4,175,0,0,7,6,2,0,0,0,0,26,0,5,15,6,6,0,4,1,20,98,53,4,155,98,155
+4006322,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,1,220,0,0,14,9,1,0,0,0,0,48,0,5,6,2,6,0,0,6,19,116,75,10,201,116,201
+4006332,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,2,220,0,0,10,7,3,0,0,0,0,53,0,2,11,0,5,0,2,6,17,116,73,4,193,116,193
+4006352,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,4,220,0,0,12,4,4,0,0,0,0,61,0,0,6,2,6,0,2,3,11,111,76,13,200,111,200
+4006482,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,1,128,0,0,5,0,0,0,0,0,0,24,0,0,0,3,1,0,0,0,7,40,40,6,86,40,86
+4007262,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,26490,U.E. Juan Lechin Oquendo 2,1,230,0,0,16,4,5,0,0,0,0,58,0,10,8,8,3,0,6,5,27,150,54,13,217,150,217
+4008142,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,16,220,0,0,23,6,2,0,0,0,0,47,0,0,16,4,4,0,9,6,23,140,42,10,192,140,192
+4008152,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,17,220,0,0,14,5,9,0,0,0,0,32,0,6,8,5,5,0,9,3,35,131,47,13,191,131,191
+4008172,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,19,220,0,0,17,0,0,0,0,0,0,41,0,8,0,11,7,0,10,7,44,145,19,31,195,145,195
+4008182,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,20,220,0,0,21,5,5,0,0,0,0,38,0,5,10,9,5,0,7,5,26,136,55,8,199,136,199
+4008412,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),2,220,0,0,19,4,2,0,0,0,0,53,0,2,9,4,7,0,4,7,17,128,57,9,194,128,194
+4008452,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),6,130,0,0,4,1,1,0,0,0,0,31,0,0,4,0,2,0,5,0,16,64,31,9,104,64,104
+4008502,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),5,220,0,0,23,6,9,0,0,0,0,26,0,9,11,4,6,0,2,0,41,137,53,8,198,137,198
+4008532,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),8,220,0,0,15,13,3,0,0,0,0,44,0,6,13,3,10,0,3,1,21,132,55,10,197,132,197
+4008542,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),9,220,0,0,31,3,4,0,0,0,0,31,0,3,8,3,5,0,9,7,35,139,51,8,198,139,198
+4008852,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,1,220,0,0,6,2,1,0,0,0,0,70,0,2,6,3,4,0,4,5,8,111,82,6,199,111,199
+4008872,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,3,220,0,0,7,2,1,0,0,0,0,74,0,7,1,2,0,0,0,0,5,99,83,7,189,99,189
+4008882,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4,220,0,0,10,2,2,0,0,0,0,70,0,1,2,3,4,0,2,4,2,102,74,6,182,102,182
+4008922,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,8,220,0,0,3,2,2,0,0,0,0,67,0,1,2,1,2,0,2,2,8,92,92,6,190,92,190
+4008942,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,10,220,0,0,4,2,1,0,0,0,0,86,0,1,5,1,1,0,1,2,10,114,82,5,201,114,201
+4008952,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,11,220,0,0,12,1,3,0,0,0,0,74,0,2,1,2,4,0,2,3,7,111,78,12,201,111,201
+4008962,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,12,220,0,0,4,2,0,0,0,0,0,85,0,2,5,1,1,0,1,2,15,118,66,4,188,118,188
+4008972,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,13,220,0,0,3,1,1,0,0,0,0,83,0,0,2,2,1,0,1,3,11,108,76,6,190,108,190
+4008982,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,14,220,0,0,7,1,1,0,0,0,0,77,0,3,1,0,8,0,2,5,7,112,67,25,204,112,204
+4009212,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,8,220,0,0,8,2,2,0,0,0,0,70,0,2,2,0,5,0,5,8,9,113,77,4,194,113,194
+4009222,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,9,220,0,0,8,5,2,0,0,0,0,52,0,6,7,2,3,0,3,5,16,109,76,6,191,109,191
+4009232,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,10,220,0,0,10,0,0,0,0,0,0,68,0,6,3,1,4,0,0,2,11,105,77,6,188,105,188
+4009242,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,11,220,0,0,7,2,2,0,0,0,0,66,0,1,3,1,6,0,1,1,11,101,91,2,194,101,194
+4009252,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,12,220,0,0,7,3,5,0,0,0,0,70,0,0,7,3,5,0,3,2,16,121,68,3,192,121,192
+4009262,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,13,136,0,0,5,0,0,0,0,0,0,41,0,1,2,0,2,0,2,3,6,62,56,2,120,62,120
+4009382,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,1,141,0,0,4,2,2,0,0,0,0,55,0,1,4,2,4,0,1,1,5,81,50,1,132,81,132
+4009722,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,7,220,0,0,4,4,8,0,0,0,0,41,0,7,20,1,4,0,4,5,24,122,63,6,191,122,191
+4009732,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,8,220,0,0,11,6,5,0,0,0,0,32,0,3,24,2,9,0,4,5,26,127,50,12,189,127,189
+4009752,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,10,220,0,0,7,7,4,0,0,0,0,32,0,4,12,1,4,0,3,5,28,107,63,13,183,107,183
+4009762,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,11,220,0,0,17,3,5,0,0,0,0,36,0,8,20,2,3,0,1,3,21,119,59,6,184,119,184
+4009772,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,12,62,0,0,5,1,2,0,0,0,0,12,0,0,5,1,0,0,0,3,7,36,17,3,56,36,56
+4009782,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,1,220,0,0,8,8,2,0,0,0,0,43,0,4,17,6,3,0,4,4,11,110,71,9,190,110,190
+4009792,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,2,220,0,0,15,6,3,0,0,0,0,56,0,12,15,1,8,0,2,2,26,146,46,2,194,146,194
+4009812,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4,220,0,0,10,2,1,0,0,0,0,52,0,3,15,2,6,0,6,10,27,134,48,1,183,134,183
+4009832,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,6,220,0,0,14,6,2,0,0,0,0,47,0,6,15,2,4,0,0,10,27,133,55,8,196,133,196
+4009842,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,7,51,0,0,1,1,3,0,0,0,0,13,0,0,3,2,1,0,0,4,4,32,10,1,43,32,43
+4009852,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,1,220,0,0,13,13,3,0,0,0,0,43,0,5,25,3,9,0,6,4,15,139,53,7,199,139,199
+4009862,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,2,220,0,0,10,8,0,0,0,0,0,42,0,10,28,2,7,0,4,9,19,139,49,6,194,139,194
+4009872,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,3,220,0,0,8,4,5,0,0,0,0,48,0,8,17,7,4,0,3,4,24,132,53,8,193,132,193
+4009882,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4,220,0,0,12,5,9,0,0,0,0,44,0,5,18,6,4,0,8,4,21,136,52,8,196,136,196
+4009892,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,5,220,0,0,13,5,3,0,0,0,0,51,0,5,24,7,4,0,4,2,14,132,46,7,185,132,185
+4009942,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),1,220,0,0,8,2,8,0,0,0,0,58,0,8,12,3,7,0,2,3,21,132,49,7,188,132,188
+4009952,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),2,220,0,0,6,4,0,0,0,0,0,34,0,0,15,3,4,0,2,4,33,105,59,20,184,105,184
+4009962,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),3,220,0,0,9,9,5,0,0,0,0,51,0,4,16,7,8,0,3,3,18,133,61,6,200,133,200
+4009982,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),5,220,0,0,7,9,5,0,0,0,0,52,0,0,16,0,3,0,2,4,21,119,61,11,191,119,191
+4010382,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),8,67,0,0,1,1,2,0,0,0,0,20,0,5,5,0,0,0,0,0,2,36,17,2,55,36,55
+4010452,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,7,220,0,0,10,4,8,0,0,0,0,44,0,4,24,4,3,0,2,10,22,135,48,8,191,135,191
+4010472,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,9,220,0,0,10,6,4,0,0,0,0,39,0,2,33,4,7,0,2,2,21,130,50,5,185,130,185
+4010482,ASAMBLEISTA POBLACION,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,10,220,0,0,28,5,2,0,0,0,0,27,0,6,28,4,5,0,5,4,32,146,31,10,187,146,187
+4000026,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,2,220,0,0,17,8,1,0,0,0,5,24,7,3,11,6,18,0,5,2,77,184,5,7,196,184,196
+4000036,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,3,220,0,0,25,5,1,0,3,0,5,35,7,0,5,3,14,0,3,1,64,171,9,12,192,171,192
+4000046,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4,220,0,0,20,9,1,0,3,0,10,22,2,1,5,4,17,0,2,5,61,162,2,11,175,162,175
+4000056,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,5,220,0,0,14,4,1,0,1,0,2,20,5,2,6,4,19,0,6,2,72,158,8,7,173,158,173
+4000066,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,6,66,0,0,3,0,0,0,2,0,1,8,4,1,3,3,7,0,3,1,20,56,1,3,60,56,60
+4000076,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,1,220,0,0,27,4,4,0,5,0,4,19,7,0,9,6,8,0,0,5,84,182,1,3,186,182,186
+4000126,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,6,172,0,0,26,6,2,0,2,0,6,9,4,1,8,2,9,0,1,1,65,142,3,8,153,142,153
+4000136,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,1,220,0,0,14,5,1,0,1,0,3,26,5,4,3,7,14,0,3,3,85,174,2,9,185,174,185
+4000156,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,3,220,0,0,14,4,4,0,1,0,11,31,7,1,7,3,27,0,1,4,62,177,7,4,188,177,188
+4000186,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,6,26,0,0,0,0,0,0,1,0,1,3,0,1,0,0,1,0,1,0,8,16,2,2,20,16,20
+4000386,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),1,220,0,0,12,3,2,0,0,0,4,40,10,4,7,2,25,0,2,3,57,171,4,9,184,171,184
+4000396,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),2,220,0,0,7,4,3,0,2,0,8,45,5,1,6,3,26,0,9,5,49,173,9,9,191,173,191
+4000466,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),9,220,0,0,8,4,1,0,1,0,10,34,7,2,12,5,18,0,4,2,66,174,5,8,187,174,187
+4000816,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,1,220,0,0,24,7,2,0,3,0,10,15,8,5,10,6,15,0,0,1,74,180,3,7,190,180,190
+4000826,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,2,220,0,0,24,7,1,0,1,0,10,20,10,3,10,5,19,0,2,3,62,177,11,9,197,177,197
+4000836,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,3,220,0,0,24,12,1,0,5,0,3,13,6,1,14,4,16,0,1,5,72,177,1,12,190,177,190
+4000846,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,4,220,0,0,10,14,1,0,1,0,6,23,10,2,13,2,19,0,2,1,71,175,8,11,194,175,194
+4000866,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,6,220,0,0,15,11,3,0,7,0,4,20,7,4,15,6,19,0,3,1,67,182,7,8,197,182,197
+4000876,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,7,220,0,0,23,8,3,0,0,0,4,29,8,1,15,7,14,0,2,5,50,169,4,8,181,169,181
+4000886,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,8,207,0,0,22,11,1,0,1,0,8,15,6,1,9,6,8,0,3,3,73,167,3,5,175,167,175
+4000896,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,1,220,0,0,4,8,2,0,2,0,5,66,9,3,8,0,11,0,11,2,48,179,4,11,194,179,194
+4000916,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,3,220,0,0,1,6,4,0,4,0,8,69,6,1,13,1,18,0,3,1,42,177,9,7,193,177,193
+4000936,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,1,220,0,0,14,6,2,0,3,0,8,22,8,4,16,3,19,0,3,4,69,181,3,11,195,181,195
+4000946,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,2,220,0,0,19,9,2,0,1,0,4,30,7,3,10,4,18,0,2,3,63,175,6,9,190,175,190
+4000956,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,3,220,0,0,12,10,0,0,3,0,1,38,8,2,9,3,13,0,5,5,65,174,3,10,187,174,187
+4000966,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,4,220,0,0,13,5,1,0,3,0,1,26,9,5,17,2,13,0,3,2,69,169,4,9,182,169,182
+4000976,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,5,85,0,0,12,2,0,0,1,0,1,4,2,1,3,3,5,0,1,0,28,63,2,7,72,63,72
+4001036,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,6,220,0,0,21,13,1,0,4,0,5,22,2,5,12,5,20,0,2,2,58,172,5,10,187,172,187
+4001066,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,9,220,0,0,12,9,3,0,2,0,7,24,5,1,11,1,14,0,1,4,73,167,8,8,183,167,183
+4001686,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),1,220,0,0,13,6,9,0,4,0,7,31,4,1,11,2,17,0,4,7,66,182,2,4,188,182,188
+4001696,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),2,220,0,0,18,8,2,0,0,0,6,31,4,1,6,5,21,0,4,1,71,178,5,5,188,178,188
+4001706,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),3,220,0,0,14,5,4,0,2,0,12,21,7,2,3,8,15,0,6,4,70,173,2,8,183,173,183
+4001716,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),4,109,0,0,9,4,4,0,0,0,2,16,3,1,1,1,12,0,2,1,29,85,1,4,90,85,90
+4001866,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,1,220,0,0,12,6,6,0,4,0,5,24,5,1,16,2,24,0,4,0,68,177,4,11,192,177,192
+4001876,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,2,220,0,0,15,3,0,0,4,0,4,26,7,0,8,2,21,0,3,6,73,172,3,9,184,172,184
+4001886,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,3,99,0,0,9,4,1,0,4,0,1,12,3,1,2,4,7,0,3,2,26,79,1,3,83,79,83
+4002066,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),2,220,0,0,14,3,4,0,2,0,7,35,11,2,5,6,15,0,5,3,63,175,6,11,192,175,192
+4002076,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),3,220,0,0,11,10,2,0,5,0,9,24,6,3,8,7,28,0,2,2,65,182,6,14,202,182,202
+4002086,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),4,236,0,0,13,9,0,0,3,0,13,44,11,2,3,6,22,0,5,4,58,193,9,6,208,193,208
+4002506,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,1,220,0,0,3,3,0,0,2,0,9,73,3,1,3,2,5,0,6,12,9,131,19,8,158,131,158
+4002516,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,2,220,0,0,3,2,2,0,0,0,7,58,3,1,5,6,9,0,10,10,10,126,14,6,146,126,146
+4002526,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,3,25,0,0,0,1,0,0,0,0,2,7,0,0,0,0,0,0,1,0,3,14,1,2,17,14,17
+4002736,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,11,220,0,0,8,6,3,0,4,0,12,51,2,2,4,6,31,0,1,9,44,183,6,7,196,183,196
+4002746,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,12,220,0,0,12,10,0,0,1,0,4,55,4,1,5,4,25,0,3,5,44,173,5,15,193,173,193
+4002756,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,13,220,0,0,10,4,8,0,2,0,5,43,1,1,3,4,16,0,3,5,62,167,5,19,191,167,191
+4002766,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,14,220,0,0,10,11,3,0,1,0,5,31,2,4,4,2,29,0,3,4,68,177,4,12,193,177,193
+4002916,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,2,220,0,0,13,4,3,0,3,0,6,47,4,1,9,5,24,0,0,4,45,168,4,11,183,168,183
+4002926,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,3,220,0,0,8,6,3,0,2,0,4,37,5,0,9,6,23,0,5,4,52,164,4,10,178,164,178
+4002936,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4,220,0,0,11,15,3,0,4,0,2,41,4,0,5,5,14,0,0,2,53,159,8,10,177,159,177
+4002956,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,6,220,0,0,12,7,3,0,0,0,6,37,6,1,6,5,15,0,3,3,60,164,13,3,180,164,180
+4002966,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,7,220,0,0,8,11,4,0,0,0,9,31,2,4,5,6,22,0,0,1,57,160,14,11,185,160,185
+4002976,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,8,220,0,0,23,7,2,0,1,0,11,31,7,2,6,5,15,0,4,2,48,164,3,10,177,164,177
+4002996,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,10,220,0,0,13,15,2,0,2,0,3,36,5,1,7,3,20,0,5,2,59,173,5,2,180,173,180
+4003576,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),1,220,0,0,5,2,7,0,0,0,9,52,8,1,4,4,29,0,3,3,41,168,6,12,186,168,186
+4003586,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),2,220,0,0,5,7,4,0,1,0,15,57,5,1,3,8,26,0,2,4,46,184,6,5,195,184,195
+4003616,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),5,220,0,0,9,9,3,0,1,0,6,59,6,3,17,5,21,0,1,2,43,185,6,4,195,185,195
+4003636,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),7,220,0,0,5,13,2,0,0,0,9,63,5,1,5,4,14,0,6,6,36,169,3,12,184,169,184
+4003646,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),8,220,0,0,6,10,4,0,1,0,13,60,4,3,4,3,14,0,3,2,45,172,4,16,192,172,192
+4003736,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),17,220,0,0,7,4,2,0,1,0,7,50,10,1,8,7,24,0,4,1,44,170,11,11,192,170,192
+4003746,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),18,220,0,0,7,9,4,0,0,0,5,66,4,1,8,4,23,0,0,3,47,181,5,11,197,181,197
+4003756,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),19,220,0,0,7,5,3,0,1,0,7,71,2,3,3,4,20,0,4,8,46,184,8,11,203,184,203
+4003786,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),22,171,0,0,5,5,7,0,0,0,5,60,6,2,7,2,9,0,1,3,35,147,4,5,156,147,156
+4003836,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,5,220,0,0,19,11,4,0,1,0,5,25,3,4,16,6,21,0,3,3,69,190,2,3,195,190,195
+4003846,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,6,220,0,0,26,9,6,0,2,0,8,24,7,0,13,3,11,0,4,4,67,184,2,10,196,184,196
+4003856,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,7,220,0,0,22,11,2,0,5,0,9,21,6,1,7,6,20,0,4,2,67,183,3,12,198,183,198
+4003866,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,8,188,0,0,9,12,2,0,5,0,4,20,3,2,7,9,23,0,4,3,52,155,4,6,165,155,165
+4004566,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,7,220,0,0,3,8,4,0,1,0,12,36,5,2,14,5,22,0,3,4,46,165,9,16,190,165,190
+4004576,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,8,220,0,0,11,6,1,0,2,0,4,43,7,4,4,5,17,0,1,4,59,168,7,16,191,168,191
+4004596,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,10,220,0,0,12,6,3,0,3,0,10,27,7,1,8,8,23,0,2,3,66,179,4,7,190,179,190
+4004666,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,1,220,0,0,25,8,3,0,4,0,5,13,3,1,10,8,23,0,2,6,70,181,6,14,201,181,201
+4004676,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,2,220,0,0,15,4,2,0,4,0,5,34,8,0,15,4,15,0,3,4,73,186,6,4,196,186,196
+4004686,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,3,170,0,0,7,8,3,0,1,0,4,27,4,0,10,7,13,0,0,1,57,142,3,7,152,142,152
+4004696,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,1,220,0,0,8,6,7,0,3,0,9,27,8,1,13,5,29,0,1,4,58,179,3,14,196,179,196
+4004726,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,4,220,0,0,10,9,4,0,2,0,7,37,7,0,7,9,29,0,3,3,49,176,9,7,192,176,192
+4004736,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,5,220,0,0,4,5,3,0,5,0,3,40,3,0,6,7,20,0,3,3,68,170,2,18,190,170,190
+4004856,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,6,220,0,0,9,5,4,0,0,0,7,36,10,1,5,6,21,0,5,3,62,174,6,9,189,174,189
+4004866,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,7,220,0,0,8,8,5,0,0,0,7,33,9,2,4,6,28,0,8,7,53,178,6,6,190,178,190
+4004896,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,10,220,0,0,8,3,2,0,1,0,8,40,8,0,3,3,29,0,2,5,59,171,6,3,180,171,180
+4004906,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,11,63,0,0,1,1,0,0,2,0,1,10,3,0,1,2,7,0,4,0,17,49,2,3,54,49,54
+4005156,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,1,97,0,0,10,5,0,0,2,0,6,21,3,0,1,0,3,0,1,2,26,80,1,4,85,80,85
+4005576,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,1,220,0,0,8,4,3,0,2,0,3,54,6,0,3,0,23,0,2,3,54,165,11,14,190,165,190
+4005586,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,2,220,0,0,7,11,6,0,1,0,8,46,4,5,6,1,17,0,2,1,44,159,8,11,178,159,178
+4005596,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,3,220,0,0,10,7,3,0,1,0,5,59,8,1,3,6,29,0,3,3,29,167,9,14,190,167,190
+4005616,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,5,220,0,0,11,8,5,0,1,0,11,48,4,1,2,2,27,0,4,3,44,171,2,11,184,171,184
+4005636,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,7,220,0,0,10,6,3,0,2,0,6,55,5,2,7,2,25,0,2,2,34,161,8,16,185,161,185
+4005646,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,8,220,0,0,13,8,5,0,2,0,5,45,8,1,6,4,17,0,2,3,45,164,8,15,187,164,187
+4005656,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,9,220,0,0,8,12,5,0,0,0,4,45,5,0,9,5,28,0,3,4,46,174,5,14,193,174,193
+4005666,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,10,220,0,0,13,4,6,0,5,0,6,54,3,4,5,5,27,0,1,1,44,178,5,8,191,178,191
+4005676,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,11,220,0,0,8,5,5,0,3,0,6,60,3,4,6,4,25,0,6,4,41,180,3,13,196,180,196
+4005826,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),1,220,0,0,9,2,3,0,3,0,11,47,2,2,8,5,28,0,2,8,45,175,10,14,199,175,199
+4005836,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),2,220,0,0,9,6,3,0,0,0,2,47,8,5,4,4,10,0,7,4,41,150,46,5,201,150,201
+4005846,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),3,220,0,0,12,8,2,0,1,0,3,57,10,3,5,2,20,0,3,2,50,178,11,9,198,178,198
+4005856,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),4,175,0,0,10,8,2,0,1,0,14,34,11,2,12,2,17,0,1,4,29,147,5,3,155,147,155
+4006336,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,2,220,0,0,4,4,5,0,1,0,10,74,7,1,5,2,20,0,1,5,35,174,11,8,193,174,193
+4006346,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,3,220,0,0,6,9,5,0,1,0,9,68,8,1,2,3,21,0,2,0,40,175,11,12,198,175,198
+4006366,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,5,220,0,0,11,12,2,0,1,0,10,56,9,3,1,3,20,0,3,2,48,181,5,16,202,181,202
+4006376,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,6,220,0,0,9,4,4,0,4,0,3,72,6,0,3,5,26,0,0,4,32,172,11,19,202,172,202
+4006386,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,7,220,0,0,9,5,6,0,2,0,7,57,4,1,3,3,28,0,6,2,52,185,9,6,200,185,200
+4006396,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,8,220,0,0,8,6,3,0,0,0,7,60,7,0,3,5,29,0,5,3,46,182,6,13,201,182,201
+4006486,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,1,128,0,0,8,4,0,0,0,0,1,37,1,0,0,0,2,0,0,1,18,72,6,8,86,72,86
+4006496,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,1,220,0,0,10,6,4,0,0,0,5,54,7,1,4,10,20,0,4,8,46,179,11,13,203,179,203
+4006516,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,3,220,0,0,5,7,4,0,1,0,3,62,2,2,0,4,26,0,6,2,50,174,2,16,192,174,192
+4006526,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4,198,0,0,5,5,3,0,0,0,4,66,4,1,3,2,19,0,4,2,49,167,3,14,184,167,184
+4006576,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,5,220,0,0,5,7,4,0,1,0,6,72,5,0,6,5,21,0,2,1,36,171,12,12,195,171,195
+4006586,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,6,220,0,0,9,6,6,0,2,0,3,50,3,0,2,3,28,0,2,3,53,170,6,22,198,170,198
+4006596,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,7,220,0,0,8,8,3,0,0,0,5,81,5,1,4,3,22,0,5,2,36,183,4,12,199,183,199
+4007266,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,26490,U.E. Juan Lechin Oquendo 2,1,230,0,0,10,5,2,0,3,0,16,51,13,2,11,4,16,0,4,4,47,188,9,20,217,188,217
+4008156,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,17,220,0,0,6,7,6,0,2,0,8,33,2,6,5,10,26,0,2,2,61,176,5,10,191,176,191
+4008166,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,18,220,0,0,8,9,2,0,1,0,13,39,6,4,2,4,12,0,7,4,75,186,3,6,195,186,195
+4008176,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,19,220,0,0,8,0,0,0,2,0,19,30,4,9,0,6,14,0,8,5,59,164,4,27,195,164,195
+4008186,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,20,220,0,0,12,6,4,0,1,0,21,39,3,3,5,5,15,0,8,4,62,188,3,8,199,188,199
+4008416,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),2,220,0,0,10,8,5,0,1,0,14,55,7,0,7,5,20,0,2,3,34,171,9,14,194,171,194
+4008426,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),3,220,0,0,3,8,3,0,0,0,17,77,2,1,7,1,18,0,2,7,34,180,3,13,196,180,196
+4008436,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),4,220,0,0,8,9,4,0,3,0,16,46,6,1,8,8,13,0,3,3,40,168,11,16,195,168,195
+4008446,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),5,220,0,0,8,6,3,0,2,0,13,59,4,0,5,2,17,0,2,5,35,161,9,15,185,161,185
+4008506,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),5,220,0,0,16,6,5,0,2,0,9,30,9,5,9,8,16,0,1,6,65,187,3,8,198,187,198
+4008516,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),6,220,0,0,9,6,3,0,4,0,10,21,10,0,7,4,20,0,4,3,66,167,7,22,196,167,196
+4008526,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),7,220,0,0,19,5,0,0,2,0,10,29,9,4,10,4,12,0,5,4,68,181,1,10,192,181,192
+4008536,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),8,220,0,0,6,8,3,0,1,0,18,42,5,4,11,9,19,0,3,5,53,187,3,7,197,187,197
+4008546,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),9,220,0,0,14,7,3,0,1,0,11,32,6,4,11,5,20,0,5,4,61,184,7,7,198,184,198
+4008856,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,1,220,0,0,2,6,3,0,3,0,4,102,3,1,3,7,21,0,3,3,16,177,9,13,199,177,199
+4008866,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,2,220,0,0,0,6,8,0,1,0,5,113,2,1,3,2,5,0,4,0,29,179,14,6,199,179,199
+4008876,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,3,220,0,0,3,3,6,0,2,0,5,103,2,3,1,5,11,0,2,3,17,166,13,10,189,166,189
+4008886,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4,220,0,0,5,0,5,0,1,0,4,106,6,2,3,6,9,0,1,4,10,162,10,10,182,162,182
+4008896,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,5,220,0,0,2,5,5,0,4,0,8,93,3,5,0,3,16,0,7,1,15,167,8,16,191,167,191
+4008916,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,7,220,0,0,7,2,1,0,1,0,4,117,5,1,1,1,13,0,2,0,17,172,11,16,199,172,199
+4008926,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,8,220,0,0,1,0,1,0,1,0,3,106,3,0,1,0,17,0,4,0,23,160,12,18,190,160,190
+4008936,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,9,220,0,0,1,5,4,0,3,0,2,97,4,1,1,4,11,0,6,0,16,155,13,20,188,155,188
+4008956,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,11,220,0,0,3,2,3,0,0,0,3,104,5,5,1,5,13,0,7,1,29,181,3,17,201,181,201
+4008966,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,12,220,0,0,7,3,3,0,1,0,4,108,0,2,3,1,10,0,2,1,18,163,14,11,188,163,188
+4008976,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,13,220,0,0,5,3,2,0,1,0,4,108,0,0,4,3,13,0,2,4,23,172,7,11,190,172,190
+4008986,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,14,220,0,0,3,0,5,0,1,0,4,115,1,0,1,0,11,0,5,4,19,169,13,22,204,169,204
+4009216,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,8,220,0,0,1,7,4,0,1,0,7,93,6,2,2,3,18,0,11,1,20,176,9,9,194,176,194
+4009226,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,9,220,0,0,3,6,1,0,3,0,8,71,8,1,6,3,25,0,4,2,33,174,4,13,191,174,191
+4009236,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,10,220,0,0,3,4,3,0,1,0,3,92,5,2,8,3,20,0,4,2,19,169,9,10,188,169,188
+4009246,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,11,220,0,0,2,6,8,0,0,0,4,90,3,1,3,3,15,0,6,2,27,170,11,13,194,170,194
+4009256,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,12,220,0,0,8,1,3,0,2,0,7,82,3,2,1,3,17,0,3,2,34,168,5,19,192,168,192
+4009266,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,13,136,0,0,3,2,0,0,0,0,5,56,4,0,1,4,14,0,3,2,10,104,9,7,120,104,120
+4009386,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,1,141,0,0,3,3,1,0,0,0,2,71,7,1,1,1,11,0,4,3,13,121,2,9,132,121,132
+4009726,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,7,220,0,0,4,7,6,0,1,0,5,54,3,2,17,8,18,0,7,3,36,171,8,12,191,171,191
+4009736,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,8,220,0,0,9,12,2,0,1,0,13,48,9,0,12,2,19,0,3,3,51,184,0,5,189,184,189
+4009746,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,9,220,0,0,9,7,5,0,1,0,13,46,4,2,12,3,18,0,4,9,54,187,5,5,197,187,197
+4009756,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,10,220,0,0,6,7,1,0,1,0,8,60,3,3,11,2,15,0,3,3,39,162,6,15,183,162,183
+4009766,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,11,220,0,0,8,4,5,0,1,0,8,41,1,4,18,2,18,0,1,5,50,166,9,9,184,166,184
+4009776,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,12,62,0,0,1,1,3,0,0,0,1,21,0,0,4,0,7,0,0,0,14,52,1,3,56,52,56
+4009786,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,1,220,0,0,8,4,1,0,2,0,7,53,7,2,11,4,16,0,3,7,38,163,11,16,190,163,190
+4009796,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,2,220,0,0,3,8,3,0,0,0,10,60,4,7,19,5,14,0,4,2,43,182,3,9,194,182,194
+4009806,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,3,220,0,0,8,8,2,0,0,0,8,40,4,2,15,7,20,0,3,7,57,181,2,9,192,181,192
+4009816,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4,220,0,0,8,3,0,0,0,0,8,64,1,1,14,5,12,0,1,7,44,168,6,9,183,168,183
+4009826,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,5,220,0,0,6,10,0,0,2,0,7,50,5,2,13,3,13,0,0,6,55,172,6,8,186,172,186
+4009836,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,6,220,0,0,9,7,2,0,2,0,2,55,5,5,12,4,20,0,2,5,51,181,5,10,196,181,196
+4009846,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,7,51,0,0,1,2,1,0,1,0,2,9,3,0,3,0,3,0,0,1,13,39,2,2,43,39,43
+4009866,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,2,220,0,0,8,4,0,0,3,0,15,45,1,3,21,1,18,0,3,4,51,177,7,10,194,177,194
+4009876,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,3,220,0,0,7,5,4,0,0,0,7,59,5,4,15,2,18,0,2,3,48,179,1,13,193,179,193
+4009886,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4,220,0,0,9,9,4,0,2,0,10,46,3,2,10,8,16,0,7,2,54,182,7,7,196,182,196
+4009946,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),1,220,0,0,3,2,8,0,1,0,9,53,2,2,9,4,23,0,2,2,54,174,8,6,188,174,188
+4009966,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),3,220,0,0,6,8,2,0,1,0,17,51,3,1,7,5,22,0,6,1,56,186,6,8,200,186,200
+4009976,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),4,220,0,0,7,7,2,0,0,0,12,62,2,1,6,3,19,0,4,4,42,171,6,6,183,171,183
+4009986,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),5,220,0,0,8,9,6,0,2,0,6,55,2,0,11,3,25,0,1,2,40,170,4,17,191,170,191
+4010276,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,1,220,0,0,3,7,4,0,1,0,3,54,3,1,20,2,15,0,3,4,60,180,6,6,192,180,192
+4010286,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,2,182,0,0,4,8,2,0,0,0,6,32,9,3,13,4,14,0,2,4,36,137,6,5,148,137,148
+4010356,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),5,220,0,0,3,4,2,0,0,0,10,94,6,3,10,0,9,0,2,7,22,172,10,6,188,172,188
+4010366,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),6,220,0,0,6,7,1,0,1,0,8,65,6,2,10,3,9,0,2,3,31,154,11,12,177,154,177
+4010376,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),7,220,0,0,5,5,3,0,2,0,4,92,8,7,8,3,6,0,5,6,20,174,5,2,181,174,181
+4010386,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),8,67,0,0,1,1,0,0,0,0,0,22,0,5,5,0,6,0,0,0,8,48,5,2,55,48,55
+4010456,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,7,220,0,0,14,9,4,0,0,0,10,48,2,2,14,6,17,0,2,3,49,180,6,5,191,180,191
+4010476,ALCALDESA/ALCALDE,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,9,220,0,0,4,8,2,0,1,0,5,41,8,2,17,9,19,0,1,4,51,172,8,5,185,172,185
+4000026,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,2,220,0,0,12,11,4,0,0,0,5,21,8,4,4,4,12,0,7,2,59,153,36,7,196,153,196
+4000036,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,3,220,0,0,22,8,7,0,0,0,4,30,5,3,5,5,7,0,2,1,53,152,26,14,192,152,192
+4000046,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,4,220,0,0,15,12,5,0,1,0,7,19,3,2,7,4,9,0,2,2,43,131,30,14,175,131,175
+4000056,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,5,220,0,0,7,9,6,0,1,0,1,16,4,5,4,2,8,0,9,1,48,121,46,6,173,121,173
+4000066,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,85,Liceo Antofagasta,6,66,0,0,2,0,5,0,1,0,1,7,3,3,3,3,6,0,2,1,10,47,11,2,60,47,60
+4000076,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,1,220,0,0,20,8,13,0,2,0,2,18,9,0,6,10,4,0,4,1,59,156,25,5,186,156,186
+4000126,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,86,Colegio Jesus Maria Fe y Alegria,6,172,0,0,20,9,5,0,2,0,5,9,4,1,8,1,6,0,1,2,51,124,22,7,153,124,153
+4000136,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,1,220,0,0,8,4,4,0,1,0,4,18,5,4,1,5,13,0,1,3,62,133,47,5,185,133,185
+4000156,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,3,220,0,0,11,5,6,0,1,0,7,33,4,2,3,4,16,0,2,4,46,144,37,7,188,144,188
+4000186,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,87,Col. Aniceto Arce,6,26,0,0,0,1,1,0,1,0,1,2,1,1,0,0,1,0,0,0,8,17,1,2,20,17,20
+4000386,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),1,220,0,0,11,7,5,0,0,0,2,36,8,9,4,7,15,0,4,2,37,147,28,9,184,147,184
+4000396,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),2,220,0,0,9,2,3,0,2,0,4,40,4,2,5,4,17,0,6,4,41,143,39,9,191,143,191
+4000466,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31001,U.E. Ildenfonso murguia (Temporal),9,220,0,0,4,6,4,0,0,0,4,30,7,5,10,6,13,0,4,1,51,145,35,7,187,145,187
+4000816,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,1,220,0,0,16,7,6,0,2,0,6,18,7,6,8,6,10,0,4,1,54,151,33,6,190,151,190
+4000826,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,2,220,0,0,18,7,11,0,1,0,6,16,8,3,5,3,11,0,4,2,49,144,44,9,197,144,197
+4000836,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,3,220,0,0,15,15,6,0,4,0,2,15,7,1,11,2,11,0,1,7,48,145,35,10,190,145,190
+4000846,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,4,220,0,0,13,14,9,0,2,0,3,25,4,2,9,4,17,0,5,1,44,152,32,10,194,152,194
+4000866,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,6,220,0,0,13,11,3,0,3,0,3,16,3,4,9,5,11,0,8,0,46,135,52,10,197,135,197
+4000876,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,7,220,0,0,21,9,9,0,3,0,3,21,3,1,9,7,6,0,7,3,34,136,36,9,181,136,181
+4000886,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,109,Col. Particular Reekie,8,207,0,0,16,13,2,0,1,0,4,14,6,2,8,6,6,0,6,2,50,136,34,5,175,136,175
+4000896,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,1,220,0,0,4,7,2,0,1,0,3,59,7,4,7,2,11,0,9,1,34,151,35,8,194,151,194
+4000916,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25035,U. E. Alto Oruro,3,220,0,0,4,3,5,0,2,0,4,55,2,3,12,2,9,0,1,4,29,135,55,5,195,135,195
+4000936,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,1,220,0,0,9,8,6,0,0,0,3,16,8,3,10,3,11,0,5,4,53,139,45,11,195,139,195
+4000946,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,2,220,0,0,19,10,7,0,1,0,3,25,7,2,5,6,12,0,2,3,46,148,33,9,190,148,190
+4000956,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,3,220,0,0,16,11,3,0,2,0,1,34,7,4,5,5,8,0,2,5,43,146,33,8,187,146,187
+4000966,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,4,220,0,0,10,7,5,0,3,0,1,23,4,5,11,3,9,0,2,1,47,131,46,5,182,131,182
+4000976,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,110,Liceo Tec. Humanistico Adolfo Ballivian,5,85,0,0,8,3,3,0,1,0,0,4,6,3,2,3,2,0,4,1,14,54,12,6,72,54,72
+4001036,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,6,220,0,0,14,15,7,0,2,0,6,21,3,4,8,6,11,0,4,3,41,145,33,9,187,145,187
+4001066,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,111,Col. Nal. Simon Bolivar,9,220,0,0,11,10,7,0,3,0,3,24,8,1,8,2,9,0,3,1,55,145,28,10,183,145,183
+4001686,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),1,220,0,0,8,7,9,0,3,0,5,30,7,3,7,1,9,0,3,4,49,145,39,4,188,145,188
+4001696,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),2,220,0,0,13,4,7,0,1,0,5,24,1,3,6,10,15,0,4,1,47,141,43,4,188,141,188
+4001706,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),3,220,0,0,11,6,8,0,2,0,9,18,7,3,3,6,10,0,2,2,49,136,41,6,183,136,183
+4001716,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,118,Fac. De Derecho (Esc. 10 De Febrero),4,109,0,0,4,9,5,0,0,0,0,15,0,0,3,1,8,0,1,1,22,69,19,2,90,69,90
+4001866,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,1,220,0,0,14,13,9,0,6,0,3,19,5,1,12,2,17,0,4,0,45,150,30,12,192,150,192
+4001876,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,2,220,0,0,16,4,1,0,3,0,5,18,8,1,5,4,15,0,3,4,49,136,38,10,184,136,184
+4001886,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25045,U.E. Particular Arrieta,3,99,0,0,4,1,2,0,3,0,1,11,5,3,2,6,6,0,3,4,20,71,11,1,83,71,83
+4002066,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),2,220,0,0,12,6,9,0,1,0,3,28,8,3,4,5,10,0,3,4,38,134,51,7,192,134,192
+4002076,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),3,220,0,0,9,7,3,0,1,0,5,25,6,3,5,8,18,0,4,3,55,152,39,11,202,152,202
+4002086,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31004,UPAL (Temporal),4,236,0,0,13,6,4,0,2,0,4,41,11,2,5,3,15,0,7,4,42,159,43,6,208,159,208
+4002506,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,1,220,0,0,3,1,2,0,2,0,1,62,0,1,2,1,4,0,9,4,4,96,56,6,158,96,158
+4002516,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,2,220,0,0,3,3,2,0,0,0,3,47,1,0,2,5,7,0,8,5,6,92,46,8,146,92,146
+4002526,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,93,(Cárcel) Penal San Pedro,3,25,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,2,9,8,0,17,9,17
+4002736,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,11,220,0,0,4,3,7,0,2,0,7,43,3,4,2,4,19,0,2,5,25,130,60,6,196,130,196
+4002746,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,12,220,0,0,11,7,2,0,0,0,2,44,4,4,2,4,11,0,6,1,30,128,51,14,193,128,193
+4002756,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,13,220,0,0,11,7,10,0,1,0,2,39,2,2,2,4,11,0,4,6,43,144,35,12,191,144,191
+4002766,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,94,U. E. John F. Kennedy,14,220,0,0,9,10,3,0,0,0,3,24,1,8,3,4,21,0,6,5,35,132,51,10,193,132,193
+4002916,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,2,220,0,0,11,5,6,0,1,0,3,34,2,1,8,6,17,0,2,3,32,131,42,10,183,131,183
+4002926,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,3,220,0,0,5,6,7,0,0,0,2,41,8,1,4,5,11,0,6,2,35,133,35,10,178,133,178
+4002936,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,4,220,0,0,8,16,3,0,3,0,3,33,3,1,5,3,9,0,0,2,34,123,44,10,177,123,177
+4002956,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,6,220,0,0,6,10,4,0,0,0,3,28,4,1,6,4,11,0,3,2,46,128,50,2,180,128,180
+4002966,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,7,220,0,0,5,13,11,0,0,0,5,25,4,5,2,2,18,0,2,0,35,127,49,9,185,127,185
+4002976,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,8,220,0,0,17,8,4,0,0,0,6,26,8,2,4,2,9,0,5,6,28,125,45,7,177,125,177
+4002996,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,96,Inst. Normal Superior Angel Mendoza J.,10,220,0,0,11,15,5,0,0,0,4,29,5,2,6,4,18,0,5,2,34,140,38,2,180,140,180
+4003576,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),1,220,0,0,8,6,3,0,0,0,6,39,6,2,4,4,17,0,4,3,30,132,44,10,186,132,186
+4003586,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),2,220,0,0,5,6,5,0,0,0,8,44,4,1,3,3,18,0,5,3,30,135,56,4,195,135,195
+4003616,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),5,220,0,0,9,8,6,0,2,0,3,47,7,3,8,4,7,0,1,2,32,139,52,4,195,139,195
+4003636,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),7,220,0,0,4,10,4,0,0,0,4,50,4,2,2,2,8,0,5,2,29,126,52,6,184,126,184
+4003646,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),8,220,0,0,5,5,4,0,1,0,10,45,2,1,3,2,9,0,1,3,34,125,54,13,192,125,192
+4003736,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),17,220,0,0,8,3,2,0,1,0,4,43,4,2,3,5,16,0,8,2,33,134,51,7,192,134,192
+4003746,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),18,220,0,0,6,6,4,0,0,0,2,61,4,2,6,5,10,0,2,2,42,152,36,9,197,152,197
+4003756,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),19,220,0,0,4,4,5,0,0,0,9,58,0,0,1,3,16,0,6,5,34,145,53,5,203,145,203
+4003786,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31010,Coliseo Cerrado Palacio de los Deportes (Temporal),22,171,0,0,6,4,8,0,0,0,3,47,3,5,4,2,8,0,1,2,22,115,38,3,156,115,156
+4003836,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,5,220,0,0,14,14,8,0,1,0,1,25,3,4,10,11,13,0,2,1,49,156,38,1,195,156,195
+4003846,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,6,220,0,0,20,12,6,0,2,0,3,23,5,0,8,4,10,0,5,4,47,149,36,11,196,149,196
+4003856,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,7,220,0,0,17,15,9,0,1,0,6,19,3,1,4,9,12,0,6,1,44,147,40,11,198,147,198
+4003866,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25033,Col. Particular Bolivia Japon,8,188,0,0,8,12,4,0,5,0,2,22,4,3,3,7,11,0,5,1,36,123,36,6,165,123,165
+4004566,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,7,220,0,0,2,9,5,0,1,0,7,32,5,3,8,1,15,0,5,3,28,124,58,8,190,124,190
+4004576,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,8,220,0,0,9,4,3,0,2,0,5,43,7,3,3,4,8,0,4,3,44,142,32,17,191,142,191
+4004596,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,88,Facultad Técnica,10,220,0,0,11,6,5,0,1,0,3,25,5,3,4,9,16,0,3,0,51,142,40,8,190,142,190
+4004666,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,1,220,0,0,21,6,5,0,2,0,5,19,3,0,8,5,14,0,3,4,49,144,41,16,201,144,201
+4004676,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,2,220,0,0,13,5,3,0,1,0,5,31,9,1,14,4,10,0,5,4,56,161,31,4,196,161,196
+4004686,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,89,CEMEI,3,170,0,0,4,5,7,0,0,0,2,22,5,0,4,3,8,0,2,0,44,106,39,7,152,106,152
+4004696,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,1,220,0,0,10,8,8,0,3,0,8,20,4,3,15,7,19,0,2,4,45,156,27,13,196,156,196
+4004726,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,4,220,0,0,11,9,8,0,2,0,6,38,3,0,2,7,20,0,7,2,31,146,39,7,192,146,192
+4004736,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,90,U. Esc. Francisco Fajardo,5,220,0,0,5,6,10,0,3,0,3,36,4,0,2,6,13,0,1,2,38,129,46,15,190,129,190
+4004856,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,6,220,0,0,6,2,2,0,0,0,4,35,7,3,4,5,15,0,3,1,41,128,54,7,189,128,189
+4004866,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,7,220,0,0,8,8,12,0,0,0,5,22,8,3,5,3,18,0,8,8,31,139,48,3,190,139,190
+4004896,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,10,220,0,0,6,3,7,0,2,0,5,33,5,2,5,5,14,0,5,3,39,134,42,4,180,134,180
+4004906,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,91,U. Esc. Melvin Jones,11,63,0,0,2,1,0,0,1,0,0,7,1,0,0,3,2,0,6,0,12,35,16,3,54,35,54
+4005156,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,101,Esc. Mixta Ferroviaria,1,97,0,0,7,8,1,0,1,0,5,17,3,0,1,0,4,0,2,2,18,69,12,4,85,69,85
+4005576,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,1,220,0,0,8,2,4,0,4,0,1,43,3,0,3,2,16,0,2,3,36,127,54,9,190,127,190
+4005586,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,2,220,0,0,7,7,3,0,2,0,2,33,6,6,6,3,13,0,1,3,25,117,51,10,178,117,178
+4005596,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,3,220,0,0,8,7,6,0,0,0,3,48,5,1,1,2,19,0,2,2,18,122,53,15,190,122,190
+4005616,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,5,220,0,0,13,7,7,0,0,0,5,41,4,1,1,2,22,0,4,2,24,133,44,7,184,133,184
+4005636,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,7,220,0,0,10,7,3,0,3,0,6,42,3,2,5,5,9,0,5,1,18,119,55,11,185,119,185
+4005646,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,8,220,0,0,11,11,3,0,4,0,2,39,8,1,3,2,12,0,3,3,34,136,43,8,187,136,187
+4005656,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,9,220,0,0,6,10,3,0,1,0,2,36,5,2,7,6,23,0,6,2,31,140,41,12,193,140,193
+4005666,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,10,220,0,0,8,8,7,0,2,0,4,42,3,4,3,6,20,0,4,1,29,141,41,9,191,141,191
+4005676,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,139,U. E. Santa Rosa,11,220,0,0,6,6,9,0,1,0,2,50,6,2,5,3,15,0,2,4,33,144,43,9,196,144,196
+4005826,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),1,220,0,0,5,3,4,0,4,0,5,45,3,2,7,4,12,0,2,5,33,134,56,9,199,134,199
+4005836,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),2,220,0,0,9,5,3,0,0,0,5,53,10,6,5,6,21,0,5,4,54,186,6,9,201,186,201
+4005846,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),3,220,0,0,10,5,5,0,2,0,3,51,6,3,7,4,11,0,6,1,32,146,45,7,198,146,198
+4005856,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31011,Esc Carmen Guzman de Mier (Temporal),4,175,0,0,7,8,2,0,1,0,8,32,3,2,13,2,8,0,3,2,21,112,41,2,155,112,155
+4006336,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,2,220,0,0,6,3,5,0,1,0,4,64,6,2,6,1,13,0,1,5,17,134,53,6,193,134,193
+4006346,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,3,220,0,0,7,8,6,0,1,0,4,51,4,3,2,1,13,0,3,0,27,130,60,8,198,130,198
+4006366,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,5,220,0,0,10,9,0,0,0,0,6,53,5,2,1,2,12,0,2,2,32,136,50,16,202,136,202
+4006376,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,6,220,0,0,8,6,3,0,3,0,2,62,3,0,0,5,12,0,1,3,23,131,57,14,202,131,202
+4006386,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,7,220,0,0,8,6,4,0,0,0,1,51,3,2,5,1,14,0,6,0,28,129,67,4,200,129,200
+4006396,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,148,U.E. El Carmen,8,220,0,0,8,6,3,0,2,0,4,49,8,1,3,4,18,0,4,3,32,145,47,9,201,145,201
+4006486,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,149,(Cárcel) Centro Penitenciario La Merced,1,128,0,0,6,1,0,0,2,0,0,28,0,1,0,0,2,0,0,1,5,46,34,6,86,46,86
+4006496,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,1,220,0,0,7,5,8,0,0,0,7,49,6,1,6,6,11,0,6,7,31,150,42,11,203,150,203
+4006516,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,3,220,0,0,5,4,8,0,1,0,5,53,2,2,1,3,13,0,5,3,25,130,49,13,192,130,192
+4006526,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25040,U. Esc. Santa Ana I  Arenales,4,198,0,0,3,3,5,0,1,0,4,61,4,3,1,2,9,0,6,2,34,138,35,11,184,138,184
+4006576,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,5,220,0,0,4,7,5,0,1,0,5,67,5,0,6,5,13,0,3,1,26,148,31,16,195,148,195
+4006586,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,6,220,0,0,9,4,12,0,1,0,1,44,3,0,0,2,13,0,2,2,30,123,60,15,198,123,198
+4006596,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25048,U.E. Nal. Mixto Huajara Secundario,7,220,0,0,5,7,6,0,0,0,2,69,4,3,3,2,12,0,8,1,23,145,50,4,199,145,199
+4007266,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,26490,U.E. Juan Lechin Oquendo 2,1,230,0,0,7,9,4,0,2,0,9,50,10,4,9,11,10,0,11,2,31,169,36,12,217,169,217
+4008156,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,17,220,0,0,7,5,4,0,0,0,11,28,1,8,5,5,14,0,6,2,53,149,33,9,191,149,191
+4008166,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,18,220,0,0,8,5,3,0,1,0,10,43,4,8,1,6,11,0,10,4,58,172,17,6,195,172,195
+4008176,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,19,220,0,0,10,0,0,0,0,0,14,34,3,8,0,10,12,0,11,8,47,157,8,30,195,157,195
+4008186,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,133,U. Esc. San Ignacio De Loyola,20,220,0,0,11,9,7,0,1,0,12,30,6,3,5,2,13,0,7,3,43,152,39,8,199,152,199
+4008416,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),2,220,0,0,9,8,8,0,1,0,13,45,4,1,3,2,14,0,3,2,23,136,50,8,194,136,194
+4008426,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),3,220,0,0,3,6,5,0,0,0,11,65,2,2,8,3,11,0,1,3,25,145,39,12,196,145,196
+4008436,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),4,220,0,0,8,5,6,0,2,0,11,37,5,3,4,5,13,0,2,2,23,126,58,11,195,126,195
+4008446,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31019,Jesus de Nazareth Inicial (Temporal),5,220,0,0,6,4,4,0,1,0,8,54,2,0,6,3,10,0,7,2,18,125,49,11,185,125,185
+4008506,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),5,220,0,0,14,9,9,0,0,0,11,19,11,5,6,6,10,0,4,4,45,153,41,4,198,153,198
+4008516,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),6,220,0,0,8,9,6,0,2,0,6,21,5,1,6,4,11,0,7,2,37,125,55,16,196,125,196
+4008526,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),7,220,0,0,14,10,6,0,1,0,8,24,7,3,7,5,11,0,4,5,42,147,37,8,192,147,192
+4008536,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),8,220,0,0,5,9,9,0,0,0,14,37,1,4,9,5,18,0,7,2,26,146,43,8,197,146,197
+4008546,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,135,U. Esc. Oruro Otawa (Primaria),9,220,0,0,12,6,6,0,1,0,7,27,4,5,7,3,16,0,9,6,38,147,46,5,198,147,198
+4008856,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,1,220,0,0,5,2,3,0,3,0,3,80,0,2,2,5,10,0,1,6,11,133,57,9,199,133,199
+4008866,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,2,220,0,0,3,6,5,0,0,0,2,88,3,2,1,3,2,0,0,0,21,136,60,3,199,136,199
+4008876,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,3,220,0,0,4,2,2,0,0,0,5,79,2,3,0,5,4,0,0,0,9,115,69,5,189,115,189
+4008886,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,4,220,0,0,9,0,4,0,0,0,2,75,4,1,1,5,6,0,1,3,9,120,54,8,182,120,182
+4008896,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,5,220,0,0,2,0,3,0,1,0,4,69,1,3,0,1,8,0,0,1,12,105,81,5,191,105,191
+4008916,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,7,220,0,0,8,1,1,0,2,0,2,92,4,3,0,0,7,0,2,0,9,131,59,9,199,131,199
+4008926,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,8,220,0,0,1,0,1,0,0,0,3,80,2,0,1,0,7,0,3,0,16,114,68,8,190,114,190
+4008936,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,9,220,0,0,1,4,1,0,1,0,2,75,2,3,1,2,5,0,3,0,10,110,68,10,188,110,188
+4008956,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,11,220,0,0,7,2,3,0,0,0,0,90,5,1,0,6,7,0,6,0,17,144,49,8,201,144,201
+4008966,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,12,220,0,0,6,3,1,0,0,0,4,90,0,2,3,2,6,0,4,0,8,129,58,1,188,129,188
+4008976,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,13,220,0,0,5,2,3,0,0,0,0,92,0,0,1,2,8,0,6,2,9,130,56,4,190,130,190
+4008986,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,143,U. E. Movimiento Sin Techo,14,220,0,0,5,1,2,0,0,0,2,91,1,0,0,3,11,0,5,2,10,133,53,18,204,133,204
+4009216,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,8,220,0,0,2,4,2,0,0,0,3,77,4,1,1,2,11,0,5,3,9,124,64,6,194,124,194
+4009226,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,9,220,0,0,3,5,5,0,3,0,3,56,6,1,5,1,11,0,2,1,17,119,66,6,191,119,191
+4009236,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,10,220,0,0,4,3,2,0,1,0,3,72,4,2,3,1,14,0,0,1,12,122,58,8,188,122,188
+4009246,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,11,220,0,0,3,5,3,0,0,0,5,68,0,1,1,3,8,0,5,1,16,119,69,6,194,119,194
+4009256,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,12,220,0,0,9,0,5,0,1,0,3,71,2,1,0,3,11,0,4,2,26,138,46,8,192,138,192
+4009266,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,146,U. Esc. San Isidro,13,136,0,0,4,1,0,0,0,0,1,37,3,2,0,3,8,0,2,1,9,71,46,3,120,71,120
+4009386,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25038,U. Esc. San Juan De Dios,1,141,0,0,2,1,3,0,0,0,1,58,5,1,0,1,4,0,3,0,11,90,39,3,132,90,132
+4009726,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,7,220,0,0,5,5,6,0,1,0,4,43,3,2,14,3,8,0,8,3,23,128,55,8,191,128,191
+4009736,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,8,220,0,0,2,9,7,0,2,0,8,38,5,1,10,1,16,0,1,1,39,140,46,3,189,140,189
+4009746,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,9,220,0,0,6,9,10,0,2,0,9,40,3,3,11,2,10,0,3,4,39,151,41,5,197,151,197
+4009756,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,10,220,0,0,3,8,4,0,1,0,4,41,3,2,11,2,8,0,1,3,27,118,52,13,183,118,183
+4009766,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,11,220,0,0,9,4,4,0,1,0,9,39,1,5,19,1,9,0,2,5,25,133,43,8,184,133,184
+4009776,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,122,U. Esc. Uru Uru,12,62,0,0,1,1,2,0,0,0,0,12,0,0,6,0,6,0,0,0,10,38,15,3,56,38,56
+4009786,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,1,220,0,0,3,9,3,0,1,0,3,44,4,3,14,2,10,0,6,5,22,129,50,11,190,129,190
+4009796,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,2,220,0,0,3,7,4,0,0,0,6,48,2,10,12,4,9,0,7,4,28,144,46,4,194,144,194
+4009806,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,3,220,0,0,9,10,5,0,0,0,7,36,2,2,11,5,9,0,5,6,38,145,42,5,192,145,192
+4009816,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,4,220,0,0,5,7,2,0,0,0,2,53,1,1,11,5,10,0,2,7,32,138,40,5,183,138,183
+4009826,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,5,220,0,0,3,8,5,0,3,0,4,45,5,3,11,2,6,0,4,4,34,137,43,6,186,137,186
+4009836,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,6,220,0,0,6,5,6,0,1,0,5,46,6,6,6,3,8,0,4,9,26,137,52,7,196,137,196
+4009846,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,123,Fundacion Infocal,7,51,0,0,1,0,1,0,0,0,1,7,6,0,3,1,2,0,0,3,6,31,11,1,43,31,43
+4009866,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,2,220,0,0,8,7,2,0,3,0,7,42,3,5,19,5,10,0,1,5,29,146,41,7,194,146,194
+4009876,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,3,220,0,0,6,4,4,0,0,0,2,50,7,5,12,4,8,0,4,3,33,142,43,8,193,142,193
+4009886,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,124,Kinder Juancito Pinto,4,220,0,0,6,6,7,0,1,0,5,42,4,3,14,7,7,0,11,3,35,151,39,6,196,151,196
+4009946,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),1,220,0,0,2,2,8,0,2,0,5,49,2,3,10,7,14,0,1,2,32,139,43,6,188,139,188
+4009966,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),3,220,0,0,5,10,3,0,1,0,11,48,3,4,7,3,13,0,6,2,29,145,46,9,200,145,200
+4009976,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),4,220,0,0,3,9,3,0,0,0,8,58,1,2,6,3,14,0,5,3,29,144,33,6,183,144,183
+4009986,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,31023,U.E. Juan pablo Secundaria (Temporal),5,220,0,0,3,10,6,0,0,0,2,49,2,0,11,3,12,0,2,1,26,127,50,14,191,127,191
+4010276,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,1,220,0,0,7,5,10,0,1,0,1,46,3,1,12,2,10,0,1,3,38,140,48,4,192,140,192
+4010286,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,25028,Kinder Chiripujio,2,182,0,0,5,5,8,0,0,0,4,33,4,2,10,0,5,0,2,3,28,109,34,5,148,109,148
+4010356,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),5,220,0,0,2,3,2,0,0,0,7,77,6,5,7,2,6,0,1,4,15,137,50,1,188,137,188
+4010366,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),6,220,0,0,7,5,5,0,0,0,5,50,4,3,7,0,4,0,2,1,27,120,50,7,177,120,177
+4010376,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),7,220,0,0,4,3,5,0,2,0,1,69,5,4,9,6,4,0,2,6,13,133,47,1,181,133,181
+4010386,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,127,Col. Nal.Mixto Mejillones (V. Challacollo),8,67,0,0,1,0,0,0,0,0,0,18,1,4,4,1,2,0,1,0,4,36,15,4,55,36,55
+4010456,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,7,220,0,0,13,10,7,0,1,0,5,40,3,1,12,5,9,0,5,3,32,146,40,5,191,146,191
+4010476,CONCEJALES,32,Bolivia,4,Oruro,1,Cercado,1,Oruro,2059,Oruro,128,Col. Particular La Salle,9,220,0,0,4,9,5,0,0,0,4,37,5,1,19,9,12,0,2,2,34,143,41,1,185,143,185
