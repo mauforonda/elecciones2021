@@ -27,14 +27,12 @@ def download(departamento):
 
     dep_id = departamento['id']
 
-    data = f'{{"tipoArchivo":"CSV", "idDepartamento":{dep_id}}}'
-
-    meta = requests.post('https://computo.oep.org.bo/api/v1/descargar', headers=headers, data=data)
-    response = requests.get(meta.json()['datoAdicional']['archivo'])
-    csvdata = csv.reader(response.content.decode('iso8859').splitlines(), delimiter=',')
-    if csvdata.line_num > 0:
-        filename = 'datos/{}/{}.csv'.format(departamento['nombre'], '_'.join(meta.json()['datoAdicional']['archivo'].split('/')[-1].split('_')[1:4]))
-        data = [row for row in csvdata]
+    archivo = requests.post('https://computo.oep.org.bo/api/v1/descargar', headers=headers, data=f'{{"tipoArchivo":"CSV", "idDepartamento":{dep_id}}}')
+    response = requests.get(archivo.json()['datoAdicional']['archivo'])
+    csvdata = csv.reader(response.content.decode('iso8859').splitlines(), delimiter='|')
+    data = [row for row in csvdata]
+    if len(data) > 0:
+        filename = 'datos/{}/{}.csv'.format(departamento['nombre'], '_'.join(archivo.json()['datoAdicional']['archivo'].split('/')[-1].split('_')[1:4]))
         df = pd.DataFrame(data[1:], columns=data[0])
         if not os.path.exists('datos'):
             os.makedirs('datos')
