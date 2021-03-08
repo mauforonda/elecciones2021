@@ -1,0 +1,90 @@
+CODIGO_MESA,DESCRIPCION,CODIGO_PAIS,NOMBRE_PAIS,CODIGO_DEPARTAMENTO,NOMBRE_DEPARTAMENTO,CODIGO_PROVINCIA,NOMBRE_PROVINCIA,CODIGO_SECCION,NOMBRE_MUNICIPIO,CODIGO_LOCALIDAD,NOMBRE_LOCALIDAD,CODIGO_RECINTO,NOMBRE_RECINTO,NUMERO_MESA,INSCRITOS_HABILITADOS,BSTH,CZM - APG,CST,C-A,UN,FPV,MAS-IPSP,MIM,MNR,MTS,PAN-BOL,R-2025,SOMHOS,T.P.C.,UNIR-VILLA VACA GUZMAN,UNIDOS,VOTO_VALIDO,VOTO_BLANCO,VOTO_NULO,VOTO_EMITIDO,VOTO_VALIDO_SISTEMA,VOTO_EMITIDO_SISTEMA
+1000982,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,2,220,12,0,128,4,0,0,23,0,0,0,0,0,0,0,0,19,186,1,5,192,186,192
+1001532,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1,220,9,0,112,11,0,0,39,0,1,0,0,0,0,0,0,11,183,5,8,196,183,196
+1001542,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,2,220,11,0,100,4,0,0,49,0,0,0,0,0,0,0,0,8,172,10,9,191,172,191
+1001552,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,3,220,21,0,81,14,0,0,43,0,0,0,0,0,0,0,0,7,166,9,11,186,166,186
+1001562,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,4,220,15,0,90,12,0,0,48,0,5,0,0,0,0,0,0,11,181,8,12,201,181,201
+1001572,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,5,220,12,0,82,7,0,0,49,0,1,0,0,0,0,0,0,8,159,13,10,182,159,182
+1001612,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,9,207,11,0,98,9,0,0,37,0,2,0,0,0,0,0,0,7,164,6,5,175,164,175
+1003662,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1,220,13,0,87,17,0,0,37,0,1,0,0,0,0,0,0,10,165,7,8,180,165,180
+1003692,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,4,220,20,0,103,11,0,0,35,0,1,0,0,0,0,0,0,3,173,8,6,187,173,187
+1003732,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,8,225,13,0,95,19,0,0,39,0,1,0,0,0,0,0,0,13,180,7,12,199,180,199
+1003812,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,8,41,4,0,17,0,0,0,9,0,0,0,0,0,0,0,0,3,33,0,2,35,33,35
+1003822,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1,106,5,0,39,6,0,0,19,0,0,0,0,0,0,0,0,7,76,4,1,81,76,81
+1006782,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1,142,3,0,57,4,0,0,39,0,0,0,0,0,0,0,0,11,114,9,11,134,114,134
+1008192,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,16,220,6,0,111,6,0,0,46,0,1,0,0,0,0,0,0,6,176,3,14,193,176,193
+1008262,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,4,220,8,0,104,12,0,0,44,0,0,0,0,0,0,0,0,10,178,5,9,192,178,192
+1010292,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1,63,2,0,12,5,0,0,21,0,2,0,0,0,0,0,0,2,44,5,5,54,44,54
+1010302,GOBERNADOR(A),32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1,209,17,0,69,8,0,0,53,0,1,0,0,0,0,0,0,7,155,8,24,187,155,187
+1000982,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,2,220,9,0,97,11,4,0,23,0,0,0,0,0,0,0,0,30,174,13,5,192,174,192
+1001532,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1,220,5,0,81,20,5,0,33,0,0,0,0,0,0,0,0,18,162,25,9,196,162,196
+1001542,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,2,220,16,0,63,8,4,0,43,0,0,0,0,0,0,0,0,19,153,31,7,191,153,191
+1001552,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,3,220,13,0,49,25,7,0,39,0,0,0,0,0,0,0,0,17,150,25,11,186,150,186
+1001562,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,4,220,10,0,63,16,5,0,47,0,0,0,0,0,0,0,0,19,160,31,10,201,160,201
+1001572,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,5,220,13,0,60,11,6,0,43,0,0,0,0,0,0,0,0,19,152,25,5,182,152,182
+1001612,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,9,207,11,0,76,13,4,0,35,0,0,0,0,0,0,0,0,17,156,16,3,175,156,175
+1003662,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1,220,8,0,61,26,6,0,30,0,0,0,0,0,0,0,0,15,146,28,6,180,146,180
+1003692,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,4,220,10,0,70,16,0,0,41,0,0,0,0,0,0,0,0,17,154,23,10,187,154,187
+1003732,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,8,225,9,0,62,23,6,0,32,0,0,0,0,0,0,0,0,25,157,33,9,199,157,199
+1003812,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,8,41,2,0,12,6,1,0,9,0,0,0,0,0,0,0,0,3,33,2,0,35,33,35
+1003822,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1,106,3,0,25,11,3,0,18,0,0,0,0,0,0,0,0,11,71,10,0,81,71,81
+1006782,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1,142,5,0,37,3,1,0,31,0,0,0,0,0,0,0,0,21,98,25,11,134,98,134
+1008192,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,16,220,6,0,59,20,10,0,39,0,0,0,0,0,0,0,0,18,152,32,9,193,152,193
+1008262,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,4,220,9,0,73,17,5,0,42,0,0,0,0,0,0,0,0,13,159,27,6,192,159,192
+1010292,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1,63,2,0,9,6,2,0,23,0,0,0,0,0,0,0,0,3,45,4,5,54,45,54
+1010302,ASAMBLEISTA TERRITORIO,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1,209,9,0,40,16,2,0,55,0,0,0,0,0,0,0,0,15,137,38,12,187,137,187
+1000982,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,2,220,7,0,85,7,2,0,21,0,1,0,0,0,0,0,0,23,146,45,1,192,146,192
+1001532,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,1,220,3,0,73,14,1,0,34,0,2,0,0,0,0,0,0,15,142,45,9,196,142,196
+1001542,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,2,220,7,0,61,8,4,0,36,0,0,0,0,0,0,0,0,10,126,57,8,191,126,191
+1001552,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,3,220,10,0,49,21,2,0,35,0,0,0,0,0,0,0,0,11,128,50,8,186,128,186
+1001562,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,4,220,7,0,61,10,4,0,41,0,3,0,0,0,0,0,0,13,139,56,6,201,139,201
+1001572,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,5,220,7,0,53,12,5,0,39,0,0,0,0,0,0,0,0,11,127,50,5,182,127,182
+1001612,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,9,207,9,0,68,15,3,0,30,0,3,0,0,0,0,0,0,7,135,38,2,175,135,175
+1003662,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,1,220,6,0,54,22,6,0,28,0,0,0,0,0,0,0,0,8,124,51,5,180,124,180
+1003692,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,4,220,7,0,61,18,0,0,32,0,3,0,0,0,0,0,0,9,130,50,7,187,130,187
+1003732,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,8,225,4,0,58,22,5,0,30,0,1,0,0,0,0,0,0,12,132,61,6,199,132,199
+1003812,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,8,41,0,0,14,3,0,0,8,0,0,0,0,0,0,0,0,2,27,8,0,35,27,35
+1003822,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1,106,3,0,24,5,2,0,16,0,0,0,0,0,0,0,0,8,58,23,0,81,58,81
+1006782,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1,142,1,0,34,1,0,0,23,0,0,0,0,0,0,0,0,20,79,51,4,134,79,134
+1008192,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,16,220,6,0,57,16,5,0,28,0,1,0,0,0,0,0,0,13,126,62,5,193,126,193
+1008262,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,4,220,7,0,63,15,2,0,32,0,2,0,0,0,0,0,0,11,132,57,3,192,132,192
+1010292,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1,63,1,0,5,6,0,0,16,0,1,0,0,0,0,0,0,3,32,19,3,54,32,54
+1010302,ASAMBLEISTA POBLACION,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1,209,7,0,37,10,4,0,42,0,1,0,0,0,0,0,0,8,109,69,9,187,109,187
+1000906,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,30013,Coliseo Col. San Cristobal (Temporal),4,87,0,0,5,5,3,0,14,0,0,1,0,34,0,0,0,4,66,1,3,70,66,70
+1000976,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,1,220,0,0,9,7,3,0,27,0,2,0,1,123,0,0,0,8,180,3,4,187,180,187
+1000986,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,2,220,0,0,10,12,3,0,33,0,3,0,3,110,0,0,0,13,187,3,2,192,187,192
+1001546,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,2,220,0,0,16,20,4,2,59,0,2,0,3,66,0,0,0,10,182,5,4,191,182,191
+1001556,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,3,220,0,0,11,20,6,0,54,0,0,0,6,71,0,0,0,7,175,2,9,186,175,186
+1001576,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,5,220,0,0,17,21,7,2,51,0,6,1,1,58,0,0,0,6,170,4,8,182,170,182
+1001596,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,7,220,0,0,18,9,3,0,42,0,2,1,1,84,0,0,0,17,177,4,5,186,177,186
+1001616,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,9,207,0,0,12,17,0,1,47,0,2,0,0,79,0,0,0,6,164,2,9,175,164,175
+1003696,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,4,220,0,0,11,24,3,1,50,0,3,0,3,80,0,0,0,5,180,3,4,187,180,187
+1003706,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,5,220,0,0,18,17,2,1,31,0,4,0,2,92,0,0,0,17,184,4,5,193,184,193
+1003736,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,8,225,0,0,17,28,4,2,52,0,5,0,6,63,0,0,0,9,186,5,8,199,186,199
+1003816,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,8,41,0,0,4,3,0,0,13,0,0,0,0,12,0,0,0,2,34,0,1,35,34,35
+1003826,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1,106,0,0,4,13,1,0,25,0,0,1,0,35,0,0,0,1,80,1,0,81,80,81
+1006786,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1,142,0,0,11,6,1,1,50,0,0,0,0,38,0,0,0,10,117,3,14,134,117,134
+1008136,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,10,220,0,0,8,12,1,3,81,0,3,1,8,46,0,0,0,9,172,4,17,193,172,193
+1008186,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,15,220,0,0,19,22,1,0,64,0,3,0,2,53,0,0,0,7,171,5,6,182,171,182
+1008276,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,5,220,0,0,14,21,1,1,52,0,3,0,4,70,0,0,0,15,181,3,4,188,181,188
+1010296,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1,63,0,0,1,9,1,1,19,0,3,0,1,7,0,0,0,3,45,4,5,54,45,54
+1010306,ALCALDESA/ALCALDE,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1,209,0,0,12,20,3,1,69,0,2,1,2,27,0,0,0,11,148,10,29,187,148,187
+1000906,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,30013,Coliseo Col. San Cristobal (Temporal),4,87,0,0,4,8,2,0,11,0,0,1,0,25,0,0,0,3,54,14,2,70,54,70
+1000976,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,1,220,0,0,9,10,7,0,19,0,2,0,1,105,0,0,0,8,161,23,3,187,161,187
+1000986,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,103,Esc. Mariscal De Ayacucho,2,220,0,0,8,14,7,0,23,0,3,0,2,92,0,0,0,17,166,23,3,192,166,192
+1001546,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,2,220,0,0,19,15,1,0,44,0,0,0,4,47,0,0,0,12,142,45,4,191,142,191
+1001556,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,3,220,0,0,14,21,5,0,38,0,1,1,7,43,0,0,0,7,137,44,5,186,137,186
+1001576,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,5,220,0,0,15,22,6,0,42,0,1,1,2,42,0,0,0,10,141,37,4,182,141,182
+1001596,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,7,220,0,0,15,13,6,0,31,0,4,1,1,56,0,0,0,16,143,37,6,186,143,186
+1001616,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,210,Esc. Josefina Goytia,9,207,0,0,12,24,2,0,35,0,2,0,1,61,0,0,0,8,145,26,4,175,145,175
+1003696,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,4,220,0,0,9,27,4,0,38,0,3,0,7,52,0,0,0,6,146,39,2,187,146,187
+1003706,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,5,220,0,0,20,21,2,0,26,0,2,1,3,65,0,0,0,13,153,33,7,193,153,193
+1003736,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,529,Iglesia San Matías,8,225,0,0,19,32,1,0,38,0,1,0,6,45,0,0,0,10,152,44,3,199,152,199
+1003816,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25530,Campo Deportivo Noria Alta,8,41,0,0,2,7,0,0,10,0,0,0,1,9,0,0,0,1,30,5,0,35,30,35
+1003826,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25577,U.E. Cristo Rey,1,106,0,0,5,15,1,0,18,0,0,1,0,20,0,0,0,5,65,16,0,81,65,81
+1006786,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26372,Salón Multifuncional Sancho,1,142,0,0,11,5,2,0,34,0,0,0,0,25,0,0,0,10,87,40,7,134,87,134
+1008136,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,10,220,0,0,11,18,4,0,60,0,2,0,4,29,0,0,0,8,136,47,10,193,136,193
+1008186,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,534,Escuela Tucsupaya,15,220,0,0,18,20,5,0,46,0,2,0,6,32,0,0,0,7,136,44,2,182,136,182
+1008276,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,25027,Salon Multifuncional El Niño,5,220,0,0,13,20,2,0,34,0,2,0,2,48,0,0,0,17,138,49,1,188,138,188
+1010296,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26374,U.E. Kurusa Llawi,1,63,0,0,0,9,0,0,18,0,3,0,1,4,0,0,0,4,39,12,3,54,39,54
+1010306,CONCEJALES,32,Bolivia,1,Chuquisaca,1,Oropeza,1,Sucre,2794,Sucre,26375,U.E. Tomas Katari Sucre,1,209,0,0,11,11,3,0,49,0,0,1,5,17,0,0,0,7,104,66,17,187,104,187
