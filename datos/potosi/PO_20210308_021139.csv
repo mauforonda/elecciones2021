@@ -1,0 +1,114 @@
+CODIGO_MESA,DESCRIPCION,CODIGO_PAIS,NOMBRE_PAIS,CODIGO_DEPARTAMENTO,NOMBRE_DEPARTAMENTO,CODIGO_PROVINCIA,NOMBRE_PROVINCIA,CODIGO_SECCION,NOMBRE_MUNICIPIO,CODIGO_LOCALIDAD,NOMBRE_LOCALIDAD,CODIGO_RECINTO,NOMBRE_RECINTO,NUMERO_MESA,INSCRITOS_HABILITADOS,ADN,A.A.O.Q,AS,AINI,C-A,CAOCH,C.G.J.A.P.,CONACH-W,FPV,JAY,MAS-IPSP,MCP,DEMOCRATAS,MOP,MTS,PAN-BOL,PSR,PU,UCS,PUKA SUNQU,VOTO_VALIDO,VOTO_BLANCO,VOTO_NULO,VOTO_EMITIDO,VOTO_VALIDO_SISTEMA,VOTO_EMITIDO_SISTEMA
+5000492,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,1,220,0,0,32,0,3,0,0,0,1,0,47,0,9,13,3,43,0,0,0,19,170,12,8,190,170,190
+5000512,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,3,220,0,0,34,0,2,0,0,0,1,0,51,0,10,8,1,47,0,0,0,9,163,15,16,194,163,194
+5000552,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,7,45,0,0,6,0,0,0,0,0,0,0,9,0,1,0,0,9,0,0,0,3,28,6,5,39,28,39
+5001012,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1º de Mayo San Idelfonso,1,35,0,0,13,0,1,0,0,0,0,0,7,0,2,0,1,4,0,0,0,0,28,2,4,34,28,34
+5001032,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,2,220,0,0,20,0,2,0,0,0,0,0,26,0,4,20,1,91,0,0,0,10,174,10,12,196,174,196
+5001062,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5,220,0,0,19,0,4,0,0,0,2,0,32,0,3,12,1,77,0,0,0,10,160,12,19,191,160,191
+5002032,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,8,215,0,0,9,0,4,0,0,0,0,0,33,0,6,20,0,81,0,0,0,11,164,4,14,182,164,182
+5002332,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,1,220,0,0,19,0,4,0,0,0,2,0,28,0,8,23,0,79,0,0,0,15,178,5,10,193,178,193
+5002662,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,7,Esc. Antonio Quijarro,3,115,0,0,16,0,1,0,0,0,0,0,6,0,5,11,1,52,0,0,0,4,96,1,4,101,96,101
+5003302,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,1,220,0,0,9,0,10,0,0,0,1,0,30,0,6,23,2,93,0,0,0,6,180,2,11,193,180,193
+5003322,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,3,220,0,0,18,0,3,0,0,0,1,0,21,0,1,23,0,74,0,0,0,4,145,9,34,188,145,188
+5003332,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,4,220,0,0,18,0,3,0,0,0,1,0,36,0,6,30,0,72,0,0,0,5,171,12,5,188,171,188
+5003412,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31114,Kindergarten Potosí (Temporal),3,220,0,0,24,0,10,0,0,0,1,0,19,0,5,26,3,82,0,0,0,9,179,8,8,195,179,195
+5003422,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31114,Kindergarten Potosí (Temporal),4,170,0,0,11,0,2,0,0,0,1,0,15,0,3,16,0,76,0,0,0,14,138,7,6,151,138,151
+5004032,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,1,220,0,0,22,0,1,0,0,0,1,0,23,0,4,12,2,86,0,0,0,9,160,18,16,194,160,194
+5004052,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,3,220,0,0,25,0,2,0,0,0,2,0,16,0,2,15,1,99,0,0,0,8,170,10,16,196,170,196
+5004062,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,4,220,0,0,35,0,1,0,0,0,0,0,15,0,7,19,0,91,0,0,0,7,175,10,12,197,175,197
+5004392,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31126,Centro Tecnológico Boliviano del Litio (Temporal),1,220,0,0,41,0,0,0,0,0,1,0,62,0,3,8,0,35,0,0,0,13,163,11,18,192,163,192
+5004792,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31122,Jardín de Infantes Niño Jesús (Temporal),4,189,0,0,22,0,5,0,0,0,2,0,24,0,3,19,0,62,0,0,0,8,145,11,9,165,145,165
+5005442,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31115,Kinder Mariscal Andrés de Santa Cruz (Temporal),2,220,0,0,34,0,4,0,0,0,0,0,38,0,5,13,1,64,0,0,0,14,173,7,13,193,173,193
+5005452,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31115,Kinder Mariscal Andrés de Santa Cruz (Temporal),3,201,0,0,26,0,3,0,0,0,0,0,22,0,3,20,3,70,0,0,0,10,157,15,6,178,157,178
+5005762,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,6,220,0,0,24,0,3,0,0,0,1,0,32,0,9,15,1,83,0,0,0,7,175,6,12,193,175,193
+5006432,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,1,130,0,0,19,0,3,0,0,0,0,0,34,0,5,6,0,24,0,0,0,4,95,6,3,104,95,104
+5006582,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,3,21,0,0,2,0,0,0,0,0,0,0,8,0,0,0,2,2,0,0,0,1,15,1,2,18,15,18
+5006872,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31119,Polideportivo Villa Copacabana (Temporal),2,183,0,0,24,0,3,0,0,0,0,0,25,0,3,17,1,62,0,0,0,3,138,9,11,158,138,158
+5007122,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,1,220,0,0,26,0,3,0,0,0,1,0,45,0,2,6,0,66,0,0,0,12,161,13,16,190,161,190
+5007132,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,2,220,0,0,32,0,4,0,0,0,0,0,47,0,6,5,1,48,0,0,0,17,160,14,17,191,160,191
+5007142,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,3,220,0,0,25,0,2,0,0,0,2,0,41,0,2,6,0,64,0,0,0,11,153,18,7,178,153,178
+5007152,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,4,220,0,0,26,0,1,0,0,0,1,0,45,0,5,8,3,64,0,0,0,7,160,15,11,186,160,186
+5007162,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,5,220,0,0,26,0,4,0,0,0,3,0,68,0,5,6,1,50,0,0,0,14,177,10,10,197,177,197
+5007172,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,6,220,0,0,29,0,4,0,0,0,0,0,39,0,7,11,2,62,0,0,0,15,169,6,11,186,169,186
+5007182,GOBERNADOR(A),32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,7,57,0,0,6,0,0,0,0,0,1,0,8,0,1,4,1,16,0,0,0,1,38,2,3,43,38,43
+5000492,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,1,220,0,0,29,0,5,0,0,0,0,0,35,0,9,9,2,21,0,0,0,19,129,53,8,190,129,190
+5000512,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,3,220,0,0,31,0,5,0,0,0,0,0,39,0,15,6,5,24,0,0,0,8,133,53,8,194,133,194
+5000552,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,7,45,0,0,5,0,1,0,0,0,0,0,6,0,0,3,0,3,0,0,0,3,21,14,4,39,21,39
+5001012,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1º de Mayo San Idelfonso,1,35,0,0,8,0,0,0,0,0,0,0,2,0,1,2,1,1,0,0,0,1,16,15,3,34,16,34
+5001032,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,2,220,0,0,23,0,7,0,0,0,0,0,15,0,11,9,7,24,0,0,0,15,111,42,43,196,111,196
+5001062,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5,220,0,0,26,0,8,0,0,0,1,0,12,0,6,9,6,27,0,0,0,15,110,35,46,191,110,191
+5002032,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,8,215,0,0,13,0,11,0,0,0,0,0,21,0,9,18,2,48,0,0,0,15,137,33,12,182,137,182
+5002332,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,1,220,0,0,16,0,10,0,0,0,0,0,18,0,12,28,1,30,0,0,0,22,137,43,13,193,137,193
+5002662,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,7,Esc. Antonio Quijarro,3,115,0,0,14,0,5,0,0,0,0,0,4,0,10,9,3,24,0,0,0,12,81,15,5,101,81,101
+5003302,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,1,220,0,0,17,0,11,0,0,0,0,0,20,0,15,20,6,43,0,0,0,9,141,35,17,193,141,193
+5003322,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,3,220,0,0,16,0,11,0,0,0,2,0,9,0,8,13,8,19,0,0,0,13,99,39,50,188,99,188
+5003332,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,4,220,0,0,21,0,10,0,0,0,1,0,28,0,10,23,6,30,0,0,0,15,144,31,13,188,144,188
+5003412,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31114,Kindergarten Potosí (Temporal),3,220,0,0,26,0,21,0,0,0,0,0,11,0,7,19,6,39,0,0,0,16,145,38,12,195,145,195
+5003422,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31114,Kindergarten Potosí (Temporal),4,170,0,0,9,0,7,0,0,0,1,0,8,0,10,13,5,24,0,0,0,19,96,41,14,151,96,151
+5004032,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,1,220,0,0,21,0,10,0,0,0,2,0,13,0,7,19,4,35,0,0,0,15,126,51,17,194,126,194
+5004052,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,3,220,0,0,25,0,18,0,0,0,0,0,9,0,6,18,1,40,0,0,0,21,138,44,14,196,138,196
+5004062,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,4,220,0,0,33,0,14,0,0,0,1,0,9,0,8,20,5,44,0,0,0,10,144,44,9,197,144,197
+5004392,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31126,Centro Tecnológico Boliviano del Litio (Temporal),1,220,0,0,37,0,2,0,0,0,1,0,22,0,3,3,5,12,0,0,0,10,95,68,29,192,95,192
+5004792,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31122,Jardín de Infantes Niño Jesús (Temporal),4,189,0,0,19,0,11,0,0,0,1,0,19,0,8,17,3,32,0,0,0,16,126,33,6,165,126,165
+5005442,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31115,Kinder Mariscal Andrés de Santa Cruz (Temporal),2,220,0,0,29,0,11,0,0,0,0,0,28,0,9,15,4,29,0,0,0,15,140,42,11,193,140,193
+5005452,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31115,Kinder Mariscal Andrés de Santa Cruz (Temporal),3,201,0,0,29,0,5,0,0,0,0,0,16,0,4,12,3,43,0,0,0,13,125,44,9,178,125,178
+5005762,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,6,220,0,0,28,0,13,0,0,0,2,0,24,0,15,16,1,32,0,0,0,17,148,33,12,193,148,193
+5006432,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,1,130,0,0,23,0,5,0,0,0,0,0,17,0,4,5,0,12,0,0,0,7,73,29,2,104,73,104
+5006582,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,3,21,0,0,3,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,8,4,6,18,8,18
+5006872,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31119,Polideportivo Villa Copacabana (Temporal),2,183,0,0,25,0,7,0,0,0,0,0,18,0,2,18,3,30,0,0,0,11,114,32,12,158,114,158
+5007122,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,1,220,0,0,26,0,6,0,0,0,0,0,31,0,1,3,2,32,0,0,0,12,113,59,18,190,113,190
+5007132,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,2,220,0,0,33,0,6,0,0,0,0,0,35,0,6,3,1,25,0,0,0,15,124,50,17,191,124,191
+5007142,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,3,220,0,0,25,0,7,0,0,0,0,0,16,0,6,12,2,12,0,0,0,13,93,50,35,178,93,178
+5007152,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,4,220,0,0,25,0,6,0,0,0,1,0,33,0,4,12,7,23,0,0,0,12,123,55,8,186,123,186
+5007162,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,5,220,0,0,24,0,3,0,0,0,0,0,51,0,4,14,3,26,0,0,0,16,141,48,8,197,141,197
+5007172,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,6,220,0,0,30,0,4,0,0,0,0,0,15,0,4,10,3,16,0,0,0,13,95,64,27,186,95,186
+5007182,ASAMBLEISTA TERRITORIO,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,7,57,0,0,5,0,6,0,0,0,0,0,6,0,2,5,0,3,0,0,0,1,28,11,4,43,28,43
+5000492,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,1,220,0,0,32,0,5,0,0,0,1,0,31,0,7,10,1,18,0,0,0,7,112,71,7,190,112,190
+5000512,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,3,220,0,0,26,0,2,0,0,0,0,0,35,0,8,7,1,18,0,0,0,5,102,89,3,194,102,194
+5000552,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25047,U.E. Dr. Gonzalo Calderon Rios,7,45,0,0,4,0,1,0,0,0,0,0,6,0,0,2,0,3,0,0,0,0,16,21,2,39,16,39
+5001012,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1º de Mayo San Idelfonso,1,35,0,0,9,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,2,16,15,3,34,16,34
+5001032,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,2,220,0,0,25,0,8,0,0,0,0,0,25,0,4,14,1,34,0,0,0,10,121,59,16,196,121,196
+5001062,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,15,Esc. Benicio Montero Mallo,5,220,0,0,31,0,4,0,0,0,1,0,24,0,4,7,4,35,0,0,0,12,122,56,13,191,122,191
+5002032,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,19,Coleg. Cristo Maestro,8,215,0,0,19,0,11,0,0,0,0,0,16,0,2,14,0,45,0,0,0,12,119,51,12,182,119,182
+5002332,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,1,220,0,0,16,0,5,0,0,0,1,0,19,0,3,20,3,29,0,0,0,17,113,66,14,193,113,193
+5002662,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,7,Esc. Antonio Quijarro,3,115,0,0,20,0,5,0,0,0,0,0,4,0,3,5,4,20,0,0,0,9,70,26,5,101,70,101
+5003302,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,1,220,0,0,15,0,12,0,0,0,1,0,19,0,3,14,9,44,0,0,0,11,128,50,16,194,128,194
+5003322,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,3,220,0,0,20,0,12,0,0,0,2,0,18,0,6,15,0,34,0,0,0,8,115,56,17,188,115,188
+5003332,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25039,Col. Aniceto Arce,4,220,0,0,18,0,8,0,0,0,2,0,27,0,11,18,1,26,0,0,0,10,121,57,10,188,121,188
+5003412,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31114,Kindergarten Potosí (Temporal),3,220,0,0,25,0,11,0,0,0,1,0,11,0,3,19,4,40,0,0,0,9,123,62,10,195,123,195
+5003422,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31114,Kindergarten Potosí (Temporal),4,170,0,0,13,0,7,0,0,0,1,0,11,0,4,8,2,26,0,0,0,20,92,52,7,151,92,151
+5004032,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,1,220,0,0,25,0,7,0,0,0,1,0,15,0,1,12,6,34,0,0,0,16,117,67,10,194,117,194
+5004052,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,3,220,0,0,26,0,5,0,0,0,0,0,12,0,3,9,1,48,0,0,0,13,117,69,10,196,117,196
+5004392,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31126,Centro Tecnológico Boliviano del Litio (Temporal),1,220,0,0,36,0,0,0,0,0,1,0,31,0,2,3,0,15,0,0,0,6,94,93,5,192,94,192
+5004792,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31122,Jardín de Infantes Niño Jesús (Temporal),4,189,0,0,24,0,9,0,0,0,2,0,16,0,2,12,1,26,0,0,0,12,104,51,10,165,104,165
+5005442,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31115,Kinder Mariscal Andrés de Santa Cruz (Temporal),2,220,0,0,30,0,8,0,0,0,0,0,20,0,2,7,2,27,0,0,0,13,109,73,11,193,109,193
+5005452,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31115,Kinder Mariscal Andrés de Santa Cruz (Temporal),3,201,0,0,24,0,5,0,0,0,0,0,13,0,0,8,2,39,0,0,0,9,100,69,9,178,100,178
+5005762,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,6,220,0,0,29,0,11,0,0,0,0,0,23,0,11,12,3,29,0,0,0,8,126,54,13,193,126,193
+5006432,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25505,U.E. Jesus Valle,1,130,0,0,13,0,3,0,0,0,0,0,16,0,3,6,0,12,0,0,0,1,54,49,1,104,54,104
+5006582,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,3,21,0,0,3,0,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0,0,11,5,2,18,11,18
+5006872,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31119,Polideportivo Villa Copacabana (Temporal),2,183,0,0,25,0,4,0,0,0,1,0,18,0,3,10,1,26,0,0,0,11,99,54,5,158,99,158
+5007122,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,1,220,0,0,24,0,3,0,0,0,0,0,29,0,0,1,1,27,0,0,0,9,94,71,25,190,94,190
+5007132,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,2,220,0,0,26,0,3,0,0,0,0,0,22,0,4,3,2,27,0,0,0,11,98,81,12,191,98,191
+5007142,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,3,220,0,0,21,0,1,0,0,0,0,0,28,0,3,7,1,21,0,0,0,6,88,87,3,178,88,178
+5007152,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,4,220,0,0,21,0,2,0,0,0,1,0,31,0,3,5,2,23,0,0,0,6,94,87,5,186,94,186
+5007162,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,5,220,0,0,25,0,1,0,0,0,0,0,41,0,3,8,2,21,0,0,0,8,109,81,7,197,109,197
+5007172,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,6,220,0,0,24,0,3,0,0,0,0,0,24,0,2,5,3,21,0,0,0,12,94,87,5,186,94,186
+5007182,ASAMBLEISTA POBLACION,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25638,U.E. Liceo de Señoritas Maria Gutierrez,7,57,0,0,6,0,3,0,0,0,0,0,6,0,0,3,0,8,0,0,0,1,27,14,2,43,27,43
+5001016,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1º de Mayo San Idelfonso,1,35,0,0,11,0,0,0,2,0,0,0,6,3,2,0,3,1,0,0,2,1,31,2,1,34,31,34
+5002366,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,4,220,0,0,28,0,5,0,3,0,0,0,10,68,12,0,22,3,0,0,2,8,161,2,31,194,161,194
+5002666,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,7,Esc. Antonio Quijarro,3,115,0,0,28,0,0,0,1,0,0,0,3,36,4,0,13,0,0,0,0,7,92,0,9,101,92,101
+5003386,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31108,"U. E. 31 de Octubre """"A"""" Nivel Inicial (Temporal)",4,115,0,0,27,0,1,0,1,0,0,0,7,36,4,0,3,0,0,0,0,1,80,1,14,95,80,95
+5004036,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,1,220,0,0,59,0,0,0,2,0,0,0,5,82,9,0,6,3,0,0,3,3,172,4,18,194,172,194
+5004046,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,2,220,0,0,50,0,0,0,5,0,0,0,10,95,16,0,2,0,0,0,2,1,181,3,13,197,181,197
+5004416,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31126,Centro Tecnológico Boliviano del Litio (Temporal),3,220,0,0,78,0,0,0,3,0,0,0,24,40,9,0,1,0,0,0,1,5,161,13,19,193,161,193
+5005866,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,16,57,0,0,13,0,2,0,1,0,0,0,3,16,5,0,4,1,0,0,0,3,48,0,5,53,48,53
+5006586,ALCALDESA/ALCALDE,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,3,21,0,0,13,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,15,1,2,18,15,18
+5001016,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25052,U.E. 1º de Mayo San Idelfonso,1,35,0,0,7,0,1,0,0,0,0,0,5,0,2,0,2,1,0,0,1,0,19,13,2,34,19,34
+5002366,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,10,Coleg. Bancario,4,220,0,0,21,0,16,0,5,0,1,0,11,33,11,5,14,3,0,0,2,13,135,30,29,194,135,194
+5002666,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,7,Esc. Antonio Quijarro,3,115,0,0,20,0,5,0,1,0,0,0,2,24,8,1,13,0,0,0,0,8,82,12,7,101,82,101
+5003386,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31108,"U. E. 31 de Octubre """"A"""" Nivel Inicial (Temporal)",4,115,0,0,23,0,3,0,1,0,0,0,9,26,3,2,0,1,0,0,0,3,71,10,14,95,71,95
+5004036,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,1,220,0,0,43,0,6,0,2,0,0,0,7,47,5,6,6,6,0,0,2,3,133,49,12,194,133,194
+5004046,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,589,Instituto San Juan,2,220,0,0,33,0,6,0,2,0,0,0,11,63,11,5,2,0,0,0,1,6,140,48,9,197,140,197
+5004416,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,31126,Centro Tecnológico Boliviano del Litio (Temporal),3,220,0,0,44,0,0,0,2,0,0,0,20,29,4,2,3,2,0,0,0,3,109,75,9,193,109,193
+5005866,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,29,Fe y Alegría y San Clemente,16,57,0,0,11,0,5,0,1,0,0,0,4,7,3,2,4,0,0,0,0,3,40,8,5,53,40,53
+5006586,CONCEJALES,32,Bolivia,5,Potosí,1,Tomás Frías,1,Potosí,1494,Potosí,25036,(Cárcel) Penal de Cantumarca,3,21,0,0,5,0,0,0,0,0,0,0,3,0,0,4,0,0,0,0,0,0,12,3,3,18,12,18
