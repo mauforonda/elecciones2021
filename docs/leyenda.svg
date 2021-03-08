@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="leyenda.svg"
-   inkscape:export-filename="/home/m/code/elecciones2021_2/docs/leyenda_gobernaciones.png"
+   inkscape:export-filename="/home/m/code/elecciones2021_2/docs/leyenda_alcaldias.png"
    inkscape:export-xdpi="4.5228763"
    inkscape:export-ydpi="4.5228763">
   <defs
@@ -28,11 +28,11 @@
       <stop
          id="stop992"
          offset="0"
-         style="stop-color:#ff00c8;stop-opacity:1" />
+         style="stop-color:#ff8546;stop-opacity:1" />
       <stop
          id="stop996"
          offset="1"
-         style="stop-color:#0011ff;stop-opacity:1" />
+         style="stop-color:#3e4bf8;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -78,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04"
-     inkscape:cx="7231.1095"
-     inkscape:cy="6884.3259"
+     inkscape:zoom="0.16"
+     inkscape:cx="2904.7335"
+     inkscape:cy="2065.3965"
      inkscape:document-units="mm"
      inkscape:current-layer="g1097-5"
      showgrid="false"
@@ -197,7 +197,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="alcaldía"
-     style="display:none">
+     style="display:inline">
     <text
        transform="translate(239.93937,159.59286)"
        xml:space="preserve"
@@ -216,7 +216,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(464.45724,177.825)"
-     style="display:inline">
+     style="display:none">
     <text
        transform="translate(-224.51787,-18.232141)"
        xml:space="preserve"

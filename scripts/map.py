@@ -54,7 +54,8 @@ def draw_map(candidatura, map_name):
     pendiente = df[df[validos].isna()]
     df = df.dropna()
 
-    cmap = colors.ListedColormap(cm.get_cmap('gist_rainbow_r')(np.linspace(0,.25,256)))
+    # cmap = colors.ListedColormap(cm.get_cmap('gist_rainbow_r')(np.linspace(0,.25,256)))
+    cmap = colors.LinearSegmentedColormap.from_list('mas', ['#ff8546', '#3e4bf8'], N=256)
 
     df[validos] = df[validos].astype(int)
     df = df[df[validos] > 0]
