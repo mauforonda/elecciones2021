@@ -21,14 +21,11 @@ jobs:
           pip install -r scripts/requirements.txt
       - name: update data
         run: |
-          echo ::set-output name=results::$(python scripts/fetch.py)
-        id: update_script
+          python scripts/fetch.py
       - name: make_map
-        if: steps.update_script.outputs.results == 1
         run: |
           python scripts/map.py
       - name: commit
-        if: steps.update_script.outputs.results == 1
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |

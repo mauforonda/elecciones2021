@@ -17,11 +17,23 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="leyenda.svg"
-   inkscape:export-filename="/home/m/code/elecciones2021/docs/leyenda_alcaldias.png"
+   inkscape:export-filename="/home/m/code/elecciones2021_2/docs/leyenda_gobernaciones.png"
    inkscape:export-xdpi="4.5228763"
    inkscape:export-ydpi="4.5228763">
   <defs
      id="defs2">
+    <linearGradient
+       id="linearGradient998"
+       inkscape:collect="always">
+      <stop
+         id="stop992"
+         offset="0"
+         style="stop-color:#ff00c8;stop-opacity:1" />
+      <stop
+         id="stop996"
+         offset="1"
+         style="stop-color:#0011ff;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient966">
@@ -50,14 +62,14 @@
        gradientTransform="matrix(0.96821628,0,0,1.214589,8.6745853,5.6491707)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient966"
-       id="linearGradient1078"
+       xlink:href="#linearGradient998"
+       id="linearGradient990"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.96821628,0,0,1.214589,-28.221922,3.8991452)"
-       x1="-26.620096"
-       y1="57.916609"
-       x2="848.87846"
-       y2="57.916609" />
+       x1="47.457245"
+       y1="55.193638"
+       x2="795.74017"
+       y2="52.140316" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,11 +78,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.08"
-     inkscape:cx="1527.8193"
-     inkscape:cy="958.13866"
+     inkscape:zoom="0.04"
+     inkscape:cx="7231.1095"
+     inkscape:cy="6884.3259"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g1097-5"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -111,8 +123,8 @@
        inkscape:export-xdpi="4.5228763"
        inkscape:export-ydpi="4.5228763" />
     <g
-       style="display:inline"
-       id="g1097"
+       style="display:inline;opacity:1"
+       id="g1097-5"
        transform="translate(36.896526,9.354433)">
       <rect
          rx="16.389774"
@@ -120,10 +132,10 @@
          x="-51.445168"
          height="129.84904"
          width="842.57037"
-         id="rect949"
-         style="opacity:1;fill:url(#linearGradient1078);fill-opacity:1;fill-rule:nonzero;stroke:#585760;stroke-width:5.71385288;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="rect949-3"
+         style="opacity:1;fill:url(#linearGradient990);fill-opacity:1;fill-rule:nonzero;stroke:#585760;stroke-width:5.71385288;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         id="text972"
+         id="text972-5"
          y="102.88348"
          x="282.35178"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.4365921px;line-height:1.25;font-family:NYTFranklin;-inkscape-font-specification:NYTFranklin;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.61827439"
@@ -131,7 +143,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:82.4365921px;font-family:NYTFranklin;-inkscape-font-specification:'NYTFranklin Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.61827439"
            y="102.88348"
            x="282.35178"
-           id="tspan970"
+           id="tspan970-6"
            sodipodi:role="line">MAS</tspan></text>
     </g>
     <text
@@ -185,7 +197,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="alcaldía"
-     style="display:inline">
+     style="display:none">
     <text
        transform="translate(239.93937,159.59286)"
        xml:space="preserve"
@@ -204,7 +216,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(464.45724,177.825)"
-     style="display:none">
+     style="display:inline">
     <text
        transform="translate(-224.51787,-18.232141)"
        xml:space="preserve"
