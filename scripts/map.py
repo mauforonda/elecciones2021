@@ -15,8 +15,8 @@ validos = 'VOTO_VALIDO'
 min_votes_p = .01
 
 ubicaciones = pd.read_csv('scripts/recintos.csv', index_col='id')
-last_files = ['datos/{}/{}'.format(dep, os.listdir('datos/'+dep)[0]) for dep in os.listdir('datos') if len(os.listdir('datos/'+dep)) > 0]
-last_update = sorted([datetime.strptime('_'.join(os.listdir('datos/'+dep)[0].split('_')[1:]), '%Y%m%d_%H%M%S.csv') for dep in os.listdir('datos') if len(os.listdir('datos/'+dep)) > 0])[-1]
+last_files = ['datos/{}/{}'.format(dep, sorted(os.listdir('datos/'+dep))[-1]) for dep in os.listdir('datos') if len(os.listdir('datos/'+dep)) > 0]
+last_update = sorted([datetime.strptime('_'.join(sorted(os.listdir('datos/'+dep))[-1].split('_')[1:]), '%Y%m%d_%H%M%S.csv') for dep in os.listdir('datos') if len(os.listdir('datos/'+dep)) > 0])[-1]
 votacion = pd.concat([pd.read_csv(f) for f in last_files], axis=0)
 
 def scale(x, victoria_mas=.5):
