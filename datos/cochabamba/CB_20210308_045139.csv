@@ -1,0 +1,546 @@
+CODIGO_MESA,DESCRIPCION,CODIGO_PAIS,NOMBRE_PAIS,CODIGO_DEPARTAMENTO,NOMBRE_DEPARTAMENTO,CODIGO_PROVINCIA,NOMBRE_PROVINCIA,CODIGO_SECCION,NOMBRE_MUNICIPIO,CODIGO_LOCALIDAD,NOMBRE_LOCALIDAD,CODIGO_RECINTO,NOMBRE_RECINTO,NUMERO_MESA,INSCRITOS_HABILITADOS,ARI,C-A,FPV,SUMATE,JESUCA,MAS-IPSP,MTS,PARCA,PAN-BOL,PDC,PPS,SOMOS,UCS,UNE,UNPA,UPC,UNIDOS.CBBA,VOTO_VALIDO,VOTO_BLANCO,VOTO_NULO,VOTO_EMITIDO,VOTO_VALIDO_SISTEMA,VOTO_EMITIDO_SISTEMA
+3000852,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,5,220,0,7,0,101,0,25,17,0,3,1,0,0,0,0,0,0,10,164,1,4,169,164,169
+3000862,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,6,220,0,6,0,103,0,25,15,0,1,0,0,0,0,0,0,0,16,166,4,3,173,166,173
+3001022,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,1,220,0,7,0,94,0,21,23,0,0,2,0,2,0,0,0,0,25,174,2,2,178,174,178
+3001032,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,2,220,0,9,0,90,0,24,37,0,0,1,0,0,0,0,0,0,10,171,0,3,174,171,174
+3001062,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,5,220,0,4,0,82,0,23,28,0,0,2,0,2,0,0,0,0,12,153,3,11,167,153,167
+3001082,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,7,220,0,6,0,90,0,18,23,0,0,0,0,1,0,0,0,0,24,162,0,5,167,162,167
+3001092,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,8,220,0,4,0,99,0,22,23,0,0,1,0,1,0,0,0,0,14,164,5,1,170,164,170
+3001112,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,10,220,0,6,0,96,0,21,21,0,0,2,0,1,0,0,0,0,19,166,9,2,177,166,177
+3001122,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,11,220,0,1,0,101,0,28,24,0,0,0,0,2,0,0,0,0,13,169,4,3,176,169,176
+3001142,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,13,220,0,8,0,80,0,25,24,0,1,2,0,2,0,0,0,0,21,163,3,2,168,163,168
+3001172,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26446,Colegio Evangelico Emanuel,1,83,0,3,0,51,0,12,4,0,0,0,0,0,0,0,0,0,6,76,2,0,78,76,78
+3001612,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26448,Universidad Latinoamericana,1,48,0,3,0,22,0,11,2,0,0,0,0,1,0,0,0,0,1,40,0,5,45,40,45
+3001722,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,11,220,0,1,0,115,0,25,16,0,1,1,0,0,0,0,0,0,15,174,3,5,182,174,182
+3003502,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26443,Centro de Educación Alternativa Don Bosco C,1,25,0,0,1,13,0,6,2,0,0,0,0,0,0,0,0,0,1,23,1,0,24,23,24
+3004082,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,2,220,0,4,0,98,0,37,23,0,1,0,0,0,0,0,0,0,18,181,3,4,188,181,188
+3004102,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,4,220,0,2,0,118,0,29,15,0,2,1,0,1,0,0,0,0,14,182,2,2,186,182,186
+3004352,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,3,53,0,0,0,30,0,10,5,0,0,0,0,1,0,0,0,0,0,46,0,0,46,46,46
+3004362,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,1,220,0,7,0,92,0,53,16,0,1,1,0,0,0,0,0,0,7,177,7,6,190,177,190
+3005722,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,1,220,0,4,2,73,0,71,12,0,4,1,0,4,0,0,0,0,2,173,14,3,190,173,190
+3005732,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,2,196,0,3,0,73,0,55,15,0,0,4,0,1,0,0,0,0,3,154,7,3,164,154,164
+3006162,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26449,Kinder San Joaquín,1,39,0,0,0,22,0,4,3,0,0,0,0,0,0,0,0,0,2,31,4,0,35,31,35
+3006952,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,9,220,0,5,0,110,0,25,23,0,1,0,0,2,0,0,0,0,9,175,7,5,187,175,187
+3006992,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,13,180,0,3,0,79,0,20,24,0,0,0,0,2,0,0,0,0,16,144,5,2,151,144,151
+3007112,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,2,220,0,3,0,76,0,57,13,0,0,5,0,1,0,0,0,0,12,167,2,5,174,167,174
+3007162,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,7,106,0,3,0,47,0,26,3,0,0,0,0,0,0,0,0,0,7,86,1,0,87,86,87
+3007182,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,197,(Cárcel) Penitenciaria San Antonio,2,69,0,0,2,16,0,25,0,0,0,1,0,1,0,0,0,0,1,46,4,2,52,46,52
+3008082,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25878,U. E. Vikinga Boliviana,1,162,0,2,0,43,0,58,9,0,0,0,0,0,0,0,0,0,0,112,8,5,125,112,125
+3008472,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26444,U.E. Mariscal Otto Felipe Braum,1,204,0,5,0,94,0,47,12,0,0,0,0,1,0,0,0,0,7,166,12,6,184,166,184
+3008952,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,1,220,0,7,0,129,0,36,14,0,1,1,0,3,0,0,0,0,4,195,4,4,203,195,203
+3008982,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,4,220,0,2,0,112,0,36,13,0,0,3,0,4,0,0,0,0,7,177,8,4,189,177,189
+3008992,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,5,220,0,5,0,101,0,43,23,0,0,1,0,1,0,0,0,0,5,179,5,7,191,179,191
+3009002,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,6,22,0,0,0,12,0,5,2,0,0,0,0,0,0,0,0,0,2,21,0,1,22,21,22
+3009592,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,1,220,0,4,0,109,0,38,18,0,0,1,0,0,0,0,0,0,13,183,4,1,188,183,188
+3009602,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,2,220,0,9,0,119,0,32,17,0,0,3,0,1,0,0,0,0,11,192,3,9,204,192,204
+3009612,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,3,220,0,1,0,127,0,36,14,0,0,2,0,1,0,0,0,0,10,191,4,1,196,191,196
+3009622,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,4,220,0,1,0,129,0,35,13,0,2,1,0,1,0,0,0,0,7,189,2,9,200,189,200
+3009632,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,5,220,0,5,0,119,0,36,19,0,1,1,0,2,0,0,0,0,7,190,1,6,197,190,197
+3009662,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,8,38,0,1,0,22,0,7,3,0,0,0,0,0,0,0,0,0,1,34,2,0,36,34,36
+3009672,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,1,132,0,3,0,81,0,24,8,0,0,1,0,0,0,0,0,0,4,121,2,3,126,121,126
+3009832,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,2,220,0,7,0,110,0,25,26,0,1,2,0,1,0,0,0,0,16,188,3,6,197,188,197
+3009842,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3,220,0,8,0,125,0,18,20,0,0,0,0,0,0,0,0,0,9,180,6,5,191,180,191
+3009862,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,5,220,0,5,1,109,0,32,28,0,1,0,0,0,0,0,0,0,14,190,5,2,197,190,197
+3010452,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,2,78,0,1,0,34,0,17,9,0,0,0,0,0,0,0,0,0,0,61,2,1,64,61,64
+3011382,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,2,220,0,15,0,87,0,38,22,0,2,2,0,3,0,0,0,0,11,180,4,3,187,180,187
+3011392,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,3,220,0,10,1,94,0,40,24,0,1,2,0,0,0,0,0,0,13,185,6,6,197,185,197
+3011402,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,4,190,0,8,0,93,0,29,19,0,0,1,0,1,0,0,0,0,13,164,6,3,173,164,173
+3012562,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25876,U. E. San Miguel Arcángel,1,217,0,1,1,38,0,101,12,0,1,3,0,4,0,0,0,0,1,162,11,3,176,162,176
+3012572,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,1,220,0,1,0,15,0,163,5,0,0,1,0,0,0,0,0,0,1,186,19,6,211,186,211
+3012582,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,2,132,0,0,0,9,0,98,6,0,1,2,0,2,0,0,0,0,1,119,2,7,128,119,128
+3012682,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,10,220,0,2,1,55,0,103,9,0,3,2,0,1,0,0,0,0,6,182,9,2,193,182,193
+3012712,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,13,220,0,0,1,40,0,105,15,0,2,0,0,2,0,0,0,0,1,166,16,3,185,166,185
+3013502,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,1,220,0,2,0,22,0,134,11,0,2,2,0,6,0,0,0,0,4,183,3,6,192,183,192
+3013512,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,2,220,0,1,1,20,0,151,7,0,2,0,0,3,0,0,0,0,1,186,9,4,199,186,199
+3013542,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,2,220,0,4,0,53,0,94,14,0,1,1,0,2,0,0,0,0,2,171,8,5,184,171,184
+3013552,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,3,220,0,3,2,43,0,98,15,0,1,0,0,4,0,0,0,0,4,170,11,5,186,170,186
+3013572,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,5,217,0,4,1,41,0,97,10,0,2,4,0,0,0,0,0,0,0,159,11,8,178,159,178
+3014602,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,3,62,0,1,0,3,0,29,8,0,0,3,0,1,0,0,0,0,0,45,4,1,50,45,50
+3014672,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,1,220,0,4,0,70,0,87,12,0,1,3,0,2,0,0,0,0,5,184,9,0,193,184,193
+3014682,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,2,115,0,3,2,35,0,51,6,0,0,0,0,0,0,0,0,0,0,97,2,1,100,97,100
+3015592,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,4,220,0,6,1,78,0,74,12,0,1,0,0,1,0,0,0,0,9,182,15,2,199,182,199
+3015602,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,5,220,0,5,1,70,0,95,8,0,1,2,0,2,0,0,0,0,4,188,9,4,201,188,201
+3015612,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,6,220,0,8,0,86,0,72,10,0,3,0,0,2,0,0,0,0,5,186,8,1,195,186,195
+3015622,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,7,220,0,7,0,63,0,90,13,0,1,2,0,3,0,0,0,0,4,183,10,6,199,183,199
+3015632,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,8,220,0,5,0,79,0,69,11,0,0,2,0,2,0,0,0,0,9,177,13,6,196,177,196
+3015672,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,12,220,0,6,0,96,0,56,13,0,0,1,0,1,0,0,0,0,6,179,10,4,193,179,193
+3015702,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,15,220,0,3,2,61,0,94,8,0,1,2,0,0,0,0,0,0,6,177,13,4,194,177,194
+3015722,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,17,220,0,5,3,95,0,63,7,0,0,2,0,1,0,0,0,0,6,182,7,4,193,182,193
+3015732,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,18,220,0,8,1,79,0,66,11,0,0,1,0,5,0,0,0,0,10,181,10,6,197,181,197
+3015742,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,19,220,0,4,3,87,0,62,14,0,0,2,0,2,0,0,0,0,9,183,10,3,196,183,196
+3015752,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,20,135,0,5,0,42,0,52,9,0,0,0,0,2,0,0,0,0,6,116,1,1,118,116,118
+3017792,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,1,220,0,3,1,54,0,94,18,0,3,1,0,2,0,0,0,0,1,177,13,7,197,177,197
+3017802,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,2,155,0,0,0,35,0,60,10,0,2,3,0,2,0,0,0,0,3,115,11,6,132,115,132
+3018162,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,7,220,0,2,2,42,0,135,14,0,0,2,0,0,0,0,0,0,0,197,6,4,207,197,207
+3018282,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25881,U. E. 21 de Septiembre,1,199,0,1,0,15,0,122,12,0,1,1,0,4,0,0,0,0,0,156,8,6,170,156,170
+3018302,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,2,90,0,0,1,3,0,74,2,0,0,1,0,1,0,0,0,0,0,82,6,0,88,82,88
+3019742,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3,220,0,2,0,54,0,85,7,0,0,3,0,6,0,0,0,0,13,170,9,7,186,170,186
+3019942,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,177,Unidad Educ. Eduardo Lopez O E. Don Bosco,9,220,0,8,1,39,0,107,5,0,2,0,0,4,0,0,0,0,14,180,24,1,205,180,205
+3020012,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,1,28,0,1,1,10,0,6,2,0,0,1,0,0,0,0,0,0,0,21,0,0,21,21,21
+3020412,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,1,220,0,3,0,92,0,52,19,0,0,0,0,1,0,0,0,0,11,178,3,0,181,178,181
+3020432,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3,235,0,9,1,107,0,51,13,0,2,2,0,3,0,0,0,0,7,195,5,4,204,195,204
+3021932,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,1,220,0,3,1,31,0,116,10,0,1,1,0,0,0,0,0,0,2,165,19,6,190,165,190
+3021962,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,4,220,0,0,2,17,0,148,6,0,1,1,0,2,0,0,0,0,1,178,6,6,190,178,190
+3021972,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,5,220,0,4,2,29,0,131,12,0,3,2,0,2,0,0,0,0,1,186,5,2,193,186,193
+3021982,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,6,153,0,0,1,18,0,87,10,0,3,1,0,2,0,0,0,0,0,122,4,3,129,122,129
+3021992,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26321,U. E. Bolivia Holanda,1,54,0,3,3,11,0,27,3,0,0,0,0,0,0,0,0,0,0,47,3,0,50,47,50
+3022202,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26441,U. E. Lía Rivera de Guzmán,1,32,0,1,0,15,0,5,5,0,0,0,0,0,0,0,0,0,2,28,0,0,28,28,28
+3022212,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,1,220,0,6,1,107,0,24,25,0,0,0,0,0,0,0,0,0,22,185,3,2,190,185,190
+3022232,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3,207,0,2,0,119,0,22,21,0,2,4,0,2,0,0,0,0,9,181,0,4,185,181,185
+3024522,GOBERNADOR(A),32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26148,U.E. Ana María Romero de Campero,1,232,0,1,2,42,0,129,17,0,5,1,0,2,0,0,0,0,0,199,18,8,225,199,225
+3034362,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,1,Quillacollo,934,Quillacollo,26469,U. E. Nuestra Señora de Urkupiña,1,31,0,0,0,15,0,5,2,0,0,1,0,0,0,0,0,0,2,25,2,0,27,25,27
+3040262,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,26151,U.E. Técnico Humanístico San Rafael,1,18,0,3,0,6,0,7,2,0,0,0,0,0,0,0,0,0,0,18,0,0,18,18,18
+3040632,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),1,220,0,4,0,105,0,40,31,0,1,0,0,3,0,0,0,0,7,191,0,3,194,191,194
+3040642,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),2,177,0,4,0,81,0,28,20,0,0,5,0,1,0,0,0,0,9,148,4,2,154,148,154
+3040652,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,1,220,0,8,1,102,0,46,22,0,1,4,0,1,0,0,0,0,6,191,5,3,199,191,199
+3040662,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,2,62,0,1,0,27,0,11,5,0,0,1,0,0,0,0,0,0,3,48,1,4,53,48,53
+3041892,GOBERNADOR(A),32,Bolivia,3,Cochabamba,9,Quillacollo,4,Vinto,959,Vinto,26464,U. E. Carmen Rosa Salguero,1,66,0,0,1,16,0,30,2,0,2,0,0,1,0,0,0,0,2,54,4,0,58,54,58
+3045452,GOBERNADOR(A),32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,3,220,0,5,3,38,0,99,27,0,2,1,0,4,0,0,0,0,2,181,12,5,198,181,198
+3047852,GOBERNADOR(A),32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,4,220,0,5,2,91,0,49,23,0,0,2,0,0,0,0,0,0,11,183,0,8,191,183,191
+3047862,GOBERNADOR(A),32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,5,220,0,5,3,83,0,58,20,0,0,0,0,1,0,0,0,0,13,183,1,4,188,183,188
+3048352,GOBERNADOR(A),32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,5,220,0,9,1,71,0,63,17,0,1,2,0,1,0,0,0,0,3,168,3,21,192,168,192
+3051042,GOBERNADOR(A),32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,7,220,0,4,0,56,0,78,32,0,1,0,0,5,0,0,0,0,3,179,10,5,194,179,194
+3000852,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,5,220,0,7,0,106,0,21,15,0,3,0,0,0,0,0,0,0,6,158,7,4,169,158,169
+3000862,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,6,220,0,6,0,111,0,18,16,0,1,0,0,0,0,0,0,0,8,160,9,4,173,160,173
+3001022,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,1,220,0,6,0,106,0,15,15,0,3,0,0,0,0,0,0,0,17,162,13,3,178,162,178
+3001032,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,2,220,0,14,0,92,0,21,28,0,0,0,0,0,0,0,0,0,9,164,5,5,174,164,174
+3001062,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,5,220,0,7,0,89,0,16,17,0,1,0,0,0,0,0,0,0,16,146,11,10,167,146,167
+3001082,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,7,220,0,5,0,107,0,14,13,0,1,0,0,0,0,0,0,0,13,153,8,6,167,153,167
+3001092,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,8,220,0,1,0,104,0,16,16,0,1,0,0,0,0,0,0,0,14,152,17,1,170,152,170
+3001112,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,10,220,0,5,0,115,0,16,11,0,0,0,0,0,0,0,0,0,13,160,14,3,177,160,177
+3001122,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,11,220,0,0,0,114,0,24,17,0,1,0,0,0,0,0,0,0,7,163,10,3,176,163,176
+3001142,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,13,220,0,3,0,97,0,19,16,0,1,0,0,0,0,0,0,0,19,155,10,3,168,155,168
+3001172,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26446,Colegio Evangelico Emanuel,1,83,0,3,0,54,0,9,2,0,1,0,0,0,0,0,0,0,3,72,6,0,78,72,78
+3001612,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26448,Universidad Latinoamericana,1,48,0,3,0,24,0,6,1,0,0,0,0,0,0,0,0,0,1,35,5,5,45,35,45
+3001722,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,11,220,0,1,0,109,0,21,19,0,2,0,0,0,0,0,0,0,12,164,11,7,182,164,182
+3003502,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26443,Centro de Educación Alternativa Don Bosco C,1,25,0,0,0,14,0,5,2,0,0,0,0,0,0,0,0,0,1,22,1,1,24,22,24
+3004082,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,2,220,0,5,0,111,0,30,21,0,1,0,0,0,0,0,0,0,12,180,3,5,188,180,188
+3004102,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,4,220,0,2,0,122,0,24,13,0,3,0,0,0,0,0,0,0,8,172,11,3,186,172,186
+3004352,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,3,53,0,1,0,30,0,6,4,0,0,0,0,0,0,0,0,0,0,41,5,0,46,41,46
+3004362,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,1,220,0,5,0,97,0,47,17,0,1,0,0,0,0,0,0,0,3,170,16,5,191,170,191
+3005722,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,1,220,0,3,0,73,0,63,15,0,2,0,0,0,0,0,0,0,3,159,28,3,190,159,190
+3005732,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,2,196,0,4,0,83,0,48,13,0,2,0,0,0,0,0,0,0,3,153,8,3,164,153,164
+3006162,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26449,Kinder San Joaquín,1,39,0,0,0,20,0,4,3,0,0,0,0,0,0,0,0,0,3,30,5,0,35,30,35
+3006952,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,9,220,0,4,0,119,0,20,13,0,3,0,0,0,0,0,0,0,7,166,15,6,187,166,187
+3006992,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,13,180,0,4,0,91,0,15,17,0,0,0,0,0,0,0,0,0,9,136,13,2,151,136,151
+3007112,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,2,220,0,1,0,85,0,45,11,0,3,0,0,0,0,0,0,0,9,154,16,4,174,154,174
+3007162,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,7,106,0,3,0,45,0,22,5,0,0,0,0,0,0,0,0,0,2,77,10,0,87,77,87
+3007182,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,197,(Cárcel) Penitenciaria San Antonio,2,69,0,2,0,13,0,27,3,0,0,0,0,0,0,0,0,0,1,46,5,1,52,46,52
+3008082,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25878,U. E. Vikinga Boliviana,1,162,0,4,0,45,0,50,10,0,0,0,0,0,0,0,0,0,2,111,11,3,125,111,125
+3008472,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26444,U.E. Mariscal Otto Felipe Braum,1,204,0,6,0,106,0,35,13,0,2,0,0,0,0,0,0,0,7,169,10,5,184,169,184
+3008952,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,1,220,0,4,0,141,0,24,12,0,2,0,0,0,0,0,0,0,5,188,11,4,203,188,203
+3008982,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,4,220,0,7,0,112,0,29,14,0,3,0,0,0,0,0,0,0,5,170,13,6,189,170,189
+3008992,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,5,220,0,3,0,109,0,35,20,0,0,0,0,0,0,0,0,0,3,170,13,8,191,170,191
+3009002,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,6,22,0,0,0,13,0,4,2,0,0,0,0,0,0,0,0,0,1,20,1,1,22,20,22
+3009592,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,1,220,0,3,0,117,0,31,7,0,1,0,0,2,0,0,0,0,9,170,16,2,188,170,188
+3009602,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,2,220,0,8,0,142,0,24,12,0,0,0,0,0,0,0,0,0,6,192,3,9,204,192,204
+3009612,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,3,220,0,0,0,135,0,25,8,0,0,0,0,0,0,0,0,0,9,177,18,1,196,177,196
+3009622,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,4,220,0,1,0,140,0,24,11,0,0,0,0,0,0,0,0,0,8,184,7,9,200,184,200
+3009632,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,5,220,0,6,0,135,0,27,16,0,1,0,0,0,0,0,0,0,4,189,3,5,197,189,197
+3009662,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,8,38,0,0,0,26,0,4,2,0,0,0,0,0,0,0,0,0,0,32,4,0,36,32,36
+3009672,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,1,132,0,3,0,83,0,23,8,0,1,0,0,0,0,0,0,0,2,120,3,3,126,120,126
+3009832,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,2,220,0,9,0,118,0,21,21,0,2,0,0,0,0,0,0,0,11,182,11,4,197,182,197
+3009842,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3,220,0,5,0,139,0,15,14,0,0,0,0,0,0,0,0,0,7,180,6,5,191,180,191
+3009862,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,5,220,0,5,0,120,0,24,23,0,1,0,0,0,0,0,0,0,10,183,12,2,197,183,197
+3010452,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,2,78,0,1,0,36,0,13,8,0,2,0,0,0,0,0,0,0,1,61,2,1,64,61,64
+3011382,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,2,220,0,8,0,103,0,34,18,0,1,0,0,0,0,0,0,0,10,174,11,2,187,174,187
+3011392,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,3,220,0,11,0,115,0,29,17,0,0,0,0,0,0,0,0,0,8,180,12,5,197,180,197
+3011402,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,4,190,0,14,0,99,0,19,20,0,1,0,0,0,0,0,0,0,11,164,4,5,173,164,173
+3012562,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25876,U. E. San Miguel Arcángel,1,217,0,4,0,37,0,91,12,0,2,0,0,0,0,0,0,0,3,149,25,2,176,149,176
+3012572,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,1,220,0,3,0,21,0,150,7,0,0,0,0,0,0,0,0,0,1,182,24,5,211,182,211
+3012582,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,2,132,0,2,0,12,0,88,11,0,0,0,0,0,0,0,0,0,1,114,11,3,128,114,128
+3012682,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,10,220,0,1,0,60,0,90,13,0,3,0,0,0,0,0,0,0,3,170,17,6,193,170,193
+3012712,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,13,220,0,1,0,48,0,91,14,0,2,0,0,0,0,0,0,0,2,158,22,5,185,158,185
+3013502,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,1,220,0,2,0,23,0,118,15,0,3,0,0,0,0,0,0,0,1,162,26,4,192,162,192
+3013512,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,2,220,0,1,0,19,0,143,9,0,1,0,0,0,0,0,0,0,2,175,20,4,199,175,199
+3013542,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,2,220,0,5,0,60,0,81,16,0,3,0,0,1,0,0,0,0,0,166,12,6,184,166,184
+3013552,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,3,220,0,4,0,45,0,94,15,0,1,0,0,0,0,0,0,0,4,163,20,3,186,163,186
+3013572,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,5,217,0,6,0,48,0,92,11,0,1,0,0,0,0,0,0,0,0,158,15,5,178,158,178
+3014602,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,3,62,0,1,0,7,0,27,9,0,1,0,0,0,0,0,0,0,0,45,4,1,50,45,50
+3014672,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,1,220,0,3,0,72,0,72,16,0,3,0,0,0,0,0,0,0,3,169,24,0,193,169,193
+3014682,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,2,115,0,3,0,40,0,46,7,0,0,0,0,0,0,0,0,0,0,96,3,1,100,96,100
+3015592,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,4,220,0,9,0,85,0,64,11,0,3,0,0,0,0,0,0,0,7,179,17,3,199,179,199
+3015602,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,5,220,0,8,0,74,0,76,10,0,2,0,0,0,0,0,0,0,5,175,21,5,201,175,201
+3015612,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,6,220,0,7,0,94,0,64,9,0,2,0,0,0,0,0,0,0,1,177,15,3,195,177,195
+3015622,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,7,220,0,2,0,79,0,78,16,0,1,0,0,0,0,0,0,0,5,181,12,6,199,181,199
+3015632,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,8,220,0,3,0,100,0,55,11,0,1,0,0,0,0,0,0,0,7,177,16,3,196,177,196
+3015672,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,12,220,0,12,0,100,0,44,8,0,3,0,0,0,0,0,0,0,4,171,21,1,193,171,193
+3015702,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,15,220,0,8,0,71,0,80,9,0,0,0,0,0,0,0,0,0,4,172,18,4,194,172,194
+3015722,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,17,220,0,7,0,95,0,52,11,0,0,0,0,0,0,0,0,0,4,169,21,3,193,169,193
+3015732,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,18,220,0,8,0,85,0,60,12,0,1,0,0,0,0,0,0,0,9,175,15,7,197,175,197
+3015742,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,19,220,0,5,0,101,0,53,10,0,0,0,0,0,0,0,0,0,4,173,20,3,196,173,196
+3015752,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,20,135,0,6,0,46,0,45,5,0,1,0,0,0,0,0,0,0,4,107,9,2,118,107,118
+3017792,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,1,220,0,6,0,58,0,80,19,0,4,0,0,0,0,0,0,0,1,168,20,9,197,168,197
+3017802,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,2,155,0,1,0,40,0,52,10,0,2,0,0,0,0,0,0,0,3,108,18,6,132,108,132
+3018162,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,7,220,0,1,0,44,0,120,15,0,1,0,0,0,0,0,0,0,1,182,20,5,207,182,207
+3018282,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25881,U. E. 21 de Septiembre,1,199,0,1,0,19,0,111,16,0,1,0,0,0,0,0,0,0,4,152,11,7,170,152,170
+3018302,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,2,90,0,1,0,4,0,67,2,0,0,0,0,0,0,0,0,0,0,74,14,0,88,74,88
+3019742,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3,220,0,2,0,60,0,74,13,0,0,0,0,0,0,0,0,0,7,156,23,7,186,156,186
+3019942,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,177,Unidad Educ. Eduardo Lopez O E. Don Bosco,9,220,0,4,0,56,0,89,10,0,3,0,0,0,0,0,0,0,9,171,30,4,205,171,205
+3020012,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,1,28,0,2,0,12,0,3,1,0,1,0,0,0,0,0,0,0,0,19,2,0,21,19,21
+3020412,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,1,220,0,6,0,104,0,36,14,0,1,0,0,0,0,0,0,0,12,173,8,0,181,173,181
+3020432,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3,235,0,8,0,112,0,41,16,0,1,0,0,0,0,0,0,0,3,181,19,4,204,181,204
+3021932,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,1,220,0,5,0,31,0,106,15,0,2,0,0,0,0,0,0,0,1,160,22,8,190,160,190
+3021962,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,4,220,0,0,0,23,0,133,14,0,0,0,0,0,0,0,0,0,3,173,11,6,190,173,190
+3021972,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,5,220,0,3,0,34,0,120,13,0,2,0,0,0,0,0,0,0,5,177,13,3,193,177,193
+3021982,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,6,153,0,1,0,19,0,80,9,0,3,0,0,0,0,0,0,0,1,113,14,2,129,113,129
+3021992,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26321,U. E. Bolivia Holanda,1,54,0,4,0,11,0,24,1,0,1,0,0,0,0,0,0,0,0,41,8,1,50,41,50
+3022202,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26441,U. E. Lía Rivera de Guzmán,1,32,0,1,0,17,0,2,4,0,0,0,0,0,0,0,0,0,2,26,2,0,28,26,28
+3022212,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,1,220,0,6,0,120,0,16,18,0,0,0,0,0,0,0,0,0,18,178,10,2,190,178,190
+3022232,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3,207,0,4,0,128,0,18,15,0,1,0,0,0,0,0,0,0,5,171,9,5,185,171,185
+3024522,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26148,U.E. Ana María Romero de Campero,1,232,0,2,0,44,0,115,20,0,6,0,0,0,0,0,0,0,1,188,27,10,225,188,225
+3034362,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,1,Quillacollo,934,Quillacollo,26469,U. E. Nuestra Señora de Urkupiña,1,31,0,1,0,17,0,3,1,0,0,0,0,0,0,0,0,0,3,25,2,0,27,25,27
+3040262,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,26151,U.E. Técnico Humanístico San Rafael,1,18,0,4,0,7,0,4,1,0,0,0,0,0,0,0,0,0,0,16,2,0,18,16,18
+3040632,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),1,220,0,10,0,111,0,31,25,0,0,0,0,0,0,0,0,0,6,183,8,3,194,183,194
+3040642,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),2,177,0,14,0,85,0,20,13,0,0,0,0,0,0,0,0,0,7,139,14,1,154,139,154
+3040652,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,1,220,0,12,0,110,0,40,11,0,0,0,0,0,0,0,0,0,6,179,17,3,199,179,199
+3040662,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,2,62,0,2,0,30,0,9,1,0,0,0,0,0,0,0,0,0,2,44,5,4,53,44,53
+3041892,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,9,Quillacollo,4,Vinto,959,Vinto,26464,U. E. Carmen Rosa Salguero,1,66,0,3,0,16,0,25,2,0,0,0,0,0,0,0,0,0,4,50,8,0,58,50,58
+3045452,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,3,220,0,5,0,39,0,93,24,0,0,0,0,8,0,0,0,0,0,169,24,5,198,169,198
+3047852,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,4,220,0,9,0,98,0,42,13,0,0,0,0,6,0,0,0,0,0,168,15,8,191,168,191
+3047862,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,5,220,0,7,0,87,0,52,13,0,0,0,0,4,0,0,0,0,0,163,20,5,188,163,188
+3048352,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,5,220,0,10,0,48,0,58,12,0,0,0,0,6,0,0,0,0,0,134,18,40,192,134,192
+3051042,ASAMBLEISTA TERRITORIO,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,7,220,0,14,0,57,0,61,30,0,0,0,0,7,0,0,0,0,0,169,21,4,194,169,194
+3000852,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,5,220,0,9,0,94,0,18,10,0,2,1,0,0,0,0,0,0,5,139,26,4,169,139,169
+3000862,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,6,220,0,6,0,110,0,18,9,0,0,1,0,0,0,0,0,0,6,150,20,3,173,150,173
+3001022,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,1,220,0,8,0,105,0,14,12,0,1,0,0,1,0,0,0,0,14,155,20,3,178,155,178
+3001032,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,2,220,0,12,0,84,0,21,23,0,0,1,0,0,0,0,0,0,9,150,21,3,174,150,174
+3001062,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,5,220,0,2,0,93,0,15,16,0,1,1,0,2,0,0,0,0,8,138,21,8,167,138,167
+3001082,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,7,220,0,5,0,97,0,12,14,0,0,1,0,2,0,0,0,0,12,143,21,3,167,143,167
+3001092,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,8,220,0,1,0,95,0,16,16,0,0,1,0,4,0,0,0,0,10,143,27,0,170,143,170
+3001112,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,10,220,0,6,0,106,0,14,6,0,1,1,0,1,0,0,0,0,12,147,27,3,177,147,177
+3001122,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,11,220,0,1,0,106,0,23,14,0,0,0,0,2,0,0,0,0,7,153,21,2,176,153,176
+3001142,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,13,220,0,4,0,87,0,17,10,0,1,2,0,5,0,0,0,0,11,137,27,4,168,137,168
+3001172,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26446,Colegio Evangelico Emanuel,1,83,0,2,0,51,0,6,1,0,0,0,0,0,0,0,0,0,3,63,15,0,78,63,78
+3001612,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26448,Universidad Latinoamericana,1,48,0,3,1,21,0,3,1,0,1,0,0,0,0,0,0,0,1,31,10,4,45,31,45
+3001722,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,11,220,0,1,0,110,0,20,9,0,1,0,0,0,0,0,0,0,10,151,26,5,182,151,182
+3003502,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26443,Centro de Educación Alternativa Don Bosco C,1,25,0,0,0,13,0,6,2,0,0,0,0,0,0,0,0,0,1,22,2,0,24,22,24
+3004082,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,2,220,0,5,0,115,0,33,10,0,1,1,0,0,0,0,0,0,10,175,10,3,188,175,188
+3004102,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,4,220,0,2,0,116,0,19,10,0,2,0,0,1,0,0,0,0,7,157,28,1,186,157,186
+3004352,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,3,53,0,0,0,28,0,6,2,0,0,0,0,1,0,0,0,0,0,37,9,0,46,37,46
+3004362,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,1,220,0,7,0,88,0,36,13,0,0,1,0,1,0,0,0,0,2,148,39,4,191,148,191
+3005722,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,1,220,0,1,0,66,0,59,8,0,0,1,0,5,0,0,0,0,3,143,46,1,190,143,190
+3005732,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,2,196,0,5,0,67,0,44,7,0,1,0,0,0,0,0,0,0,3,127,36,1,164,127,164
+3006162,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26449,Kinder San Joaquín,1,39,0,0,0,18,0,4,2,0,0,0,0,0,0,0,0,0,2,26,9,0,35,26,35
+3006952,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,9,220,0,3,0,106,0,16,10,0,1,0,0,1,0,0,0,0,5,142,39,6,187,142,187
+3006992,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,13,180,0,4,0,84,0,14,16,0,2,0,0,2,0,0,0,0,7,129,20,2,151,129,151
+3007112,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,2,220,0,3,1,74,0,48,10,0,0,4,0,1,0,0,0,0,8,149,21,4,174,149,174
+3007162,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,7,106,0,2,1,41,0,19,0,0,1,0,0,1,0,0,0,0,3,68,19,0,87,68,87
+3007182,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,197,(Cárcel) Penitenciaria San Antonio,2,69,0,0,1,13,0,21,1,0,0,1,0,0,0,0,0,0,0,37,15,0,52,37,52
+3008082,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25878,U. E. Vikinga Boliviana,1,162,0,1,0,37,0,45,8,0,0,2,0,0,0,0,0,0,1,94,28,3,125,94,125
+3008472,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26444,U.E. Mariscal Otto Felipe Braum,1,204,0,3,0,94,0,34,10,0,1,0,0,2,0,0,0,0,4,148,31,5,184,148,184
+3008952,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,1,220,0,7,0,129,0,25,7,0,1,1,0,1,0,0,0,0,3,174,25,4,203,174,203
+3008982,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,4,220,0,7,1,100,0,26,7,0,1,2,0,2,0,0,0,0,1,147,37,5,189,147,189
+3008992,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,5,220,0,4,0,104,0,33,13,0,0,1,0,1,0,0,0,0,3,159,25,7,191,159,191
+3009002,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,6,22,0,0,0,12,0,4,2,0,0,0,0,0,0,0,0,0,0,18,3,1,22,18,22
+3009592,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,1,220,0,4,0,121,0,28,16,0,0,0,0,0,0,0,0,0,10,179,8,1,188,179,188
+3009602,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,2,220,0,8,0,132,0,23,9,0,1,1,0,1,0,0,0,0,8,183,12,9,204,183,204
+3009612,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,3,220,0,2,0,126,0,24,6,0,0,1,0,1,0,0,0,0,8,168,26,2,196,168,196
+3009622,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,4,220,0,2,0,125,0,28,9,0,0,1,0,0,0,0,0,0,5,170,24,6,200,170,200
+3009632,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,5,220,0,4,0,127,0,28,14,0,1,2,0,2,0,0,0,0,3,181,10,6,197,181,197
+3009662,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,8,38,0,0,0,22,0,4,1,0,0,0,0,0,0,0,0,0,0,27,9,0,36,27,36
+3009672,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,1,132,0,3,0,80,0,23,4,0,1,0,0,0,0,0,0,0,1,112,11,3,126,112,126
+3009832,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,2,220,0,5,1,112,0,20,16,0,0,0,0,1,0,0,0,0,9,164,29,4,197,164,197
+3009842,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3,220,0,7,0,123,0,13,11,0,1,0,0,0,0,0,0,0,6,161,26,4,191,161,191
+3009862,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,5,220,0,4,1,116,0,22,16,0,1,0,0,0,0,0,0,0,9,169,27,1,197,169,197
+3010452,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,2,78,0,1,0,36,0,10,11,0,1,0,0,0,0,0,0,0,0,59,4,1,64,59,64
+3011382,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,2,220,0,12,0,90,0,33,16,0,0,1,0,2,0,0,0,0,6,160,25,2,187,160,187
+3011392,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,3,220,0,4,0,107,0,28,8,0,0,3,0,0,0,0,0,0,6,156,36,5,197,156,197
+3011402,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,4,190,0,7,0,95,0,17,18,0,1,1,0,1,0,0,0,0,11,151,20,2,173,151,173
+3012562,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25876,U. E. San Miguel Arcángel,1,217,0,0,1,34,0,83,10,0,0,1,0,6,0,0,0,0,1,136,37,3,176,136,176
+3012572,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,1,220,0,1,0,12,0,131,3,0,0,1,0,1,0,0,0,0,0,149,62,0,211,149,211
+3012582,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,2,132,0,0,0,12,0,74,7,0,0,1,0,0,0,0,0,0,2,96,28,4,128,96,128
+3012682,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,10,220,0,1,1,53,0,75,11,0,3,1,0,1,0,0,0,0,1,147,42,4,193,147,193
+3012712,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,13,220,0,0,2,40,0,79,10,0,1,1,0,3,0,0,0,0,0,136,43,6,185,136,185
+3013502,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,1,220,0,1,0,16,0,108,14,0,3,1,0,3,0,0,0,0,0,146,43,3,192,146,192
+3013512,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,2,220,0,1,0,16,0,124,3,0,2,1,0,1,0,0,0,0,1,149,50,0,199,149,199
+3013542,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,2,220,0,5,0,50,0,74,13,0,1,0,0,2,0,0,0,0,0,145,35,4,184,145,184
+3013552,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,3,220,0,3,2,40,0,77,9,0,0,0,0,2,0,0,0,0,1,134,48,4,186,134,186
+3013572,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,5,217,0,2,2,36,0,83,6,0,1,1,0,0,0,0,0,0,2,133,44,3,180,133,180
+3014602,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,3,62,0,1,0,4,0,26,8,0,0,0,0,0,0,0,0,0,0,39,9,2,50,39,50
+3014672,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,1,220,0,4,1,63,0,63,12,0,1,1,0,1,0,0,0,0,0,146,46,1,193,146,193
+3014682,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,2,115,0,3,2,39,0,44,7,0,0,0,0,0,0,0,0,0,0,95,5,0,100,95,100
+3015592,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,4,220,0,5,0,73,0,59,7,0,0,0,0,0,0,0,0,0,5,149,48,2,199,149,199
+3015602,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,5,220,0,4,3,63,0,69,6,0,2,1,0,2,0,0,0,0,0,150,48,3,201,150,201
+3015612,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,6,220,0,5,1,80,0,56,8,0,2,1,0,0,0,0,0,0,1,154,39,2,195,154,195
+3015622,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,7,220,0,3,0,64,0,73,11,0,0,4,0,2,0,0,0,0,3,160,33,6,199,160,199
+3015632,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,8,220,0,3,2,80,0,53,12,0,0,1,0,0,0,0,0,0,5,156,37,3,196,156,196
+3015672,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,12,220,0,7,0,82,0,41,9,0,1,0,0,1,0,0,0,0,2,143,48,2,193,143,193
+3015702,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,15,220,0,4,2,64,0,69,9,0,1,2,0,2,0,0,0,0,2,155,37,2,194,155,194
+3015722,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,17,220,0,4,3,82,0,48,9,0,0,0,0,0,0,0,0,0,2,148,42,3,193,148,193
+3015732,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,18,220,0,5,1,76,0,54,10,0,0,2,0,3,0,0,0,0,7,158,35,4,197,158,197
+3015742,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,19,220,0,7,3,90,0,42,10,0,1,0,0,1,0,0,0,0,4,158,35,3,196,158,196
+3015752,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,20,135,0,6,0,44,0,41,7,0,0,0,0,2,0,0,0,0,3,103,15,0,118,103,118
+3017792,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,1,220,0,2,1,54,0,66,14,0,2,1,0,2,0,0,0,0,0,142,48,7,197,142,197
+3017802,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,2,155,0,0,1,36,0,45,9,0,0,0,0,1,0,0,0,0,3,95,33,4,132,95,132
+3018162,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,7,220,0,2,1,40,0,102,13,0,0,0,0,0,0,0,0,0,0,158,44,5,207,158,207
+3018282,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25881,U. E. 21 de Septiembre,1,199,0,3,1,17,0,96,12,0,1,1,0,3,0,0,0,0,0,134,33,3,170,134,170
+3018302,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,2,90,0,0,0,3,0,51,2,0,0,0,0,0,0,0,0,0,1,57,31,0,88,57,88
+3019742,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25902,U. E. Padre Luis Diez del Pozo,3,220,0,2,0,49,0,67,8,0,0,2,0,4,0,0,0,0,7,139,42,5,186,139,186
+3019942,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,177,Unidad Educ. Eduardo Lopez O E. Don Bosco,9,220,0,3,0,49,0,77,9,0,1,0,0,4,0,0,0,0,5,148,55,2,205,148,205
+3020012,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,1,28,0,1,0,14,0,3,1,0,0,0,0,0,0,0,0,0,0,19,2,0,21,19,21
+3020412,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,1,220,0,4,0,95,0,33,12,0,0,0,0,1,0,0,0,0,9,154,27,0,181,154,181
+3020432,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3,235,0,5,0,101,0,34,14,0,1,4,0,0,0,0,0,0,2,161,41,2,204,161,204
+3021932,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,1,220,0,1,1,31,0,96,10,0,1,1,0,1,0,0,0,0,1,143,41,6,190,143,190
+3021962,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,4,220,0,1,2,20,0,117,8,0,0,2,0,3,0,0,0,0,1,154,33,3,190,154,190
+3021972,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,5,220,0,3,2,29,0,108,7,0,2,3,0,3,0,0,0,0,3,160,33,0,193,160,193
+3021982,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,6,153,0,2,1,17,0,70,7,0,1,0,0,2,0,0,0,0,0,100,27,2,129,100,129
+3021992,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26321,U. E. Bolivia Holanda,1,54,0,4,2,10,0,19,1,0,0,0,0,1,0,0,0,0,1,38,12,0,50,38,50
+3022202,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26441,U. E. Lía Rivera de Guzmán,1,32,0,0,0,18,0,1,1,0,1,0,0,0,0,0,0,0,1,22,6,0,28,22,28
+3022212,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,1,220,0,8,0,115,0,11,14,0,0,1,0,1,0,0,0,0,14,164,24,2,190,164,190
+3022232,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,3,207,0,4,0,121,0,17,10,0,1,1,0,0,0,0,0,0,4,158,23,4,185,158,185
+3024522,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26148,U.E. Ana María Romero de Campero,1,232,0,3,4,39,0,104,11,0,4,0,0,2,0,0,0,0,0,167,52,6,225,167,225
+3034362,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,1,Quillacollo,934,Quillacollo,26469,U. E. Nuestra Señora de Urkupiña,1,31,0,0,0,15,0,3,1,0,0,1,0,0,0,0,0,0,3,23,4,0,27,23,27
+3040262,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,26151,U.E. Técnico Humanístico San Rafael,1,18,0,3,0,5,0,5,2,0,0,0,0,0,0,0,0,0,0,15,3,0,18,15,18
+3040632,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),1,220,0,6,0,101,0,30,22,0,1,0,0,4,0,0,0,0,5,169,22,3,194,169,194
+3040642,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),2,177,0,4,0,72,0,19,17,0,1,5,0,1,0,0,0,0,8,127,26,1,154,127,154
+3040652,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,1,220,0,9,0,99,0,35,16,0,4,3,0,0,0,0,0,0,5,171,26,2,199,171,199
+3040662,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,2,62,0,0,0,28,0,8,3,0,0,1,0,0,0,0,0,0,2,42,7,4,53,42,53
+3041892,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,9,Quillacollo,4,Vinto,959,Vinto,26464,U. E. Carmen Rosa Salguero,1,66,0,1,0,19,0,26,1,0,0,0,0,1,0,0,0,0,2,50,8,0,58,50,58
+3045452,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,3,220,0,5,6,37,0,80,24,0,0,0,0,4,0,0,0,0,2,158,37,3,198,158,198
+3047852,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,4,220,0,6,4,90,0,29,14,0,0,0,0,1,0,0,0,0,10,154,29,8,191,154,191
+3047862,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,5,220,0,4,5,87,0,45,12,0,1,1,0,1,0,0,0,0,9,165,19,4,188,165,188
+3048352,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,5,220,0,9,0,79,0,50,14,0,0,2,0,1,0,0,0,0,3,158,28,6,192,158,192
+3051042,ASAMBLEISTA POBLACION,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,7,220,0,9,0,54,0,43,27,0,1,2,0,5,0,0,0,0,3,144,46,4,194,144,194
+3000856,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,5,220,0,6,0,137,0,15,5,0,0,0,0,0,4,0,0,0,0,167,0,2,169,167,169
+3000866,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,6,220,0,0,0,143,0,16,6,0,0,0,0,0,2,0,0,0,0,167,2,4,173,167,173
+3001026,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,1,220,0,7,2,143,0,11,7,0,0,1,0,0,4,0,0,0,0,175,1,2,178,175,178
+3001036,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,2,220,0,5,1,143,0,19,2,0,0,1,0,0,0,0,0,0,0,171,0,3,174,171,174
+3001056,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,4,220,0,1,2,152,0,16,6,0,0,2,0,0,3,0,0,0,0,182,1,2,185,182,185
+3001066,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,5,220,0,3,0,130,0,18,5,0,0,0,0,1,4,0,0,0,0,161,2,4,167,161,167
+3001076,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,6,220,0,0,0,163,0,10,5,0,0,0,0,1,0,0,0,0,0,179,1,1,181,179,181
+3001086,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,7,220,0,3,1,141,0,12,5,0,0,0,0,0,2,0,0,0,0,164,1,3,168,164,168
+3001096,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,8,220,0,1,0,143,0,14,6,0,0,1,0,2,3,0,0,0,0,170,0,0,170,170,170
+3001116,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,10,220,0,0,0,150,0,12,7,0,1,0,0,0,4,0,0,0,0,174,1,2,177,174,177
+3001136,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,12,220,0,3,0,149,0,12,4,0,0,0,0,0,0,0,0,0,0,168,0,3,171,168,171
+3001146,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,13,220,0,5,0,138,0,15,2,0,0,0,0,4,3,0,0,0,0,167,0,1,168,167,168
+3001166,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,15,193,0,3,2,114,0,8,10,0,0,1,0,0,2,0,0,0,0,140,0,3,143,140,143
+3001176,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26446,Colegio Evangelico Emanuel,1,83,0,0,0,70,0,4,1,0,0,0,0,0,5,0,0,0,0,80,0,0,80,80,80
+3001306,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25891,U. E. Cochabamba,1,90,0,0,0,55,0,9,5,0,0,0,0,0,1,0,0,0,0,70,1,1,72,70,72
+3001616,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26448,Universidad Latinoamericana,1,48,0,1,0,32,0,4,2,0,0,1,0,0,1,0,0,0,0,41,0,4,45,41,45
+3001696,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,8,220,0,2,0,135,0,18,8,0,0,0,0,0,2,0,0,0,0,165,3,4,172,165,172
+3001706,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,9,220,0,3,0,130,0,30,7,0,1,0,0,0,8,0,0,0,0,179,1,2,182,179,182
+3001726,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,11,220,0,1,0,148,0,18,7,0,0,0,0,0,2,0,0,0,0,176,2,4,182,176,182
+3003246,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,9,220,0,5,0,139,0,15,7,0,0,0,0,0,4,0,0,0,0,170,1,7,178,170,178
+3003326,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,17,220,0,2,0,162,0,17,8,0,0,1,0,0,2,0,0,0,0,192,0,4,196,192,196
+3003506,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26443,Centro de Educación Alternativa Don Bosco C,1,25,0,1,0,16,0,4,1,0,0,0,0,0,1,0,0,0,0,23,0,1,24,23,24
+3004076,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,1,220,0,1,0,159,0,14,7,0,0,0,0,0,3,0,0,0,0,184,2,7,193,184,193
+3004086,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,2,220,0,3,0,140,0,25,9,0,0,1,0,0,6,0,0,0,0,184,0,5,189,184,189
+3004096,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,3,220,0,3,0,145,0,13,10,0,0,0,0,0,5,0,0,0,0,176,1,4,181,176,181
+3004106,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,4,220,0,2,0,153,0,16,8,0,0,0,0,0,4,0,0,0,0,183,0,3,186,183,186
+3004116,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,5,220,0,5,0,143,0,14,6,0,0,0,0,0,3,0,0,0,0,171,2,5,178,171,178
+3004136,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,7,229,0,4,0,150,0,6,3,0,1,1,0,0,5,0,0,0,0,170,2,4,176,170,176
+3004346,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,2,220,0,5,0,158,0,18,3,0,0,0,0,0,3,0,0,0,0,187,0,2,189,187,189
+3004356,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,3,53,0,0,0,38,0,4,3,0,0,0,0,1,0,0,0,0,0,46,0,0,46,46,46
+3004366,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,1,220,0,3,0,124,0,33,20,0,0,0,0,1,7,0,0,0,0,188,0,3,191,188,191
+3004376,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,2,220,0,3,1,137,0,24,13,0,1,0,0,0,5,0,0,0,0,184,3,4,191,184,191
+3005726,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,1,220,0,1,0,100,0,48,22,0,1,0,0,0,11,0,0,0,0,183,4,3,190,183,190
+3005736,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,2,196,0,1,0,98,0,44,15,0,0,0,0,0,4,0,0,0,0,162,0,2,164,162,164
+3006166,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26449,Kinder San Joaquín,1,39,0,0,0,32,0,2,0,0,0,0,0,0,1,0,0,0,0,35,1,0,36,35,36
+3006866,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26440,Colegio Despertad Montessori (Secundario),1,10,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10,10
+3006956,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,9,220,0,3,0,151,0,13,7,0,1,0,0,1,6,0,0,0,0,182,0,5,187,182,187
+3006976,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,11,220,0,4,0,148,0,19,5,0,1,0,0,0,5,0,0,0,0,182,0,1,183,182,183
+3007116,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,2,220,0,1,1,117,0,34,9,0,0,0,0,1,8,0,0,0,0,171,1,2,174,171,174
+3007146,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,5,220,0,4,1,111,0,33,17,0,1,0,0,0,10,0,0,0,0,177,1,3,181,177,181
+3007166,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,7,106,0,2,0,61,0,17,2,0,0,0,0,0,5,0,0,0,0,87,0,0,87,87,87
+3008086,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25878,U. E. Vikinga Boliviana,1,162,0,0,0,55,0,47,13,0,0,0,0,0,4,0,0,0,0,119,3,3,125,119,125
+3008476,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26444,U.E. Mariscal Otto Felipe Braum,1,204,0,3,1,127,0,18,18,0,0,0,0,1,8,0,0,0,0,176,1,7,184,176,184
+3008976,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,3,220,0,3,0,138,0,26,14,0,0,0,0,0,6,0,0,0,0,187,2,4,193,187,193
+3008986,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,4,220,0,2,0,145,0,19,9,0,1,0,0,0,6,0,0,0,0,182,4,3,189,182,189
+3008996,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,5,220,0,2,0,138,0,30,5,0,0,0,0,0,6,0,0,0,0,181,1,9,191,181,191
+3009006,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,6,22,0,0,0,15,0,3,3,0,0,0,0,0,0,0,0,0,0,21,0,1,22,21,22
+3009596,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,1,220,0,2,0,145,0,25,9,0,1,0,0,0,5,0,0,0,0,187,1,2,190,187,190
+3009606,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,2,220,0,2,0,166,0,16,8,0,1,0,0,0,2,0,0,0,0,195,2,7,204,195,204
+3009636,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,5,220,0,1,0,157,0,17,12,0,1,0,0,1,4,0,0,0,0,193,0,4,197,193,197
+3009646,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,6,220,0,2,0,164,0,13,11,0,0,0,0,0,5,0,0,0,0,195,0,3,198,195,198
+3009656,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,7,220,0,3,0,138,0,22,19,0,0,0,0,1,10,0,0,0,0,193,1,2,196,193,196
+3009666,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,8,38,0,1,0,28,0,2,2,0,0,0,0,0,2,0,0,0,0,35,1,0,36,35,36
+3009676,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,1,132,0,2,0,94,0,18,7,0,0,0,0,0,1,0,0,0,0,122,2,2,126,122,126
+3009846,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3,220,0,4,0,158,0,14,8,0,0,0,0,0,3,0,0,0,0,187,1,3,191,187,191
+3009856,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,4,220,0,4,0,153,0,11,5,0,1,0,0,1,6,0,0,0,0,181,1,4,186,181,186
+3009866,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,5,220,0,0,1,159,0,19,11,0,0,1,0,0,4,0,0,0,0,195,1,1,197,195,197
+3009876,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,6,220,0,1,0,156,0,13,7,0,0,0,0,0,5,0,0,0,0,182,0,2,184,182,184
+3010446,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,1,220,0,3,1,128,0,28,15,0,1,0,0,0,2,0,0,0,0,178,2,8,188,178,188
+3010456,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,2,78,0,3,0,48,0,5,4,0,0,0,0,0,3,0,0,0,0,63,0,1,64,63,64
+3011376,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,1,220,0,1,0,159,0,24,8,0,1,0,0,0,4,0,0,0,0,197,0,3,200,197,200
+3011386,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,2,220,0,4,0,139,0,21,16,0,0,0,0,0,5,0,0,0,0,185,1,1,187,185,187
+3011406,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,4,190,0,1,0,132,0,14,15,0,0,0,0,1,5,0,0,0,0,168,0,5,173,168,173
+3012566,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25876,U. E. San Miguel Arcángel,1,217,0,0,1,47,0,84,25,0,0,0,0,2,8,0,0,0,0,167,4,5,176,167,176
+3012576,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,1,220,0,0,0,24,0,150,24,0,0,2,0,1,2,0,0,0,0,203,4,4,211,203,211
+3012586,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,2,132,0,0,0,18,0,80,13,0,0,0,0,1,7,0,0,0,0,119,1,8,128,119,128
+3012686,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,10,220,0,1,3,89,0,68,16,0,0,0,0,1,10,0,0,0,0,188,1,4,193,188,193
+3012716,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,13,220,0,1,3,72,0,81,12,0,0,0,0,1,11,0,0,0,0,181,2,2,185,181,185
+3013506,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,1,220,0,2,0,36,0,113,24,0,0,0,0,2,4,0,0,0,0,181,3,8,192,181,192
+3013516,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,2,220,0,1,0,32,0,129,23,0,0,0,0,1,4,0,0,0,0,190,2,7,199,190,199
+3013526,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,3,139,0,0,0,16,0,68,18,0,0,1,0,0,4,0,0,0,0,107,7,4,118,107,118
+3013546,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,2,220,0,1,0,76,0,62,21,0,0,0,0,1,12,0,0,0,0,173,4,7,184,173,184
+3013556,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,3,220,0,3,2,61,0,79,26,0,0,4,0,1,3,0,0,0,0,179,3,4,186,179,186
+3013566,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,4,220,0,1,3,70,0,76,19,0,2,0,0,2,13,0,0,0,0,186,7,3,196,186,196
+3013576,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,5,217,0,2,3,64,0,71,21,0,0,0,0,1,7,0,0,0,0,169,4,5,178,169,178
+3014586,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,1,220,0,1,0,53,0,75,30,0,0,0,0,2,10,0,0,0,0,171,3,2,176,171,176
+3014596,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,2,220,0,2,1,54,0,68,35,0,0,0,0,1,18,0,0,0,0,179,2,7,188,179,188
+3014676,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,1,220,0,1,0,98,0,57,19,0,0,0,0,1,15,0,0,0,0,191,2,0,193,191,193
+3014686,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,2,115,0,1,2,46,0,32,10,0,0,0,0,0,7,0,0,0,0,98,1,1,100,98,100
+3015586,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3,220,0,1,4,99,0,59,13,0,0,0,0,0,13,0,0,0,0,189,0,4,193,189,193
+3015596,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,4,220,0,2,0,119,0,52,11,0,1,0,0,1,11,0,0,0,0,197,1,1,199,197,199
+3015606,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,5,220,0,5,2,101,0,59,19,0,0,0,0,0,12,0,0,0,0,198,1,2,201,198,201
+3015616,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,6,220,0,1,0,109,0,64,13,0,0,0,0,2,3,0,0,0,0,192,2,1,195,192,195
+3015626,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,7,220,0,2,0,91,0,61,22,0,1,1,0,1,14,0,0,0,0,193,0,6,199,193,199
+3015636,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,8,220,0,0,0,119,0,50,9,0,0,1,0,1,9,0,0,0,0,189,0,7,196,189,196
+3015656,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,10,220,0,1,0,114,0,57,9,0,1,0,0,0,9,0,0,0,0,191,1,3,195,191,195
+3015686,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,13,220,0,1,5,107,0,47,16,0,0,1,0,0,8,0,0,0,0,185,1,3,189,185,189
+3015706,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,15,220,0,2,4,86,0,68,18,0,0,0,0,0,9,0,0,0,0,187,3,4,194,187,194
+3015716,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,16,220,0,3,1,132,0,36,11,0,0,0,0,1,6,0,0,0,0,190,1,1,192,190,192
+3015726,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,17,220,0,2,2,117,0,48,11,0,0,1,0,1,6,0,0,0,0,188,1,4,193,188,193
+3015736,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,18,220,0,0,1,110,0,57,9,0,0,0,0,0,14,0,0,0,0,191,2,4,197,191,197
+3015746,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,19,220,0,0,3,126,0,34,15,0,1,0,0,0,11,0,0,0,0,190,3,3,196,190,196
+3015756,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,20,135,0,0,0,58,0,37,13,0,0,0,0,0,8,0,0,0,0,116,0,2,118,116,118
+3017796,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,1,220,0,0,1,81,0,55,37,0,1,0,0,1,9,0,0,0,0,185,4,8,197,185,197
+3017806,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,2,155,0,0,0,62,0,37,19,0,0,1,0,0,5,0,0,0,0,124,1,7,132,124,132
+3018166,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,7,220,0,0,2,54,0,107,27,0,0,1,0,0,7,0,0,0,0,198,4,5,207,198,207
+3018176,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,8,220,0,2,1,66,0,80,31,0,0,0,0,1,10,0,0,0,0,191,3,7,201,191,201
+3018286,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25881,U. E. 21 de Septiembre,1,199,0,0,0,24,0,95,35,0,0,0,0,1,5,0,0,0,0,160,4,6,170,160,170
+3018296,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,1,220,0,1,1,17,0,155,19,0,0,1,0,3,4,0,0,0,0,201,1,7,209,201,209
+3018306,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,2,90,0,0,0,6,0,64,3,0,0,2,0,2,4,0,0,0,0,81,5,2,88,81,88
+3019946,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,177,Unidad Educ. Eduardo Lopez O E. Don Bosco,9,220,0,3,2,76,0,59,35,0,1,0,0,4,16,0,0,0,0,196,3,6,205,196,205
+3020016,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,1,28,0,0,1,16,0,1,1,0,0,0,0,0,2,0,0,0,0,21,0,0,21,21,21
+3020436,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3,235,0,2,0,145,0,26,23,0,2,0,0,0,3,0,0,0,0,201,1,3,205,201,205
+3021976,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,5,220,0,1,2,39,0,103,33,0,1,1,0,0,9,0,0,0,0,189,3,1,193,189,193
+3021996,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26321,U. E. Bolivia Holanda,1,54,0,6,1,14,0,18,6,0,1,0,0,0,2,0,0,0,0,48,1,1,50,48,50
+3022206,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26441,U. E. Lía Rivera de Guzmán,1,32,0,1,0,23,0,3,1,0,0,0,0,0,0,0,0,0,0,28,0,0,28,28,28
+3022216,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,1,220,0,6,0,162,0,11,6,0,1,0,0,0,4,0,0,0,0,190,0,0,190,190,190
+3022226,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,2,220,0,5,0,147,0,16,9,0,0,0,0,0,0,0,0,0,0,177,1,3,181,177,181
+3023216,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25890,U. E. San Andrés,1,173,0,1,0,26,0,85,25,0,0,0,0,1,6,0,0,0,0,144,4,1,149,144,149
+3024506,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26147,U.E. Prof. Jaime Alfonso Escalante Gutierrez,1,220,0,4,0,103,0,67,15,0,2,0,0,2,11,0,0,0,0,204,3,8,215,204,215
+3024526,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26148,U.E. Ana María Romero de Campero,1,232,0,2,4,55,0,108,31,0,4,0,0,2,5,0,0,0,0,211,3,11,225,211,225
+3040266,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,26151,U.E. Técnico Humanístico San Rafael,1,18,0,0,0,7,0,6,4,0,0,0,0,0,0,0,0,0,0,17,1,0,18,17,18
+3040636,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),1,220,0,3,0,83,0,28,57,0,4,3,0,2,7,0,0,0,4,191,1,2,194,191,194
+3040646,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),2,177,0,6,0,71,0,16,41,0,2,7,0,4,0,0,0,0,2,149,2,3,154,149,154
+3040666,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,2,62,0,1,0,23,0,9,10,0,0,1,0,0,1,0,0,0,3,48,1,4,53,48,53
+3041896,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,9,Quillacollo,4,Vinto,959,Vinto,26464,U. E. Carmen Rosa Salguero,1,66,0,1,0,15,0,27,1,0,0,0,7,0,0,5,0,0,0,56,1,1,58,56,58
+3045436,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,1,220,0,3,9,12,0,70,76,0,0,0,0,3,5,0,0,0,0,178,8,4,190,178,190
+3047846,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,3,220,0,4,15,58,0,24,47,0,0,0,0,6,2,0,0,0,30,186,4,3,193,186,193
+3047866,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,5,220,0,5,15,48,0,38,43,0,0,0,0,4,2,0,0,0,28,183,3,2,188,183,188
+3048356,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,5,220,0,9,3,69,0,52,21,0,0,0,0,7,1,0,0,0,15,177,5,10,192,177,192
+3051046,ALCALDESA/ALCALDE,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,7,220,0,6,7,33,0,48,57,0,0,0,0,6,2,0,0,0,22,181,4,9,194,181,194
+3000856,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,5,220,0,7,0,121,0,15,3,0,0,0,0,0,2,0,0,0,0,148,18,3,169,148,169
+3000866,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26439,U. E. Adventista Cochabamba,6,220,0,0,0,136,0,15,4,0,1,1,0,0,2,0,0,0,0,159,11,3,173,159,173
+3001026,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,1,220,0,8,1,125,0,13,4,0,2,2,0,0,4,0,0,0,0,159,17,2,178,159,178
+3001036,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,2,220,0,6,0,131,0,20,3,0,0,2,0,1,0,0,0,0,0,163,9,2,174,163,174
+3001056,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,4,220,0,1,1,138,0,15,5,0,0,0,0,1,2,0,0,0,0,163,20,2,185,163,185
+3001066,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,5,220,0,4,0,115,0,15,6,0,1,0,0,1,4,0,0,0,0,146,18,3,167,146,167
+3001076,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,6,220,0,6,0,141,0,9,6,0,2,0,0,1,0,0,0,0,0,165,15,1,181,165,181
+3001086,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,7,220,0,3,1,126,0,13,5,0,0,0,0,0,1,0,0,0,0,149,17,2,168,149,168
+3001096,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,8,220,0,1,0,119,0,13,4,0,1,0,0,7,2,0,0,0,0,147,23,0,170,147,170
+3001116,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,10,220,0,1,1,121,0,12,8,0,2,0,0,1,7,0,0,0,0,153,23,1,177,153,177
+3001136,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,12,220,0,2,0,131,0,12,4,0,0,0,0,1,0,0,0,0,0,150,18,3,171,150,171
+3001146,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,13,220,0,5,0,110,0,16,0,0,0,1,0,10,1,0,0,0,0,143,23,2,168,143,168
+3001166,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,140,Colegio La Salle,15,193,0,4,1,101,0,8,11,0,3,2,0,0,2,0,0,0,0,132,9,2,143,132,143
+3001176,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26446,Colegio Evangelico Emanuel,1,83,0,1,0,57,0,4,1,0,0,0,0,0,4,0,0,0,0,67,13,0,80,67,80
+3001306,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25891,U. E. Cochabamba,1,90,0,3,0,41,0,9,3,0,0,0,0,0,2,0,0,0,0,58,14,0,72,58,72
+3001616,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26448,Universidad Latinoamericana,1,48,0,1,0,28,0,2,1,0,0,1,0,0,1,0,0,0,0,34,7,4,45,34,45
+3001696,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,8,220,0,7,0,114,0,15,5,0,1,1,0,0,2,0,0,0,0,145,21,6,172,145,172
+3001706,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,9,220,0,3,0,112,0,28,6,0,1,1,0,0,7,0,0,0,0,158,22,2,182,158,182
+3001726,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,142,Colegio Abaroa,11,220,0,3,0,130,0,17,7,0,0,1,0,0,0,0,0,0,0,158,19,5,182,158,182
+3003246,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,9,220,0,9,0,125,0,17,6,0,0,0,0,0,3,0,0,0,0,160,12,6,178,160,178
+3003326,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,136,Colegio Cristo Rey,17,220,0,2,0,133,0,18,6,0,0,1,0,1,1,0,0,0,0,162,30,4,196,162,196
+3003506,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26443,Centro de Educación Alternativa Don Bosco C,1,25,0,0,0,15,0,4,1,0,0,0,0,0,2,0,0,0,0,22,2,0,24,22,24
+3004076,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,1,220,0,5,1,136,0,12,9,0,0,1,0,0,2,0,0,0,0,166,22,5,193,166,193
+3004086,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,2,220,0,4,0,133,0,29,8,0,1,1,0,0,5,0,0,0,0,181,5,3,189,181,189
+3004096,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,3,220,0,5,0,126,0,13,7,0,3,1,0,0,4,0,0,0,0,159,18,4,181,159,181
+3004106,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,4,220,0,2,0,135,0,14,8,0,0,0,0,1,3,0,0,0,0,163,21,2,186,163,186
+3004116,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,5,220,0,6,0,126,0,15,4,0,1,1,0,0,3,0,0,0,0,156,19,3,178,156,178
+3004136,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,115,Colegio Jaime Escalante,7,229,0,3,0,133,0,7,1,0,1,1,0,0,3,0,0,0,0,149,24,3,176,149,176
+3004346,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,2,220,0,6,0,141,0,19,4,0,0,1,0,1,2,0,0,0,0,174,13,2,189,174,189
+3004356,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25867,U. E. Isaac Attie,3,53,0,0,0,29,0,4,3,0,0,0,0,1,1,0,0,0,0,38,8,0,46,38,46
+3004366,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,1,220,0,4,0,99,0,29,18,0,0,0,0,2,5,0,0,0,0,157,30,4,191,157,191
+3004376,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25871,U. E. Oscar Alfaro,2,220,0,6,1,111,0,25,13,0,1,0,0,1,3,0,0,0,0,161,28,2,191,161,191
+3005726,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,1,220,0,0,0,83,0,46,11,0,2,0,0,0,10,0,0,0,0,152,37,1,190,152,190
+3005736,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25892,U. E. Bolivia Japón Tarde,2,196,0,0,0,81,0,41,9,0,0,0,0,0,5,0,0,0,0,136,26,2,164,136,164
+3006166,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26449,Kinder San Joaquín,1,39,0,0,0,23,0,4,0,0,0,0,0,0,1,0,0,0,0,28,8,0,36,28,36
+3006866,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26440,Colegio Despertad Montessori (Secundario),1,10,0,0,0,7,0,0,1,0,1,0,0,0,0,0,0,0,0,9,1,0,10,9,10
+3006956,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,9,220,0,3,0,123,0,12,7,0,3,0,0,1,3,0,0,0,0,152,30,5,187,152,187
+3006976,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,122,Colegio Venezuela,11,220,0,4,0,121,0,18,7,0,1,0,0,0,4,0,0,0,0,155,27,1,183,155,183
+3007116,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,2,220,0,3,1,98,0,38,7,0,0,1,0,1,6,0,0,0,0,155,18,1,174,155,174
+3007146,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,5,220,0,4,1,96,0,36,10,0,0,0,0,2,10,0,0,0,0,159,20,2,181,159,181
+3007166,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,158,Escuela Bolivar,7,106,0,1,1,48,0,17,1,0,0,0,0,0,3,0,0,0,0,71,16,0,87,71,87
+3008086,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25878,U. E. Vikinga Boliviana,1,162,0,0,1,42,0,45,10,0,0,1,0,0,5,0,0,0,0,104,19,2,125,104,125
+3008476,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26444,U.E. Mariscal Otto Felipe Braum,1,204,0,3,0,106,0,19,13,0,0,1,0,3,5,0,0,0,0,150,28,6,184,150,184
+3008976,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,3,220,0,7,0,126,0,24,12,0,0,0,0,0,4,0,0,0,0,173,16,4,193,173,193
+3008986,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,4,220,0,5,2,125,0,20,9,0,0,0,0,0,3,0,0,0,0,164,22,3,189,164,189
+3008996,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,5,220,0,2,0,118,0,30,4,0,0,0,0,0,6,0,0,0,0,160,25,6,191,160,191
+3009006,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25920,U. E. Cosmos,6,22,0,0,0,14,0,3,3,0,0,0,0,0,0,0,0,0,0,20,1,1,22,20,22
+3009596,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,1,220,0,2,0,132,0,26,12,0,1,0,0,1,6,0,0,0,0,180,8,2,190,180,190
+3009606,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,2,220,0,5,1,148,0,16,6,0,1,0,0,0,4,0,0,0,0,181,15,8,204,181,204
+3009636,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,5,220,0,4,0,143,0,19,14,0,2,0,0,1,2,0,0,0,0,185,7,5,197,185,197
+3009646,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,6,220,0,4,2,137,0,17,10,0,0,0,0,1,3,0,0,0,0,174,22,2,198,174,198
+3009656,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,7,220,0,4,0,121,0,21,15,0,1,0,0,1,9,0,0,0,0,172,22,2,196,172,196
+3009666,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,232,Unidad Educativa Facundo Quiroga,8,38,0,1,0,24,0,2,1,0,0,0,0,0,2,0,0,0,0,30,6,0,36,30,36
+3009676,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26445,kinder Branko Petricevic B,1,132,0,2,0,85,0,17,6,0,0,0,0,0,3,0,0,0,0,113,11,2,126,113,126
+3009846,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,3,220,0,7,0,136,0,13,7,0,0,0,0,0,2,0,0,0,0,165,23,3,191,165,191
+3009856,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,4,220,0,5,0,138,0,10,7,0,2,0,0,2,6,0,0,0,0,170,15,1,186,170,186
+3009866,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,5,220,0,1,1,134,0,18,13,0,2,0,0,0,2,0,0,0,0,171,24,2,197,171,197
+3009876,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25872,U. E. Jorge Vásquez,6,220,0,6,0,131,0,10,10,0,2,0,0,0,5,0,0,0,0,164,18,2,184,164,184
+3010446,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,1,220,0,4,0,95,0,23,16,0,2,0,0,0,4,0,0,0,0,144,27,17,188,144,188
+3010456,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25883,U. E. Nilo Soruco Arancibia,2,78,0,0,0,41,0,5,8,0,1,0,0,0,3,0,0,0,0,58,5,1,64,58,64
+3011376,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,1,220,0,2,0,140,0,18,10,0,1,0,0,0,4,0,0,0,0,175,22,3,200,175,200
+3011386,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,2,220,0,6,0,120,0,21,18,0,0,0,0,2,5,0,0,0,0,172,13,2,187,172,187
+3011406,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,243,U.E. ADRA Juan XXIII,4,190,0,0,0,120,0,16,12,0,0,0,0,2,3,0,0,0,0,153,18,2,173,153,173
+3012566,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25876,U. E. San Miguel Arcángel,1,217,0,3,0,33,0,81,18,0,0,0,0,2,3,0,0,0,0,140,35,1,176,140,176
+3012576,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,1,220,0,0,1,14,0,136,10,0,1,2,0,0,3,0,0,0,0,167,42,2,211,167,211
+3012586,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26145,U.E. Marina Nuñez del Prado,2,132,0,0,0,14,0,75,10,0,0,1,0,1,6,0,0,0,0,107,21,0,128,107,128
+3012686,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,10,220,0,0,3,65,0,64,10,0,0,1,0,1,6,0,0,0,0,150,41,2,193,150,193
+3012716,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,195,U.E. Humberto Portocarrero,13,220,0,1,4,50,0,79,8,0,0,0,0,2,7,0,0,0,0,151,34,0,185,151,185
+3013506,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,1,220,0,3,0,21,0,96,23,0,1,0,0,3,5,0,0,0,0,152,34,6,192,152,192
+3013516,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,2,220,0,1,0,24,0,119,12,0,1,0,0,1,3,0,0,0,0,161,35,3,199,161,199
+3013526,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25877,U. E. Túpac Katari,3,139,0,1,0,12,0,62,16,0,0,1,0,1,1,0,0,0,0,94,21,3,118,94,118
+3013546,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,2,220,0,5,0,58,0,56,18,0,0,1,0,1,13,0,0,0,0,152,28,4,184,152,184
+3013556,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,3,220,0,2,3,47,0,69,14,0,0,3,0,1,3,0,0,0,0,142,41,3,186,142,186
+3013566,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,4,220,0,1,2,52,0,71,19,0,2,1,0,2,10,0,0,0,0,160,33,3,196,160,196
+3013576,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25899,U. E. El Molino,5,217,0,2,4,53,0,66,14,0,1,1,0,0,4,0,0,0,0,145,29,4,178,145,178
+3014586,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,1,220,0,2,0,38,0,65,27,0,1,2,0,3,7,0,0,0,0,145,31,0,176,145,176
+3014596,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25875,U. E. Peniel,2,220,0,2,2,40,0,76,28,0,0,0,0,1,12,0,0,0,0,161,21,6,188,161,188
+3014676,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,1,220,0,1,0,75,0,56,12,0,2,0,0,2,10,0,0,0,0,158,34,1,193,158,193
+3014686,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25900,U. E. Canaán,2,115,0,1,3,40,0,34,11,0,0,0,0,0,6,0,0,0,0,95,4,1,100,95,100
+3015586,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,3,220,0,4,3,79,0,56,7,0,0,0,0,0,11,0,0,0,0,160,31,2,193,160,193
+3015596,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,4,220,0,1,0,89,0,50,11,0,1,0,0,2,9,0,0,0,0,163,36,0,199,163,199
+3015606,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,5,220,0,3,2,72,0,59,9,0,0,0,0,3,7,0,0,0,0,155,43,3,201,155,201
+3015616,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,6,220,0,1,1,83,0,60,10,0,0,0,0,2,3,0,0,0,0,160,35,0,195,160,195
+3015626,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,7,220,0,3,1,67,0,62,14,0,1,2,0,3,13,0,0,0,0,166,27,21,214,166,214
+3015636,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,8,220,0,1,0,99,0,45,5,0,1,1,0,3,8,0,0,0,0,163,28,5,196,163,196
+3015656,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,10,220,0,0,1,90,0,50,5,0,4,0,0,1,7,0,0,0,0,158,33,4,195,158,195
+3015686,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,13,220,0,1,4,83,0,40,8,0,0,1,0,0,8,0,0,0,0,145,42,2,189,145,189
+3015706,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,15,220,0,2,5,72,0,64,8,0,0,0,0,1,10,0,0,0,0,162,29,3,194,162,194
+3015716,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,16,220,0,4,2,101,0,37,10,0,0,0,0,0,4,0,0,0,0,158,33,1,192,158,192
+3015726,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,17,220,0,3,2,95,0,44,9,0,0,1,0,0,5,0,0,0,0,159,30,4,193,159,193
+3015736,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,18,220,0,1,2,89,0,51,7,0,0,0,0,0,9,0,0,0,0,159,34,4,197,159,197
+3015746,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,19,220,0,3,3,104,0,39,9,0,0,0,0,0,8,0,0,0,0,166,28,2,196,166,196
+3015756,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,171,Colegio Martin Cardenas,20,135,0,1,0,52,0,36,8,0,0,0,0,1,4,0,0,0,0,102,16,0,118,102,118
+3017796,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,1,220,0,1,1,59,0,53,27,0,0,0,0,2,7,0,0,0,0,150,40,7,197,150,197
+3017806,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25479,Hogar Comunitario Disneylandia,2,155,0,0,0,38,0,39,15,0,0,0,0,0,7,0,0,0,0,99,27,6,132,99,132
+3018166,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,7,220,0,0,1,48,0,105,14,0,0,1,0,0,2,0,0,0,0,171,32,4,207,171,207
+3018176,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,246,Unidad Educativa Antonio Diez,8,220,0,2,1,52,0,68,21,0,0,0,0,0,7,0,0,0,0,151,45,5,201,151,201
+3018286,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25881,U. E. 21 de Septiembre,1,199,0,3,1,18,0,89,16,0,0,1,0,2,7,0,0,0,0,137,30,3,170,137,170
+3018296,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,1,220,0,0,0,15,0,133,8,0,0,0,0,0,2,0,0,0,0,158,49,2,209,158,209
+3018306,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26324,Sede Social Alto Higuerani,2,90,0,0,0,4,0,54,1,0,0,0,0,0,3,0,0,0,0,62,26,0,88,62,88
+3019946,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,177,Unidad Educ. Eduardo Lopez O E. Don Bosco,9,220,0,1,2,59,0,51,22,0,1,1,0,3,6,0,0,0,0,146,57,2,205,146,205
+3020016,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25884,U. E. Alcides Arguedas A.,1,28,0,1,0,13,0,2,0,0,0,0,0,0,2,0,0,0,0,18,3,0,21,18,21
+3020436,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25921,U. E. Ave María,3,235,0,2,0,116,0,28,21,0,1,0,0,0,2,0,0,0,0,170,32,3,205,170,205
+3021976,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25879,U. E. San Francisco Javier,5,220,0,1,2,36,0,101,21,0,2,1,0,1,5,0,0,0,0,170,23,0,193,170,193
+3021996,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26321,U. E. Bolivia Holanda,1,54,0,6,2,10,0,15,4,0,1,0,0,0,2,0,0,0,0,40,10,0,50,40,50
+3022206,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26441,U. E. Lía Rivera de Guzmán,1,32,0,0,0,21,0,1,0,0,0,0,0,0,0,0,0,0,0,22,6,0,28,22,28
+3022216,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,1,220,0,8,0,142,0,8,6,0,2,0,0,2,3,0,0,0,0,171,17,2,190,171,190
+3022226,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,192,Colegio Irlandes,2,220,0,4,0,131,0,11,5,0,0,0,0,3,0,0,0,0,0,154,25,2,181,154,181
+3023216,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,25890,U. E. San Andrés,1,173,0,1,0,19,0,74,14,0,0,0,0,0,4,0,0,0,0,112,36,1,149,112,149
+3024506,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26147,U.E. Prof. Jaime Alfonso Escalante Gutierrez,1,220,0,2,0,87,0,61,6,0,1,1,0,1,7,0,0,0,0,166,44,5,215,166,215
+3024526,CONCEJALES,32,Bolivia,3,Cochabamba,1,Cercado,1,Cochabamba,821,Cochabamba,26148,U.E. Ana María Romero de Campero,1,232,0,1,2,41,0,93,26,0,4,0,0,1,5,0,0,0,0,173,42,10,225,173,225
+3040266,CONCEJALES,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,955,Ciudad del Niño,26151,U.E. Técnico Humanístico San Rafael,1,18,0,0,0,7,0,7,3,0,0,0,0,0,0,0,0,0,0,17,1,0,18,17,18
+3040636,CONCEJALES,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),1,220,0,3,0,84,0,23,45,0,2,2,0,2,8,0,0,0,4,173,18,3,194,173,194
+3040646,CONCEJALES,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,30085,U.E. San Rafael (Temporal),2,177,0,4,0,68,0,15,30,0,2,8,0,4,1,0,0,0,3,135,16,3,154,135,154
+3040666,CONCEJALES,32,Bolivia,3,Cochabamba,9,Quillacollo,3,Tiquipaya,957,Linde - Chiquicollo,25904,U. E. Titos Linde,2,62,0,1,0,20,0,7,5,0,1,2,0,0,1,0,0,0,3,40,9,4,53,40,53
+3041896,CONCEJALES,32,Bolivia,3,Cochabamba,9,Quillacollo,4,Vinto,959,Vinto,26464,U. E. Carmen Rosa Salguero,1,66,0,0,0,15,0,24,1,0,0,0,4,1,0,3,0,0,0,48,8,2,58,48,58
+3045436,CONCEJALES,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,971,Sacaba,26452,U.E. José Nicolás Maldonado,1,220,0,5,5,16,0,67,64,0,0,0,0,5,5,0,0,0,0,167,19,4,190,167,190
+3047846,CONCEJALES,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,3,220,0,7,17,59,0,22,36,0,0,0,0,6,2,0,0,0,20,169,21,3,193,169,193
+3047866,CONCEJALES,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,973,Quintanilla,1011,Unidad Educativa Kanata,5,220,0,4,14,50,0,31,37,0,0,0,0,5,2,0,0,0,24,167,18,3,188,167,188
+3048356,CONCEJALES,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,974,Pacata,1054,Unidad Educativa Edmundo Bojanowski,5,220,0,10,1,63,0,50,17,0,0,0,0,4,1,0,0,0,15,161,23,8,192,161,192
+3051046,CONCEJALES,32,Bolivia,3,Cochabamba,10,Chapare,1,Sacaba,3011,Chacacollo,1014,Escuela Copacabana,7,220,0,6,5,33,0,43,55,0,0,0,0,7,2,0,0,0,15,166,25,3,194,166,194
