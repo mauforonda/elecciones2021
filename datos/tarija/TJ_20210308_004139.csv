@@ -1,0 +1,93 @@
+CODIGO_MESA,DESCRIPCION,CODIGO_PAIS,NOMBRE_PAIS,CODIGO_DEPARTAMENTO,NOMBRE_DEPARTAMENTO,CODIGO_PROVINCIA,NOMBRE_PROVINCIA,CODIGO_SECCION,NOMBRE_MUNICIPIO,CODIGO_LOCALIDAD,NOMBRE_LOCALIDAD,CODIGO_RECINTO,NOMBRE_RECINTO,NUMERO_MESA,INSCRITOS_HABILITADOS,BASTA,COMUNIDAD DE TODOS,FPV,UNIDOS POR TARIJA,ISA,MT,MI ARBOL,MAS-IPSP,MTS,PAN-BOL,TPT,UCS,VOTO_VALIDO,VOTO_BLANCO,VOTO_NULO,VOTO_EMITIDO,VOTO_VALIDO_SISTEMA,VOTO_EMITIDO_SISTEMA
+6001802,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31051,Mercado La Loma (Temporal),2,223,0,43,0,78,13,0,0,47,0,0,1,0,182,1,6,189,182,189
+6001812,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),1,220,0,28,1,81,6,0,0,63,0,0,3,0,182,1,5,188,182,188
+6001822,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),2,220,0,26,2,98,7,0,0,49,2,0,1,0,185,3,3,191,185,191
+6001832,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),3,220,0,37,1,87,2,0,0,43,4,0,2,0,176,3,7,186,176,186
+6001862,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),6,195,0,42,0,62,2,0,0,52,0,0,2,0,160,1,6,167,160,167
+6002752,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),2,220,0,22,0,63,2,0,0,84,2,0,0,0,173,7,8,188,173,188
+6002772,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),4,220,0,16,1,76,7,0,0,74,1,0,4,0,179,2,5,186,179,186
+6004422,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,3,220,0,54,0,81,5,0,0,46,0,0,1,0,187,3,6,196,187,196
+6004462,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,7,220,0,41,0,82,7,0,0,28,1,0,1,0,160,2,26,188,160,188
+6006712,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,3,220,0,53,0,60,3,0,0,44,1,0,1,0,162,3,2,167,162,167
+6006802,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,12,66,0,12,0,18,0,0,0,17,0,0,0,0,47,2,0,49,47,49
+6007152,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,2,220,0,24,1,89,5,0,0,51,4,0,1,0,175,6,16,197,175,197
+6007962,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),1,220,0,33,0,103,3,0,0,41,2,0,1,0,183,2,5,190,183,190
+6007972,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),2,220,0,37,0,101,3,0,0,39,0,0,1,0,181,4,5,190,181,190
+6008002,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),5,220,0,49,0,95,5,0,0,35,5,0,1,0,190,1,3,194,190,194
+6008042,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,3,220,0,42,1,78,4,0,0,56,3,0,0,0,184,4,8,196,184,196
+6008072,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,1,220,0,29,0,87,8,0,0,53,5,0,3,0,185,1,4,190,185,190
+6008092,GOBERNADOR(A),32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,3,220,0,52,0,65,5,0,0,55,2,0,1,0,180,5,4,189,180,189
+6001802,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31051,Mercado La Loma (Temporal),2,223,0,34,0,58,7,0,0,38,2,0,2,0,141,44,4,189,141,189
+6001812,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),1,220,0,22,0,54,6,0,0,49,0,0,2,0,133,50,5,188,133,188
+6001822,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),2,220,0,19,0,87,9,0,0,37,6,0,0,0,158,33,0,191,158,191
+6001832,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),3,220,0,23,0,71,4,0,0,39,5,0,5,0,147,36,3,186,147,186
+6001862,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),6,195,0,31,0,53,5,0,0,44,1,0,2,0,136,26,5,167,136,167
+6002752,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),2,220,0,17,0,49,2,0,0,74,4,0,2,0,148,33,7,188,148,188
+6002772,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),4,220,0,15,0,65,2,0,0,54,2,0,3,0,141,41,4,186,141,186
+6004422,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,3,220,0,46,0,69,8,0,0,36,2,0,4,0,165,26,5,196,165,196
+6004462,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,7,220,0,27,0,70,11,0,0,22,3,0,3,0,136,23,29,188,136,188
+6006712,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,3,220,0,39,0,56,5,0,0,43,3,0,2,0,148,16,3,167,148,167
+6006802,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,12,66,0,13,0,14,1,0,0,18,0,0,0,0,46,3,0,49,46,49
+6007152,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,2,220,0,24,0,75,7,0,0,41,3,0,3,0,153,33,11,197,153,197
+6007962,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),1,220,0,30,0,88,6,0,0,27,4,0,1,0,156,32,2,190,156,190
+6007972,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),2,220,0,35,0,77,10,0,0,33,0,0,3,0,158,29,3,190,158,190
+6008002,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),5,220,0,36,0,77,10,0,0,27,5,0,3,0,158,34,2,194,158,194
+6008042,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,3,220,0,34,0,68,3,0,0,45,5,0,2,0,157,33,6,196,157,196
+6008072,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,1,220,0,25,0,78,7,0,0,38,7,0,3,0,158,28,4,190,158,190
+6008092,ASAMBLEISTA TERRITORIO,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,3,220,0,42,0,58,5,0,0,42,2,0,4,0,153,34,2,189,153,189
+6001802,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31051,Mercado La Loma (Temporal),2,223,0,34,0,57,13,0,0,34,2,0,2,0,142,45,2,189,142,189
+6001812,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),1,220,0,20,0,54,6,0,0,47,0,0,2,0,129,56,3,188,129,188
+6001822,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),2,220,0,21,0,85,6,0,0,37,8,0,2,0,159,32,0,191,159,191
+6001832,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),3,220,0,21,0,71,4,0,0,35,6,0,4,0,141,42,3,186,141,186
+6001862,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),6,195,0,28,0,53,5,0,0,42,0,0,5,0,133,31,3,167,133,167
+6002752,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),2,220,0,17,0,49,3,0,0,66,3,0,3,0,141,40,7,188,141,188
+6002772,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),4,220,0,14,0,62,6,0,0,55,2,0,3,0,142,39,5,186,142,186
+6004422,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,3,220,0,48,0,69,7,0,0,35,3,0,4,0,166,25,5,196,166,196
+6004462,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,7,220,0,33,0,68,7,0,0,21,2,0,5,0,136,25,27,188,136,188
+6006712,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,3,220,0,40,0,50,9,0,0,41,2,0,3,0,145,19,3,167,145,167
+6006802,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,79,U.E. San Geronimo,12,66,0,10,0,16,1,0,0,18,0,0,0,0,45,4,0,49,45,49
+6007152,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,83,U.E. San Blas,2,220,0,22,0,79,5,0,0,39,3,0,0,0,148,41,8,197,148,197
+6007962,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),1,220,0,30,0,82,5,0,0,27,4,0,4,0,152,36,2,190,152,190
+6007972,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),2,220,0,34,0,81,11,0,0,33,0,0,3,0,162,25,3,190,162,190
+6008002,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),5,220,0,36,0,76,12,0,0,24,6,0,3,0,157,36,1,194,157,194
+6008042,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,25548,Centro de Capacitacion Municipal,3,220,0,29,0,69,4,0,0,44,8,0,0,0,154,36,6,196,154,196
+6008072,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,1,220,0,26,0,71,7,0,0,37,9,0,4,0,154,32,4,190,154,190
+6008092,ASAMBLEISTA POBLACION,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,3,220,0,41,0,51,6,0,0,43,2,0,0,0,143,44,2,189,143,189
+6001816,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),1,220,3,16,0,100,0,0,0,44,13,1,4,0,181,1,6,188,181,188
+6001826,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),2,220,8,15,0,102,0,0,0,40,20,1,0,0,186,2,3,191,186,191
+6001836,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),3,220,1,13,0,100,0,0,0,37,22,0,3,0,176,3,7,186,176,186
+6001856,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),5,220,2,12,0,119,0,0,0,37,11,1,2,0,184,2,6,192,184,192
+6001866,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),6,195,2,19,0,83,0,0,0,30,18,1,4,0,157,2,8,167,157,167
+6002756,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),2,220,2,15,0,69,0,0,0,67,20,2,2,0,177,4,7,188,177,188
+6002776,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),4,220,4,20,0,80,0,0,0,50,21,2,1,0,178,1,7,186,178,186
+6004406,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,1,220,0,18,0,105,0,0,0,35,20,1,4,0,183,3,2,188,183,188
+6004416,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,2,220,1,23,0,115,0,0,0,26,17,2,3,0,187,1,1,189,187,189
+6004426,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,3,220,5,35,0,104,0,0,0,29,11,1,3,0,188,2,6,196,188,196
+6004456,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6,220,5,18,0,117,0,0,0,30,19,0,4,0,193,2,2,197,193,197
+6004466,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,7,220,1,20,0,102,0,0,0,26,13,1,3,0,166,0,23,189,166,189
+6006626,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder) (Temporal),1,220,3,18,0,120,0,0,0,27,12,0,3,0,183,3,3,189,183,189
+6006666,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder) (Temporal),5,220,5,13,0,90,0,0,0,48,23,1,2,0,182,3,7,192,182,192
+6007966,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),1,220,2,20,0,125,0,0,0,25,9,0,2,0,183,4,3,190,183,190
+6007976,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),2,220,2,20,0,109,0,0,0,36,15,2,1,0,185,1,4,190,185,190
+6008006,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),5,220,2,19,0,123,0,0,0,23,18,0,5,0,190,3,1,194,190,194
+6008096,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,3,220,5,33,0,93,0,0,0,41,10,0,0,0,182,3,4,189,182,189
+6008106,ALCALDESA/ALCALDE,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,4,220,6,15,0,85,0,0,0,42,15,2,3,0,168,8,5,181,168,181
+6001816,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),1,220,6,15,0,63,0,0,0,40,8,2,4,0,138,45,5,188,138,188
+6001826,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),2,220,7,14,0,83,0,0,0,32,18,3,0,0,157,34,0,191,157,191
+6001836,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),3,220,5,11,0,76,0,0,0,33,16,0,4,0,145,38,3,186,145,186
+6001856,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),5,220,2,14,0,98,0,0,0,36,9,0,1,0,160,29,3,192,160,192
+6001866,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31052,U.E. Fe y Alegría Inicial (Kinder) (Temporal),6,195,4,14,0,67,0,0,0,26,16,2,4,0,133,29,5,167,133,167
+6002756,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),2,220,5,13,0,57,0,0,0,59,15,1,0,0,150,31,7,188,150,188
+6002776,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31053,Coliseo 15 de noviembre (Temporal),4,220,4,11,0,64,0,0,0,48,10,2,2,0,141,37,8,186,141,186
+6004406,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,1,220,2,16,0,79,0,0,0,32,11,1,5,0,146,39,3,188,146,188
+6004416,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,2,220,9,22,0,83,0,0,0,29,12,2,4,0,161,27,1,189,161,189
+6004426,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,3,220,6,36,0,77,0,0,0,30,11,3,5,0,168,22,6,196,168,196
+6004456,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,6,220,8,20,0,84,0,0,0,30,10,1,7,0,160,35,2,197,160,197
+6004466,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,70,U.E. Juana Azurduy De Padilla,7,220,0,20,0,80,0,0,0,26,12,0,7,0,145,25,19,189,145,189
+6006626,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder) (Temporal),1,220,3,15,0,91,0,0,0,21,10,0,4,0,144,44,1,189,144,189
+6006666,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31058,U.E. San Jorge Inicial (Kinder) (Temporal),5,220,5,12,0,68,0,0,0,46,13,2,1,0,147,41,4,192,147,192
+6007966,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),1,220,4,20,0,94,0,0,0,21,11,0,1,0,151,38,1,190,151,190
+6007976,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),2,220,5,23,0,90,0,0,0,31,10,2,2,0,163,25,2,190,163,190
+6008006,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,31060,U.E. Bolivia Inicial (Kinder) (Temporal),5,220,5,20,0,94,0,0,0,20,15,0,7,0,161,33,0,194,161,194
+6008096,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,3,220,5,27,0,72,0,0,0,37,11,0,0,0,152,35,2,189,152,189
+6008106,CONCEJALES,32,Bolivia,6,Tarija,1,Cercado,1,Tarija,2680,Tarija,92,Salon Capacitacion Barrio Catedral,4,220,10,14,0,68,0,0,0,39,11,3,1,0,146,33,2,181,146,181
