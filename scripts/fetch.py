@@ -5,8 +5,11 @@ import pandas as pd
 from pandas.errors import EmptyDataError
 import csv
 import os
+from time import sleep
 
 def download(departamento):
+
+    sleep(3)
     
     headers = {
         'authority': 'computo.oep.org.bo',
