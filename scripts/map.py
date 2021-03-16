@@ -42,6 +42,8 @@ def fix_maps(map_filename):
 def draw_map(candidatura, map_name):
 
     locations = ubicaciones.copy()
+    if candidatura == 'ALCALDESA/ALCALDE':
+        locations = locations[~locations.municipio.str.contains('AIOC')]
     votos = votacion.copy()
 
     votos.insert(0, 'id', (votos.CODIGO_LOCALIDAD.astype(str) + votos.CODIGO_RECINTO.astype(str)).astype(int))
